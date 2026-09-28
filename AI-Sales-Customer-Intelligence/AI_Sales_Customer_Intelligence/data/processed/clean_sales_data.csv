@@ -1,0 +1,1501 @@
+Order_ID,Customer_ID,Order_Date,Product,Category,Quantity,Unit_Price,Discount,Region,Payment_Method,Customer_Type,Revenue,Month,Month_Name,Quarter,Year,Day_of_Week
+ORD00068,CUST0275,2025-01-01,Monitor,Electronics,1,14661.49,0.05,South,Debit Card,Returning,13928.42,1,January,1,2025,Wednesday
+ORD00193,CUST0130,2025-01-01,Backpack,Accessories,3,2081.7,0.0,East,UPI,Returning,6245.1,1,January,1,2025,Wednesday
+ORD00332,CUST0222,2025-01-02,Backpack,Accessories,4,2008.38,0.1,North,Credit Card,Returning,7230.17,1,January,1,2025,Thursday
+ORD00928,CUST0007,2025-01-02,Laptop,Electronics,2,61056.67,0.1,North,UPI,VIP,109902.01,1,January,1,2025,Thursday
+ORD00575,CUST0229,2025-01-02,Laptop,Electronics,4,68387.48,0.0,South,Debit Card,New,273549.92,1,January,1,2025,Thursday
+ORD01323,CUST0249,2025-01-02,Office Chair,Furniture,4,7756.16,0.1,West,UPI,New,27922.18,1,January,1,2025,Thursday
+ORD01205,CUST0234,2025-01-02,Headphones,Electronics,1,3607.23,0.0,North,Net Banking,Returning,3607.23,1,January,1,2025,Thursday
+ORD00882,CUST0044,2025-01-03,Mouse,Accessories,2,885.13,0.0,South,Debit Card,New,1770.26,1,January,1,2025,Friday
+ORD00272,CUST0088,2025-01-03,Mouse,Accessories,3,946.47,0.05,East,Debit Card,New,2697.44,1,January,1,2025,Friday
+ORD00408,CUST0162,2025-01-03,Backpack,Accessories,4,2389.56,0.0,West,Debit Card,New,9558.24,1,January,1,2025,Friday
+ORD01145,CUST0251,2025-01-03,Smartphone,Electronics,1,29842.64,0.0,North,Net Banking,Returning,29842.64,1,January,1,2025,Friday
+ORD00175,CUST0007,2025-01-03,Monitor,Electronics,4,14133.26,0.1,East,Credit Card,VIP,50879.74,1,January,1,2025,Friday
+ORD00128,CUST0183,2025-01-04,Office Chair,Furniture,4,8623.13,0.1,North,Debit Card,New,31043.27,1,January,1,2025,Saturday
+ORD01248,CUST0223,2025-01-04,Keyboard,Accessories,1,1863.23,0.05,South,Net Banking,VIP,1770.07,1,January,1,2025,Saturday
+ORD00138,CUST0218,2025-01-05,Backpack,Accessories,1,2401.2,0.1,North,Debit Card,New,2161.08,1,January,1,2025,Sunday
+ORD00609,CUST0058,2025-01-05,Laptop,Electronics,3,65410.44,0.0,South,Net Banking,Returning,196231.32,1,January,1,2025,Sunday
+ORD00599,CUST0180,2025-01-05,Laptop,Electronics,4,69245.16,0.1,South,Credit Card,VIP,249282.58,1,January,1,2025,Sunday
+ORD00829,CUST0034,2025-01-05,Keyboard,Accessories,1,1794.83,0.1,South,Debit Card,New,1615.35,1,January,1,2025,Sunday
+ORD00424,CUST0159,2025-01-05,Backpack,Accessories,2,2007.37,0.0,West,Net Banking,Returning,4014.74,1,January,1,2025,Sunday
+ORD00468,CUST0053,2025-01-05,Keyboard,Accessories,3,1768.2,0.1,North,Net Banking,New,4774.14,1,January,1,2025,Sunday
+ORD01397,CUST0111,2025-01-05,Mouse,Accessories,3,951.0,0.0,North,Net Banking,Returning,2853.0,1,January,1,2025,Sunday
+ORD00244,CUST0254,2025-01-05,Smartphone,Electronics,4,29188.79,0.0,East,Debit Card,Returning,116755.16,1,January,1,2025,Sunday
+ORD00427,CUST0078,2025-01-06,Tablet,Electronics,2,21704.39,0.0,North,Net Banking,VIP,43408.78,1,January,1,2025,Monday
+ORD01075,CUST0153,2025-01-06,Smartphone,Electronics,3,31058.83,0.0,West,Credit Card,VIP,93176.49,1,January,1,2025,Monday
+ORD00608,CUST0283,2025-01-06,Laptop,Electronics,3,62442.72,0.1,North,Debit Card,Returning,168595.34,1,January,1,2025,Monday
+ORD00569,CUST0096,2025-01-06,Mouse,Accessories,4,910.58,0.0,South,Net Banking,Returning,3642.32,1,January,1,2025,Monday
+ORD01103,CUST0167,2025-01-07,Backpack,Accessories,2,2019.31,0.0,West,Credit Card,Returning,4038.62,1,January,1,2025,Tuesday
+ORD00681,CUST0246,2025-01-07,Monitor,Electronics,2,12772.05,0.1,South,Credit Card,New,22989.69,1,January,1,2025,Tuesday
+ORD00741,CUST0210,2025-01-07,Monitor,Electronics,3,15051.37,0.0,East,Debit Card,Returning,45154.11,1,January,1,2025,Tuesday
+ORD00103,CUST0165,2025-01-07,Mouse,Accessories,1,883.15,0.0,South,UPI,VIP,883.15,1,January,1,2025,Tuesday
+ORD00156,CUST0270,2025-01-07,Monitor,Electronics,3,12964.24,0.1,North,UPI,Returning,35003.45,1,January,1,2025,Tuesday
+ORD00348,CUST0240,2025-01-08,Laptop,Electronics,1,67839.58,0.15,North,UPI,Returning,57663.64,1,January,1,2025,Wednesday
+ORD00050,CUST0111,2025-01-08,Backpack,Accessories,3,2036.34,0.0,West,Net Banking,Returning,6109.02,1,January,1,2025,Wednesday
+ORD00943,CUST0196,2025-01-08,Office Chair,Furniture,2,8804.11,0.0,West,Debit Card,Returning,17608.22,1,January,1,2025,Wednesday
+ORD01398,CUST0208,2025-01-08,Laptop,Electronics,1,61088.07,0.05,North,Net Banking,New,58033.67,1,January,1,2025,Wednesday
+ORD00633,CUST0043,2025-01-08,Laptop,Electronics,3,61416.14,0.0,North,Debit Card,VIP,184248.42,1,January,1,2025,Wednesday
+ORD00197,CUST0126,2025-01-08,Monitor,Electronics,4,15231.5,0.05,South,Credit Card,Returning,57879.7,1,January,1,2025,Wednesday
+ORD01415,CUST0119,2025-01-08,Keyboard,Accessories,1,1773.51,0.05,North,UPI,New,1684.83,1,January,1,2025,Wednesday
+ORD00033,CUST0272,2025-01-08,Desk,Furniture,2,11893.58,0.05,South,Net Banking,New,22597.8,1,January,1,2025,Wednesday
+ORD00312,CUST0114,2025-01-08,Desk,Furniture,2,11137.71,0.0,North,Net Banking,New,22275.42,1,January,1,2025,Wednesday
+ORD01274,CUST0175,2025-01-09,Mouse,Accessories,4,896.31,0.0,North,Credit Card,New,3585.24,1,January,1,2025,Thursday
+ORD00809,CUST0192,2025-01-09,Headphones,Electronics,2,3667.91,0.1,East,UPI,New,6602.24,1,January,1,2025,Thursday
+ORD00142,CUST0123,2025-01-09,Backpack,Accessories,3,2400.49,0.1,East,Net Banking,Returning,6481.32,1,January,1,2025,Thursday
+ORD00843,CUST0281,2025-01-09,Office Chair,Furniture,4,8056.32,0.05,North,Credit Card,New,30614.02,1,January,1,2025,Thursday
+ORD01268,CUST0077,2025-01-10,Desk,Furniture,3,13167.19,0.05,East,Credit Card,New,37526.49,1,January,1,2025,Friday
+ORD00275,CUST0104,2025-01-10,Headphones,Electronics,4,3765.87,0.05,North,Net Banking,Returning,14310.31,1,January,1,2025,Friday
+ORD01034,CUST0141,2025-01-10,Laptop,Electronics,4,63172.51,0.0,North,Credit Card,New,252690.04,1,January,1,2025,Friday
+ORD01114,CUST0104,2025-01-10,Mouse,Accessories,2,812.7,0.0,South,UPI,Returning,1625.4,1,January,1,2025,Friday
+ORD00591,CUST0118,2025-01-10,Tablet,Electronics,1,23105.18,0.1,East,UPI,Returning,20794.66,1,January,1,2025,Friday
+ORD00428,CUST0235,2025-01-11,Laptop,Electronics,1,71255.5,0.1,East,Net Banking,Returning,64129.95,1,January,1,2025,Saturday
+ORD01167,CUST0207,2025-01-11,Smartphone,Electronics,4,27197.69,0.05,East,Debit Card,VIP,103351.22,1,January,1,2025,Saturday
+ORD00627,CUST0025,2025-01-11,Headphones,Electronics,4,3384.94,0.0,North,Credit Card,Returning,13539.76,1,January,1,2025,Saturday
+ORD00395,CUST0191,2025-01-12,Monitor,Electronics,1,15167.02,0.05,East,UPI,VIP,14408.67,1,January,1,2025,Sunday
+ORD00806,CUST0162,2025-01-12,Mouse,Accessories,1,971.53,0.0,West,UPI,New,971.53,1,January,1,2025,Sunday
+ORD00632,CUST0072,2025-01-12,Office Chair,Furniture,3,8287.03,0.05,North,Debit Card,Returning,23618.04,1,January,1,2025,Sunday
+ORD00032,CUST0001,2025-01-12,Keyboard,Accessories,2,1830.35,0.1,South,Net Banking,Returning,3294.63,1,January,1,2025,Sunday
+ORD00416,CUST0033,2025-01-12,Office Chair,Furniture,2,8029.55,0.05,West,Net Banking,VIP,15256.14,1,January,1,2025,Sunday
+ORD00814,CUST0214,2025-01-12,Backpack,Accessories,4,2236.38,0.0,North,Debit Card,Returning,8945.52,1,January,1,2025,Sunday
+ORD00230,CUST0208,2025-01-12,Tablet,Electronics,2,21659.83,0.1,North,Net Banking,New,38987.69,1,January,1,2025,Sunday
+ORD01182,CUST0187,2025-01-13,Mouse,Accessories,2,857.23,0.0,East,Net Banking,New,1714.46,1,January,1,2025,Monday
+ORD00610,CUST0198,2025-01-13,Smartphone,Electronics,2,28992.66,0.1,East,Net Banking,New,52186.79,1,January,1,2025,Monday
+ORD00251,CUST0138,2025-01-13,Office Chair,Furniture,2,7972.48,0.05,North,Debit Card,New,15147.71,1,January,1,2025,Monday
+ORD01130,CUST0159,2025-01-13,Tablet,Electronics,2,22142.39,0.0,North,Debit Card,Returning,44284.78,1,January,1,2025,Monday
+ORD00070,CUST0178,2025-01-13,Desk,Furniture,2,12116.65,0.05,West,Debit Card,Returning,23021.64,1,January,1,2025,Monday
+ORD00185,CUST0008,2025-01-14,Monitor,Electronics,4,14285.2,0.05,South,Debit Card,New,54283.76,1,January,1,2025,Tuesday
+ORD00031,CUST0147,2025-01-14,Monitor,Electronics,1,14064.67,0.05,East,UPI,New,13361.44,1,January,1,2025,Tuesday
+ORD00811,CUST0106,2025-01-14,Desk,Furniture,1,11844.95,0.15,South,Net Banking,Returning,10068.21,1,January,1,2025,Tuesday
+ORD00869,CUST0196,2025-01-14,Desk,Furniture,1,11345.43,0.05,North,Debit Card,Returning,10778.16,1,January,1,2025,Tuesday
+ORD01000,CUST0267,2025-01-15,Laptop,Electronics,4,66337.0,0.05,East,UPI,New,252080.6,1,January,1,2025,Wednesday
+ORD01420,CUST0221,2025-01-15,Laptop,Electronics,1,60671.72,0.15,South,UPI,New,51570.96,1,January,1,2025,Wednesday
+ORD01402,CUST0177,2025-01-15,Headphones,Electronics,3,3792.61,0.1,North,Debit Card,New,10240.05,1,January,1,2025,Wednesday
+ORD00425,CUST0248,2025-01-15,Mouse,Accessories,1,982.43,0.05,West,Credit Card,New,933.31,1,January,1,2025,Wednesday
+ORD01407,CUST0029,2025-01-15,Mouse,Accessories,1,854.63,0.1,West,Credit Card,Returning,769.17,1,January,1,2025,Wednesday
+ORD00985,CUST0146,2025-01-16,Office Chair,Furniture,4,8659.08,0.0,East,Net Banking,VIP,34636.32,1,January,1,2025,Thursday
+ORD00333,CUST0110,2025-01-16,Mouse,Accessories,1,988.03,0.05,North,Debit Card,VIP,938.63,1,January,1,2025,Thursday
+ORD00406,CUST0013,2025-01-16,Smartphone,Electronics,1,31933.08,0.1,North,Credit Card,New,28739.77,1,January,1,2025,Thursday
+ORD00924,CUST0024,2025-01-16,Tablet,Electronics,3,24094.78,0.0,East,Credit Card,Returning,72284.34,1,January,1,2025,Thursday
+ORD00773,CUST0198,2025-01-16,Keyboard,Accessories,1,1963.96,0.0,West,UPI,New,1963.96,1,January,1,2025,Thursday
+ORD00111,CUST0146,2025-01-17,Keyboard,Accessories,2,1827.55,0.0,North,Credit Card,VIP,3655.1,1,January,1,2025,Friday
+ORD00686,CUST0146,2025-01-17,Headphones,Electronics,3,3758.96,0.0,East,Net Banking,VIP,11276.88,1,January,1,2025,Friday
+ORD00121,CUST0275,2025-01-17,Keyboard,Accessories,4,1910.67,0.15,South,Credit Card,Returning,6496.28,1,January,1,2025,Friday
+ORD01381,CUST0245,2025-01-17,Tablet,Electronics,2,21552.96,0.0,South,Credit Card,VIP,43105.92,1,January,1,2025,Friday
+ORD01303,CUST0004,2025-01-17,Backpack,Accessories,4,2163.04,0.05,West,Net Banking,Returning,8219.55,1,January,1,2025,Friday
+ORD00504,CUST0247,2025-01-18,Desk,Furniture,1,12524.98,0.05,South,Debit Card,Returning,11898.73,1,January,1,2025,Saturday
+ORD00807,CUST0246,2025-01-19,Keyboard,Accessories,3,1689.03,0.05,South,Net Banking,New,4813.74,1,January,1,2025,Sunday
+ORD00469,CUST0069,2025-01-19,Mouse,Accessories,4,951.08,0.0,South,Credit Card,VIP,3804.32,1,January,1,2025,Sunday
+ORD00096,CUST0211,2025-01-19,Laptop,Electronics,1,63410.44,0.1,South,Credit Card,Returning,57069.4,1,January,1,2025,Sunday
+ORD00989,CUST0018,2025-01-19,Backpack,Accessories,1,2391.2,0.05,East,Debit Card,Returning,2271.64,1,January,1,2025,Sunday
+ORD00430,CUST0090,2025-01-19,Backpack,Accessories,4,2094.2,0.0,East,UPI,Returning,8376.8,1,January,1,2025,Sunday
+ORD00646,CUST0106,2025-01-19,Office Chair,Furniture,2,8674.2,0.05,South,UPI,Returning,16480.98,1,January,1,2025,Sunday
+ORD00277,CUST0054,2025-01-20,Laptop,Electronics,2,61132.25,0.15,East,Net Banking,New,103924.82,1,January,1,2025,Monday
+ORD00280,CUST0202,2025-01-20,Mouse,Accessories,2,873.99,0.1,North,UPI,VIP,1573.18,1,January,1,2025,Monday
+ORD00517,CUST0049,2025-01-20,Smartphone,Electronics,2,30080.21,0.15,West,Credit Card,Returning,51136.36,1,January,1,2025,Monday
+ORD00767,CUST0009,2025-01-20,Tablet,Electronics,3,20336.27,0.0,West,UPI,New,61008.81,1,January,1,2025,Monday
+ORD01498,CUST0207,2025-01-20,Smartphone,Electronics,2,29043.46,0.0,North,UPI,VIP,58086.92,1,January,1,2025,Monday
+ORD01373,CUST0061,2025-01-20,Tablet,Electronics,2,20127.85,0.05,South,Net Banking,Returning,38242.91,1,January,1,2025,Monday
+ORD00181,CUST0024,2025-01-20,Monitor,Electronics,1,13568.62,0.0,West,Net Banking,Returning,13568.62,1,January,1,2025,Monday
+ORD00314,CUST0012,2025-01-21,Office Chair,Furniture,4,9330.31,0.05,South,Credit Card,New,35455.18,1,January,1,2025,Tuesday
+ORD01288,CUST0007,2025-01-21,Office Chair,Furniture,3,9099.13,0.05,North,UPI,VIP,25932.52,1,January,1,2025,Tuesday
+ORD00369,CUST0109,2025-01-21,Headphones,Electronics,2,3190.35,0.0,West,UPI,Returning,6380.7,1,January,1,2025,Tuesday
+ORD00160,CUST0195,2025-01-21,Laptop,Electronics,2,60463.75,0.0,East,Net Banking,Returning,120927.5,1,January,1,2025,Tuesday
+ORD01333,CUST0279,2025-01-21,Monitor,Electronics,4,13813.7,0.0,North,Net Banking,New,55254.8,1,January,1,2025,Tuesday
+ORD01198,CUST0074,2025-01-21,Laptop,Electronics,4,71267.76,0.15,North,Credit Card,New,242310.38,1,January,1,2025,Tuesday
+ORD00403,CUST0024,2025-01-21,Laptop,Electronics,4,67633.03,0.0,West,UPI,Returning,270532.12,1,January,1,2025,Tuesday
+ORD01084,CUST0023,2025-01-22,Tablet,Electronics,1,20890.37,0.0,North,Net Banking,Returning,20890.37,1,January,1,2025,Wednesday
+ORD00769,CUST0185,2025-01-22,Office Chair,Furniture,4,8359.57,0.0,East,Net Banking,Returning,33438.28,1,January,1,2025,Wednesday
+ORD00888,CUST0249,2025-01-22,Monitor,Electronics,2,13522.26,0.05,East,UPI,New,25692.29,1,January,1,2025,Wednesday
+ORD00159,CUST0157,2025-01-22,Monitor,Electronics,4,12830.67,0.05,East,UPI,New,48756.55,1,January,1,2025,Wednesday
+ORD01443,CUST0043,2025-01-22,Laptop,Electronics,2,67425.47,0.0,South,UPI,VIP,134850.94,1,January,1,2025,Wednesday
+ORD00921,CUST0087,2025-01-24,Smartphone,Electronics,4,31036.99,0.05,West,Net Banking,New,117940.56,1,January,1,2025,Friday
+ORD00997,CUST0106,2025-01-24,Laptop,Electronics,2,64909.39,0.0,North,UPI,Returning,129818.78,1,January,1,2025,Friday
+ORD00447,CUST0283,2025-01-24,Desk,Furniture,3,11597.26,0.05,West,Debit Card,Returning,33052.19,1,January,1,2025,Friday
+ORD00596,CUST0294,2025-01-25,Tablet,Electronics,2,20403.19,0.05,North,Net Banking,Returning,38766.06,1,January,1,2025,Saturday
+ORD00242,CUST0025,2025-01-25,Keyboard,Accessories,2,1644.54,0.0,East,Net Banking,Returning,3289.08,1,January,1,2025,Saturday
+ORD00480,CUST0048,2025-01-25,Keyboard,Accessories,3,1898.03,0.05,North,Net Banking,Returning,5409.39,1,January,1,2025,Saturday
+ORD01294,CUST0076,2025-01-25,Headphones,Electronics,3,3385.16,0.05,West,Net Banking,New,9647.71,1,January,1,2025,Saturday
+ORD00548,CUST0094,2025-01-26,Smartphone,Electronics,1,32002.75,0.05,East,Net Banking,Returning,30402.61,1,January,1,2025,Sunday
+ORD01329,CUST0010,2025-01-26,Office Chair,Furniture,1,8426.8,0.1,East,UPI,New,7584.12,1,January,1,2025,Sunday
+ORD01183,CUST0051,2025-01-26,Headphones,Electronics,1,3674.81,0.0,North,Net Banking,New,3674.81,1,January,1,2025,Sunday
+ORD00216,CUST0141,2025-01-26,Office Chair,Furniture,2,9042.62,0.1,North,UPI,New,16276.72,1,January,1,2025,Sunday
+ORD00978,CUST0020,2025-01-26,Mouse,Accessories,4,933.2,0.05,South,Credit Card,Returning,3546.16,1,January,1,2025,Sunday
+ORD00956,CUST0229,2025-01-26,Headphones,Electronics,1,3313.11,0.1,West,Net Banking,New,2981.8,1,January,1,2025,Sunday
+ORD00873,CUST0047,2025-01-27,Office Chair,Furniture,4,8521.87,0.1,West,Debit Card,Returning,30678.73,1,January,1,2025,Monday
+ORD01021,CUST0078,2025-01-27,Backpack,Accessories,3,2372.42,0.0,West,Debit Card,VIP,7117.26,1,January,1,2025,Monday
+ORD01225,CUST0113,2025-01-28,Tablet,Electronics,4,20663.43,0.05,North,Net Banking,New,78521.03,1,January,1,2025,Tuesday
+ORD00677,CUST0122,2025-01-28,Mouse,Accessories,1,855.16,0.0,East,UPI,New,855.16,1,January,1,2025,Tuesday
+ORD01370,CUST0233,2025-01-29,Office Chair,Furniture,4,8232.21,0.0,South,Credit Card,Returning,32928.84,1,January,1,2025,Wednesday
+ORD00471,CUST0215,2025-01-29,Headphones,Electronics,4,3675.66,0.0,West,Debit Card,New,14702.64,1,January,1,2025,Wednesday
+ORD01326,CUST0234,2025-01-29,Tablet,Electronics,3,23503.96,0.1,North,Net Banking,Returning,63460.69,1,January,1,2025,Wednesday
+ORD01067,CUST0015,2025-01-29,Backpack,Accessories,3,2304.38,0.05,South,Credit Card,Returning,6567.48,1,January,1,2025,Wednesday
+ORD00902,CUST0179,2025-01-29,Office Chair,Furniture,4,8438.8,0.1,West,UPI,New,30379.68,1,January,1,2025,Wednesday
+ORD01260,CUST0214,2025-01-29,Smartphone,Electronics,4,32338.12,0.0,East,UPI,Returning,129352.48,1,January,1,2025,Wednesday
+ORD00648,CUST0182,2025-01-30,Smartphone,Electronics,1,31095.19,0.05,West,Debit Card,VIP,29540.43,1,January,1,2025,Thursday
+ORD00603,CUST0103,2025-01-31,Tablet,Electronics,1,20856.31,0.0,West,Credit Card,Returning,20856.31,1,January,1,2025,Friday
+ORD01066,CUST0290,2025-01-31,Office Chair,Furniture,3,8514.41,0.0,South,UPI,Returning,25543.23,1,January,1,2025,Friday
+ORD00064,CUST0004,2025-01-31,Desk,Furniture,3,12821.55,0.0,West,Credit Card,Returning,38464.65,1,January,1,2025,Friday
+ORD00392,CUST0021,2025-01-31,Headphones,Electronics,1,3441.28,0.1,North,UPI,New,3097.15,1,January,1,2025,Friday
+ORD01210,CUST0271,2025-01-31,Headphones,Electronics,3,3669.98,0.05,East,Net Banking,New,10459.44,1,January,1,2025,Friday
+ORD00761,CUST0132,2025-02-01,Monitor,Electronics,1,13576.73,0.0,North,Net Banking,Returning,13576.73,2,February,1,2025,Saturday
+ORD00304,CUST0138,2025-02-01,Headphones,Electronics,4,3705.79,0.05,East,Credit Card,New,14082.0,2,February,1,2025,Saturday
+ORD00690,CUST0101,2025-02-02,Smartphone,Electronics,3,32973.83,0.0,South,Credit Card,VIP,98921.49,2,February,1,2025,Sunday
+ORD01465,CUST0199,2025-02-02,Office Chair,Furniture,3,7712.08,0.05,West,Net Banking,New,21979.43,2,February,1,2025,Sunday
+ORD01464,CUST0088,2025-02-03,Monitor,Electronics,2,13212.62,0.05,West,Net Banking,New,25103.98,2,February,1,2025,Monday
+ORD00326,CUST0046,2025-02-04,Mouse,Accessories,2,965.62,0.05,East,Debit Card,New,1834.68,2,February,1,2025,Tuesday
+ORD01305,CUST0241,2025-02-04,Backpack,Accessories,3,2332.72,0.0,West,UPI,New,6998.16,2,February,1,2025,Tuesday
+ORD01361,CUST0298,2025-02-04,Tablet,Electronics,1,20647.36,0.0,East,Credit Card,Returning,20647.36,2,February,1,2025,Tuesday
+ORD00710,CUST0076,2025-02-04,Smartphone,Electronics,3,29099.63,0.1,East,Credit Card,New,78569.0,2,February,1,2025,Tuesday
+ORD01064,CUST0225,2025-02-04,Office Chair,Furniture,2,9079.88,0.0,East,Net Banking,Returning,18159.76,2,February,1,2025,Tuesday
+ORD00117,CUST0152,2025-02-05,Mouse,Accessories,2,941.86,0.0,East,Net Banking,Returning,1883.72,2,February,1,2025,Wednesday
+ORD00499,CUST0153,2025-02-05,Office Chair,Furniture,2,9203.44,0.15,South,Debit Card,VIP,15645.85,2,February,1,2025,Wednesday
+ORD00104,CUST0161,2025-02-05,Office Chair,Furniture,1,7695.1,0.0,North,Net Banking,Returning,7695.1,2,February,1,2025,Wednesday
+ORD00365,CUST0262,2025-02-06,Keyboard,Accessories,2,1666.82,0.1,South,Net Banking,New,3000.28,2,February,1,2025,Thursday
+ORD00721,CUST0025,2025-02-07,Tablet,Electronics,2,21628.26,0.1,South,Credit Card,Returning,38930.87,2,February,1,2025,Friday
+ORD00071,CUST0084,2025-02-07,Laptop,Electronics,3,67359.54,0.1,East,UPI,VIP,181870.76,2,February,1,2025,Friday
+ORD00084,CUST0283,2025-02-07,Keyboard,Accessories,4,1685.38,0.1,South,Net Banking,Returning,6067.37,2,February,1,2025,Friday
+ORD00143,CUST0025,2025-02-07,Keyboard,Accessories,3,1651.32,0.0,West,UPI,Returning,4953.96,2,February,1,2025,Friday
+ORD00639,CUST0180,2025-02-07,Monitor,Electronics,3,13432.4,0.0,South,Net Banking,VIP,40297.2,2,February,1,2025,Friday
+ORD00585,CUST0156,2025-02-07,Laptop,Electronics,2,67320.5,0.0,East,Credit Card,Returning,134641.0,2,February,1,2025,Friday
+ORD00488,CUST0016,2025-02-07,Smartphone,Electronics,2,32708.94,0.1,East,UPI,Returning,58876.09,2,February,1,2025,Friday
+ORD00889,CUST0227,2025-02-08,Tablet,Electronics,4,22998.88,0.05,North,Credit Card,New,87395.74,2,February,1,2025,Saturday
+ORD00903,CUST0097,2025-02-08,Mouse,Accessories,2,823.49,0.0,East,Debit Card,Returning,1646.98,2,February,1,2025,Saturday
+ORD00652,CUST0201,2025-02-08,Tablet,Electronics,4,23349.73,0.1,West,Debit Card,New,84059.03,2,February,1,2025,Saturday
+ORD00324,CUST0227,2025-02-08,Backpack,Accessories,1,2159.65,0.1,North,UPI,New,1943.69,2,February,1,2025,Saturday
+ORD00933,CUST0066,2025-02-08,Keyboard,Accessories,4,1865.76,0.05,North,Debit Card,Returning,7089.89,2,February,1,2025,Saturday
+ORD00927,CUST0103,2025-02-08,Backpack,Accessories,2,2004.4,0.1,East,Net Banking,Returning,3607.92,2,February,1,2025,Saturday
+ORD01277,CUST0257,2025-02-09,Desk,Furniture,4,12595.77,0.1,South,Net Banking,New,45344.77,2,February,1,2025,Sunday
+ORD00525,CUST0170,2025-02-09,Mouse,Accessories,4,846.41,0.0,North,UPI,Returning,3385.64,2,February,1,2025,Sunday
+ORD00173,CUST0123,2025-02-10,Mouse,Accessories,1,978.52,0.0,South,Net Banking,Returning,978.52,2,February,1,2025,Monday
+ORD00827,CUST0164,2025-02-11,Laptop,Electronics,3,62199.8,0.05,East,Debit Card,Returning,177269.43,2,February,1,2025,Tuesday
+ORD00078,CUST0039,2025-02-11,Headphones,Electronics,2,3807.88,0.05,West,Net Banking,New,7234.97,2,February,1,2025,Tuesday
+ORD00866,CUST0275,2025-02-11,Headphones,Electronics,4,3213.93,0.0,East,Net Banking,Returning,12855.72,2,February,1,2025,Tuesday
+ORD00368,CUST0162,2025-02-11,Mouse,Accessories,1,960.06,0.0,South,Net Banking,New,960.06,2,February,1,2025,Tuesday
+ORD00725,CUST0211,2025-02-11,Backpack,Accessories,4,2110.13,0.0,East,Credit Card,Returning,8440.52,2,February,1,2025,Tuesday
+ORD00254,CUST0112,2025-02-11,Smartphone,Electronics,4,31864.12,0.05,North,Debit Card,Returning,121083.66,2,February,1,2025,Tuesday
+ORD01008,CUST0146,2025-02-12,Laptop,Electronics,4,66635.94,0.0,East,Debit Card,VIP,266543.76,2,February,1,2025,Wednesday
+ORD00905,CUST0099,2025-02-12,Headphones,Electronics,3,3328.57,0.1,South,Net Banking,VIP,8987.14,2,February,1,2025,Wednesday
+ORD00343,CUST0177,2025-02-12,Mouse,Accessories,1,811.38,0.0,West,Net Banking,New,811.38,2,February,1,2025,Wednesday
+ORD00300,CUST0289,2025-02-12,Laptop,Electronics,4,59992.0,0.1,North,UPI,Returning,215971.2,2,February,1,2025,Wednesday
+ORD00307,CUST0026,2025-02-13,Laptop,Electronics,3,65682.68,0.0,North,Debit Card,New,197048.04,2,February,1,2025,Thursday
+ORD01437,CUST0199,2025-02-13,Laptop,Electronics,4,63800.61,0.05,East,Debit Card,New,242442.32,2,February,1,2025,Thursday
+ORD00012,CUST0268,2025-02-13,Headphones,Electronics,1,3822.83,0.1,North,Credit Card,New,3440.55,2,February,1,2025,Thursday
+ORD00410,CUST0013,2025-02-13,Backpack,Accessories,1,2029.07,0.05,East,Credit Card,New,1927.62,2,February,1,2025,Thursday
+ORD00853,CUST0165,2025-02-14,Keyboard,Accessories,3,1800.99,0.1,South,Debit Card,VIP,4862.67,2,February,1,2025,Friday
+ORD00572,CUST0250,2025-02-14,Monitor,Electronics,3,14249.01,0.1,East,Debit Card,New,38472.33,2,February,1,2025,Friday
+ORD00778,CUST0239,2025-02-14,Keyboard,Accessories,2,1651.48,0.0,North,UPI,New,3302.96,2,February,1,2025,Friday
+ORD01057,CUST0044,2025-02-14,Laptop,Electronics,3,61984.61,0.1,West,UPI,New,167358.45,2,February,1,2025,Friday
+ORD00550,CUST0116,2025-02-14,Office Chair,Furniture,4,8824.16,0.05,East,UPI,New,33531.81,2,February,1,2025,Friday
+ORD00726,CUST0236,2025-02-14,Desk,Furniture,3,11723.36,0.0,South,Credit Card,New,35170.08,2,February,1,2025,Friday
+ORD00659,CUST0198,2025-02-15,Laptop,Electronics,1,69384.42,0.0,West,UPI,New,69384.42,2,February,1,2025,Saturday
+ORD01473,CUST0251,2025-02-15,Tablet,Electronics,2,23588.44,0.05,East,Debit Card,Returning,44818.04,2,February,1,2025,Saturday
+ORD01211,CUST0032,2025-02-15,Backpack,Accessories,3,2394.56,0.05,North,Debit Card,Returning,6824.5,2,February,1,2025,Saturday
+ORD00374,CUST0246,2025-02-15,Office Chair,Furniture,4,7748.16,0.05,South,Net Banking,New,29443.01,2,February,1,2025,Saturday
+ORD00169,CUST0267,2025-02-15,Mouse,Accessories,3,828.89,0.0,West,UPI,New,2486.67,2,February,1,2025,Saturday
+ORD01457,CUST0257,2025-02-16,Keyboard,Accessories,1,1713.97,0.05,North,UPI,New,1628.27,2,February,1,2025,Sunday
+ORD00947,CUST0130,2025-02-16,Mouse,Accessories,1,928.43,0.05,South,Net Banking,Returning,882.01,2,February,1,2025,Sunday
+ORD00680,CUST0110,2025-02-16,Desk,Furniture,1,11795.58,0.0,North,Net Banking,VIP,11795.58,2,February,1,2025,Sunday
+ORD00645,CUST0095,2025-02-16,Laptop,Electronics,1,64899.02,0.0,West,Credit Card,New,64899.02,2,February,1,2025,Sunday
+ORD01337,CUST0017,2025-02-17,Backpack,Accessories,2,2026.43,0.05,East,Credit Card,Returning,3850.22,2,February,1,2025,Monday
+ORD01413,CUST0139,2025-02-17,Desk,Furniture,3,12451.27,0.0,North,Credit Card,Returning,37353.81,2,February,1,2025,Monday
+ORD00979,CUST0225,2025-02-17,Laptop,Electronics,3,69679.23,0.0,North,Credit Card,Returning,209037.69,2,February,1,2025,Monday
+ORD01190,CUST0180,2025-02-17,Tablet,Electronics,3,21807.79,0.0,North,Net Banking,VIP,65423.37,2,February,1,2025,Monday
+ORD00263,CUST0256,2025-02-18,Desk,Furniture,1,13142.38,0.05,West,Debit Card,Returning,12485.26,2,February,1,2025,Tuesday
+ORD00848,CUST0132,2025-02-18,Laptop,Electronics,3,63839.51,0.05,West,Net Banking,Returning,181942.6,2,February,1,2025,Tuesday
+ORD00857,CUST0193,2025-02-18,Laptop,Electronics,3,66766.84,0.1,North,Credit Card,New,180270.47,2,February,1,2025,Tuesday
+ORD00718,CUST0088,2025-02-19,Headphones,Electronics,3,3167.64,0.0,West,Net Banking,New,9502.92,2,February,1,2025,Wednesday
+ORD01003,CUST0194,2025-02-19,Desk,Furniture,1,11083.21,0.1,South,Debit Card,New,9974.89,2,February,1,2025,Wednesday
+ORD00750,CUST0253,2025-02-19,Laptop,Electronics,4,67929.83,0.0,South,Debit Card,New,271719.32,2,February,1,2025,Wednesday
+ORD01463,CUST0093,2025-02-19,Headphones,Electronics,4,3330.79,0.05,South,Debit Card,New,12657.0,2,February,1,2025,Wednesday
+ORD00087,CUST0293,2025-02-20,Desk,Furniture,3,11166.09,0.05,North,Debit Card,New,31823.36,2,February,1,2025,Thursday
+ORD00711,CUST0026,2025-02-20,Mouse,Accessories,1,850.44,0.0,East,UPI,New,850.44,2,February,1,2025,Thursday
+ORD00101,CUST0255,2025-02-20,Desk,Furniture,2,11614.25,0.05,North,Net Banking,Returning,22067.08,2,February,1,2025,Thursday
+ORD00041,CUST0083,2025-02-20,Laptop,Electronics,1,64357.07,0.0,North,Credit Card,Returning,64357.07,2,February,1,2025,Thursday
+ORD00963,CUST0233,2025-02-21,Tablet,Electronics,1,21130.54,0.0,South,Credit Card,Returning,21130.54,2,February,1,2025,Friday
+ORD01045,CUST0167,2025-02-21,Keyboard,Accessories,3,1823.38,0.0,East,Credit Card,Returning,5470.14,2,February,1,2025,Friday
+ORD01073,CUST0010,2025-02-21,Laptop,Electronics,1,65283.8,0.05,East,Debit Card,New,62019.61,2,February,1,2025,Friday
+ORD01087,CUST0268,2025-02-21,Tablet,Electronics,2,22877.92,0.0,East,Credit Card,New,45755.84,2,February,1,2025,Friday
+ORD00040,CUST0197,2025-02-22,Keyboard,Accessories,2,1948.74,0.05,North,Debit Card,New,3702.61,2,February,1,2025,Saturday
+ORD01218,CUST0195,2025-02-23,Monitor,Electronics,1,14248.67,0.0,West,Debit Card,Returning,14248.67,2,February,1,2025,Sunday
+ORD01293,CUST0235,2025-02-23,Smartphone,Electronics,1,30245.92,0.05,North,UPI,Returning,28733.62,2,February,1,2025,Sunday
+ORD01121,CUST0020,2025-02-23,Backpack,Accessories,2,2037.59,0.0,South,Credit Card,Returning,4075.18,2,February,1,2025,Sunday
+ORD01284,CUST0188,2025-02-24,Backpack,Accessories,3,2254.87,0.0,East,Credit Card,Returning,6764.61,2,February,1,2025,Monday
+ORD00949,CUST0162,2025-02-24,Keyboard,Accessories,2,1645.45,0.0,East,Credit Card,New,3290.9,2,February,1,2025,Monday
+ORD00390,CUST0290,2025-02-24,Office Chair,Furniture,3,9015.92,0.1,East,Debit Card,Returning,24342.98,2,February,1,2025,Monday
+ORD01306,CUST0021,2025-02-24,Monitor,Electronics,3,14215.66,0.0,East,Credit Card,New,42646.98,2,February,1,2025,Monday
+ORD00098,CUST0166,2025-02-24,Headphones,Electronics,3,3222.09,0.0,East,UPI,New,9666.27,2,February,1,2025,Monday
+ORD00089,CUST0110,2025-02-24,Monitor,Electronics,2,14944.97,0.0,East,Net Banking,VIP,29889.94,2,February,1,2025,Monday
+ORD01203,CUST0297,2025-02-25,Backpack,Accessories,1,2388.18,0.1,North,Net Banking,New,2149.36,2,February,1,2025,Tuesday
+ORD00245,CUST0266,2025-02-25,Backpack,Accessories,2,2193.22,0.1,East,Credit Card,New,3947.8,2,February,1,2025,Tuesday
+ORD01368,CUST0273,2025-02-25,Desk,Furniture,3,12272.9,0.1,South,UPI,New,33136.83,2,February,1,2025,Tuesday
+ORD01199,CUST0139,2025-02-25,Mouse,Accessories,1,930.59,0.0,East,Debit Card,Returning,930.59,2,February,1,2025,Tuesday
+ORD00582,CUST0273,2025-02-25,Laptop,Electronics,4,65733.93,0.1,South,Debit Card,New,236642.15,2,February,1,2025,Tuesday
+ORD00532,CUST0005,2025-02-25,Desk,Furniture,2,12400.43,0.0,South,UPI,Returning,24800.86,2,February,1,2025,Tuesday
+ORD00054,CUST0073,2025-02-25,Tablet,Electronics,1,21917.04,0.05,South,UPI,VIP,20821.19,2,February,1,2025,Tuesday
+ORD00840,CUST0058,2025-02-25,Tablet,Electronics,2,21012.49,0.0,North,Net Banking,Returning,42024.98,2,February,1,2025,Tuesday
+ORD01280,CUST0028,2025-02-25,Desk,Furniture,2,11190.04,0.05,South,UPI,Returning,21261.08,2,February,1,2025,Tuesday
+ORD00653,CUST0124,2025-02-26,Monitor,Electronics,4,13979.28,0.05,South,Debit Card,VIP,53121.26,2,February,1,2025,Wednesday
+ORD01153,CUST0067,2025-02-26,Tablet,Electronics,1,23411.7,0.0,East,UPI,VIP,23411.7,2,February,1,2025,Wednesday
+ORD01499,CUST0069,2025-02-26,Office Chair,Furniture,1,8137.32,0.0,East,Credit Card,VIP,8137.32,2,February,1,2025,Wednesday
+ORD00586,CUST0244,2025-02-27,Monitor,Electronics,2,13376.9,0.0,North,Net Banking,Returning,26753.8,2,February,1,2025,Thursday
+ORD00003,CUST0117,2025-02-27,Office Chair,Furniture,3,8833.16,0.0,South,Credit Card,New,26499.48,2,February,1,2025,Thursday
+ORD01143,CUST0028,2025-02-27,Keyboard,Accessories,2,1799.26,0.0,North,Credit Card,Returning,3598.52,2,February,1,2025,Thursday
+ORD00157,CUST0033,2025-02-27,Mouse,Accessories,3,897.96,0.1,East,Debit Card,VIP,2424.49,2,February,1,2025,Thursday
+ORD01215,CUST0228,2025-02-27,Headphones,Electronics,2,3273.26,0.05,East,Net Banking,Returning,6219.19,2,February,1,2025,Thursday
+ORD01002,CUST0271,2025-02-28,Monitor,Electronics,4,14558.28,0.0,South,UPI,New,58233.12,2,February,1,2025,Friday
+ORD01202,CUST0060,2025-02-28,Laptop,Electronics,1,66378.18,0.05,West,Credit Card,Returning,63059.27,2,February,1,2025,Friday
+ORD00546,CUST0209,2025-02-28,Smartphone,Electronics,4,31112.37,0.0,East,UPI,VIP,124449.48,2,February,1,2025,Friday
+ORD00935,CUST0049,2025-02-28,Keyboard,Accessories,2,1869.04,0.05,North,UPI,Returning,3551.18,2,February,1,2025,Friday
+ORD00123,CUST0198,2025-02-28,Desk,Furniture,1,12968.07,0.05,South,Credit Card,New,12319.67,2,February,1,2025,Friday
+ORD00218,CUST0154,2025-03-01,Keyboard,Accessories,4,1718.93,0.1,East,Debit Card,Returning,6188.15,3,March,1,2025,Saturday
+ORD01497,CUST0168,2025-03-02,Monitor,Electronics,2,12732.51,0.0,North,Credit Card,Returning,25465.02,3,March,1,2025,Sunday
+ORD00287,CUST0124,2025-03-02,Office Chair,Furniture,1,9265.53,0.0,South,Debit Card,VIP,9265.53,3,March,1,2025,Sunday
+ORD01236,CUST0225,2025-03-02,Smartphone,Electronics,1,31878.9,0.15,West,UPI,Returning,27097.06,3,March,1,2025,Sunday
+ORD00524,CUST0277,2025-03-03,Tablet,Electronics,4,23551.37,0.05,South,Net Banking,New,89495.21,3,March,1,2025,Monday
+ORD00066,CUST0134,2025-03-03,Mouse,Accessories,1,898.33,0.05,North,Debit Card,Returning,853.41,3,March,1,2025,Monday
+ORD00511,CUST0007,2025-03-03,Tablet,Electronics,1,23986.34,0.1,North,UPI,VIP,21587.71,3,March,1,2025,Monday
+ORD00358,CUST0288,2025-03-04,Headphones,Electronics,3,3750.29,0.1,East,Net Banking,Returning,10125.78,3,March,1,2025,Tuesday
+ORD00248,CUST0221,2025-03-04,Monitor,Electronics,4,14075.72,0.0,North,Net Banking,New,56302.88,3,March,1,2025,Tuesday
+ORD01425,CUST0083,2025-03-04,Headphones,Electronics,1,3224.14,0.0,East,UPI,Returning,3224.14,3,March,1,2025,Tuesday
+ORD00486,CUST0245,2025-03-04,Office Chair,Furniture,3,8905.83,0.0,North,Credit Card,VIP,26717.49,3,March,1,2025,Tuesday
+ORD01378,CUST0122,2025-03-04,Office Chair,Furniture,3,9123.8,0.05,East,Net Banking,New,26002.83,3,March,1,2025,Tuesday
+ORD01258,CUST0150,2025-03-05,Monitor,Electronics,1,13497.5,0.05,East,Credit Card,Returning,12822.62,3,March,1,2025,Wednesday
+ORD01046,CUST0298,2025-03-05,Desk,Furniture,3,13004.99,0.0,East,Debit Card,Returning,39014.97,3,March,1,2025,Wednesday
+ORD00321,CUST0271,2025-03-07,Headphones,Electronics,1,3238.39,0.05,East,Net Banking,New,3076.47,3,March,1,2025,Friday
+ORD01149,CUST0075,2025-03-07,Backpack,Accessories,4,2319.35,0.0,South,Net Banking,New,9277.4,3,March,1,2025,Friday
+ORD01078,CUST0220,2025-03-07,Desk,Furniture,4,12007.3,0.05,East,Debit Card,New,45627.74,3,March,1,2025,Friday
+ORD00803,CUST0098,2025-03-07,Tablet,Electronics,1,20706.31,0.0,South,Credit Card,Returning,20706.31,3,March,1,2025,Friday
+ORD00687,CUST0039,2025-03-07,Backpack,Accessories,4,2068.34,0.0,West,Net Banking,New,8273.36,3,March,1,2025,Friday
+ORD00383,CUST0264,2025-03-08,Tablet,Electronics,1,20195.17,0.0,North,Net Banking,Returning,20195.17,3,March,1,2025,Saturday
+ORD01441,CUST0028,2025-03-08,Tablet,Electronics,2,22054.73,0.05,East,UPI,Returning,41903.99,3,March,1,2025,Saturday
+ORD01044,CUST0141,2025-03-08,Backpack,Accessories,3,2088.53,0.05,South,Credit Card,New,5952.31,3,March,1,2025,Saturday
+ORD01269,CUST0157,2025-03-08,Keyboard,Accessories,1,1716.08,0.1,East,Net Banking,New,1544.47,3,March,1,2025,Saturday
+ORD01251,CUST0270,2025-03-09,Laptop,Electronics,2,62374.51,0.0,East,Net Banking,Returning,124749.02,3,March,1,2025,Sunday
+ORD00801,CUST0026,2025-03-09,Backpack,Accessories,1,2147.41,0.0,North,Debit Card,New,2147.41,3,March,1,2025,Sunday
+ORD00367,CUST0126,2025-03-09,Monitor,Electronics,1,13679.43,0.0,North,Credit Card,Returning,13679.43,3,March,1,2025,Sunday
+ORD00906,CUST0191,2025-03-10,Headphones,Electronics,2,3728.47,0.05,North,Debit Card,VIP,7084.09,3,March,1,2025,Monday
+ORD00020,CUST0284,2025-03-10,Monitor,Electronics,3,13980.47,0.0,East,Net Banking,VIP,41941.41,3,March,1,2025,Monday
+ORD00808,CUST0155,2025-03-10,Keyboard,Accessories,3,1650.34,0.0,East,UPI,New,4951.02,3,March,1,2025,Monday
+ORD00289,CUST0051,2025-03-10,Keyboard,Accessories,3,1713.35,0.0,North,Net Banking,New,5140.05,3,March,1,2025,Monday
+ORD00219,CUST0146,2025-03-10,Headphones,Electronics,4,3254.79,0.0,East,Credit Card,VIP,13019.16,3,March,1,2025,Monday
+ORD00063,CUST0229,2025-03-11,Backpack,Accessories,1,1983.32,0.0,East,Net Banking,New,1983.32,3,March,1,2025,Tuesday
+ORD01350,CUST0288,2025-03-11,Desk,Furniture,3,11235.0,0.05,East,Debit Card,Returning,32019.75,3,March,1,2025,Tuesday
+ORD01355,CUST0093,2025-03-12,Keyboard,Accessories,2,1723.97,0.0,North,Credit Card,New,3447.94,3,March,1,2025,Wednesday
+ORD00136,CUST0011,2025-03-13,Smartphone,Electronics,1,31460.12,0.0,West,Credit Card,VIP,31460.12,3,March,1,2025,Thursday
+ORD00895,CUST0214,2025-03-13,Monitor,Electronics,1,13828.22,0.0,North,Credit Card,Returning,13828.22,3,March,1,2025,Thursday
+ORD00580,CUST0288,2025-03-13,Laptop,Electronics,1,59950.71,0.05,East,Debit Card,Returning,56953.17,3,March,1,2025,Thursday
+ORD00134,CUST0293,2025-03-14,Backpack,Accessories,4,1987.86,0.15,East,Credit Card,New,6758.72,3,March,1,2025,Friday
+ORD00651,CUST0041,2025-03-14,Smartphone,Electronics,4,29871.17,0.1,West,Debit Card,VIP,107536.21,3,March,1,2025,Friday
+ORD01180,CUST0079,2025-03-14,Headphones,Electronics,3,3372.92,0.05,North,Net Banking,Returning,9612.82,3,March,1,2025,Friday
+ORD00934,CUST0090,2025-03-14,Keyboard,Accessories,1,1940.75,0.05,East,Debit Card,Returning,1843.71,3,March,1,2025,Friday
+ORD00477,CUST0290,2025-03-14,Mouse,Accessories,3,877.19,0.05,North,Net Banking,Returning,2499.99,3,March,1,2025,Friday
+ORD01226,CUST0051,2025-03-15,Keyboard,Accessories,4,1809.77,0.05,East,Debit Card,New,6877.13,3,March,1,2025,Saturday
+ORD00539,CUST0025,2025-03-15,Monitor,Electronics,1,14387.3,0.05,North,UPI,Returning,13667.94,3,March,1,2025,Saturday
+ORD00879,CUST0178,2025-03-15,Tablet,Electronics,2,23160.97,0.05,East,Debit Card,Returning,44005.84,3,March,1,2025,Saturday
+ORD01122,CUST0265,2025-03-15,Mouse,Accessories,3,954.03,0.1,South,Debit Card,New,2575.88,3,March,1,2025,Saturday
+ORD01369,CUST0059,2025-03-15,Tablet,Electronics,4,19896.74,0.1,East,Net Banking,VIP,71628.26,3,March,1,2025,Saturday
+ORD00065,CUST0036,2025-03-16,Desk,Furniture,3,12951.86,0.05,West,UPI,New,36912.8,3,March,1,2025,Sunday
+ORD00543,CUST0189,2025-03-16,Smartphone,Electronics,3,31065.19,0.0,North,Net Banking,Returning,93195.57,3,March,1,2025,Sunday
+ORD00926,CUST0218,2025-03-16,Headphones,Electronics,4,3463.58,0.0,South,Debit Card,New,13854.32,3,March,1,2025,Sunday
+ORD01408,CUST0172,2025-03-17,Keyboard,Accessories,3,1895.05,0.0,West,Net Banking,VIP,5685.15,3,March,1,2025,Monday
+ORD00019,CUST0019,2025-03-17,Laptop,Electronics,4,58640.89,0.1,North,UPI,Returning,211107.2,3,March,1,2025,Monday
+ORD01330,CUST0033,2025-03-17,Keyboard,Accessories,3,1717.7,0.05,East,Debit Card,VIP,4895.44,3,March,1,2025,Monday
+ORD00796,CUST0131,2025-03-17,Smartphone,Electronics,1,32457.29,0.05,North,Net Banking,Returning,30834.43,3,March,1,2025,Monday
+ORD00150,CUST0158,2025-03-18,Office Chair,Furniture,3,7651.9,0.05,North,Net Banking,New,21807.91,3,March,1,2025,Tuesday
+ORD01142,CUST0106,2025-03-18,Office Chair,Furniture,4,7920.17,0.0,North,Debit Card,Returning,31680.68,3,March,1,2025,Tuesday
+ORD01338,CUST0095,2025-03-18,Mouse,Accessories,2,851.35,0.0,West,Net Banking,New,1702.7,3,March,1,2025,Tuesday
+ORD00171,CUST0002,2025-03-18,Laptop,Electronics,1,69972.94,0.0,West,Debit Card,New,69972.94,3,March,1,2025,Tuesday
+ORD00983,CUST0172,2025-03-18,Backpack,Accessories,4,2296.8,0.0,West,UPI,VIP,9187.2,3,March,1,2025,Tuesday
+ORD01493,CUST0020,2025-03-18,Laptop,Electronics,1,67519.99,0.05,East,Net Banking,Returning,64143.99,3,March,1,2025,Tuesday
+ORD00056,CUST0207,2025-03-19,Desk,Furniture,2,11366.68,0.1,West,Debit Card,VIP,20460.02,3,March,1,2025,Wednesday
+ORD00053,CUST0001,2025-03-19,Keyboard,Accessories,1,1748.16,0.1,South,Credit Card,Returning,1573.34,3,March,1,2025,Wednesday
+ORD00802,CUST0002,2025-03-19,Laptop,Electronics,4,71007.33,0.05,West,Debit Card,New,269827.85,3,March,1,2025,Wednesday
+ORD00470,CUST0047,2025-03-20,Office Chair,Furniture,4,9319.48,0.1,East,Debit Card,Returning,33550.13,3,March,1,2025,Thursday
+ORD01048,CUST0105,2025-03-20,Monitor,Electronics,2,13183.18,0.0,North,UPI,New,26366.36,3,March,1,2025,Thursday
+ORD00257,CUST0203,2025-03-20,Office Chair,Furniture,2,8306.79,0.05,North,Net Banking,Returning,15782.9,3,March,1,2025,Thursday
+ORD01311,CUST0142,2025-03-20,Monitor,Electronics,1,13507.58,0.15,South,Credit Card,Returning,11481.44,3,March,1,2025,Thursday
+ORD00730,CUST0099,2025-03-20,Backpack,Accessories,4,2291.09,0.05,South,UPI,VIP,8706.14,3,March,1,2025,Thursday
+ORD01208,CUST0139,2025-03-21,Office Chair,Furniture,4,7762.89,0.15,South,Debit Card,Returning,26393.83,3,March,1,2025,Friday
+ORD00991,CUST0011,2025-03-21,Tablet,Electronics,1,21826.96,0.0,East,Net Banking,VIP,21826.96,3,March,1,2025,Friday
+ORD01266,CUST0254,2025-03-22,Office Chair,Furniture,3,8706.49,0.1,South,Credit Card,Returning,23507.52,3,March,1,2025,Saturday
+ORD00757,CUST0130,2025-03-22,Monitor,Electronics,1,14450.24,0.05,East,Credit Card,Returning,13727.73,3,March,1,2025,Saturday
+ORD01094,CUST0149,2025-03-23,Desk,Furniture,4,11596.8,0.05,North,Debit Card,VIP,44067.84,3,March,1,2025,Sunday
+ORD01328,CUST0243,2025-03-23,Tablet,Electronics,1,20280.83,0.1,West,UPI,New,18252.75,3,March,1,2025,Sunday
+ORD00350,CUST0146,2025-03-23,Smartphone,Electronics,4,29303.03,0.05,North,UPI,VIP,111351.51,3,March,1,2025,Sunday
+ORD00473,CUST0006,2025-03-23,Tablet,Electronics,1,24107.41,0.05,South,Net Banking,Returning,22902.04,3,March,1,2025,Sunday
+ORD00661,CUST0104,2025-03-24,Laptop,Electronics,1,67757.78,0.0,South,Debit Card,Returning,67757.78,3,March,1,2025,Monday
+ORD00768,CUST0065,2025-03-24,Mouse,Accessories,1,834.66,0.05,South,UPI,Returning,792.93,3,March,1,2025,Monday
+ORD00587,CUST0058,2025-03-24,Laptop,Electronics,1,63009.52,0.0,South,Net Banking,Returning,63009.52,3,March,1,2025,Monday
+ORD00353,CUST0051,2025-03-25,Mouse,Accessories,1,920.26,0.1,South,UPI,New,828.23,3,March,1,2025,Tuesday
+ORD00804,CUST0087,2025-03-25,Office Chair,Furniture,1,9076.47,0.05,West,UPI,New,8622.65,3,March,1,2025,Tuesday
+ORD01029,CUST0087,2025-03-25,Headphones,Electronics,2,3816.19,0.0,South,Credit Card,New,7632.38,3,March,1,2025,Tuesday
+ORD00914,CUST0265,2025-03-25,Tablet,Electronics,2,22362.71,0.0,North,Debit Card,New,44725.42,3,March,1,2025,Tuesday
+ORD00700,CUST0008,2025-03-26,Office Chair,Furniture,2,7897.06,0.05,East,Credit Card,New,15004.41,3,March,1,2025,Wednesday
+ORD01244,CUST0021,2025-03-26,Headphones,Electronics,1,3307.21,0.05,East,Net Banking,New,3141.85,3,March,1,2025,Wednesday
+ORD00198,CUST0129,2025-03-27,Office Chair,Furniture,4,7915.48,0.0,East,Debit Card,VIP,31661.92,3,March,1,2025,Thursday
+ORD01051,CUST0144,2025-03-27,Desk,Furniture,1,11443.89,0.05,East,UPI,Returning,10871.7,3,March,1,2025,Thursday
+ORD01332,CUST0001,2025-03-27,Headphones,Electronics,2,3278.24,0.05,West,UPI,Returning,6228.66,3,March,1,2025,Thursday
+ORD01278,CUST0183,2025-03-27,Laptop,Electronics,3,64514.94,0.1,West,UPI,New,174190.34,3,March,1,2025,Thursday
+ORD01263,CUST0272,2025-03-27,Backpack,Accessories,2,2136.54,0.0,West,Credit Card,New,4273.08,3,March,1,2025,Thursday
+ORD00124,CUST0026,2025-03-27,Tablet,Electronics,4,23871.09,0.0,South,UPI,New,95484.36,3,March,1,2025,Thursday
+ORD00426,CUST0122,2025-03-27,Keyboard,Accessories,2,1647.45,0.0,South,Debit Card,New,3294.9,3,March,1,2025,Thursday
+ORD00080,CUST0097,2025-03-27,Keyboard,Accessories,3,1887.82,0.0,South,Debit Card,Returning,5663.46,3,March,1,2025,Thursday
+ORD01364,CUST0288,2025-03-27,Keyboard,Accessories,3,1947.32,0.0,South,UPI,Returning,5841.96,3,March,1,2025,Thursday
+ORD00276,CUST0231,2025-03-27,Smartphone,Electronics,1,29251.56,0.05,South,Debit Card,New,27788.98,3,March,1,2025,Thursday
+ORD00270,CUST0238,2025-03-27,Office Chair,Furniture,3,8765.48,0.0,South,UPI,VIP,26296.44,3,March,1,2025,Thursday
+ORD01442,CUST0031,2025-03-28,Tablet,Electronics,3,22923.71,0.05,West,Credit Card,New,65332.57,3,March,1,2025,Friday
+ORD00176,CUST0188,2025-03-28,Tablet,Electronics,2,20159.17,0.0,West,Credit Card,Returning,40318.34,3,March,1,2025,Friday
+ORD00747,CUST0007,2025-03-28,Laptop,Electronics,3,61330.26,0.0,North,UPI,VIP,183990.78,3,March,1,2025,Friday
+ORD00099,CUST0288,2025-03-28,Tablet,Electronics,2,23748.69,0.05,East,Net Banking,Returning,45122.51,3,March,1,2025,Friday
+ORD01335,CUST0075,2025-03-28,Smartphone,Electronics,1,31396.34,0.05,North,Debit Card,New,29826.52,3,March,1,2025,Friday
+ORD01235,CUST0041,2025-03-28,Headphones,Electronics,3,3390.08,0.0,North,Net Banking,VIP,10170.24,3,March,1,2025,Friday
+ORD00865,CUST0184,2025-03-28,Office Chair,Furniture,4,9256.0,0.0,North,Credit Card,New,37024.0,3,March,1,2025,Friday
+ORD01430,CUST0105,2025-03-28,Desk,Furniture,1,11171.56,0.0,North,Credit Card,New,11171.56,3,March,1,2025,Friday
+ORD00433,CUST0094,2025-03-29,Laptop,Electronics,3,67165.81,0.0,South,Debit Card,Returning,201497.43,3,March,1,2025,Saturday
+ORD00494,CUST0260,2025-03-29,Mouse,Accessories,4,883.37,0.05,West,Net Banking,VIP,3356.81,3,March,1,2025,Saturday
+ORD00962,CUST0278,2025-03-30,Headphones,Electronics,3,3469.56,0.0,North,Credit Card,New,10408.68,3,March,1,2025,Sunday
+ORD00075,CUST0078,2025-03-30,Tablet,Electronics,2,21378.85,0.1,South,Net Banking,VIP,38481.93,3,March,1,2025,Sunday
+ORD01209,CUST0065,2025-03-30,Desk,Furniture,4,12882.34,0.0,West,Credit Card,Returning,51529.36,3,March,1,2025,Sunday
+ORD01246,CUST0020,2025-03-30,Tablet,Electronics,1,20534.05,0.0,South,Net Banking,Returning,20534.05,3,March,1,2025,Sunday
+ORD01279,CUST0137,2025-03-31,Tablet,Electronics,2,20185.33,0.05,East,UPI,Returning,38352.13,3,March,1,2025,Monday
+ORD00290,CUST0049,2025-03-31,Keyboard,Accessories,2,1957.45,0.05,West,Debit Card,Returning,3719.16,3,March,1,2025,Monday
+ORD00719,CUST0134,2025-03-31,Backpack,Accessories,1,2229.65,0.1,West,Net Banking,Returning,2006.69,3,March,1,2025,Monday
+ORD00489,CUST0164,2025-04-01,Desk,Furniture,2,11753.88,0.05,South,Net Banking,Returning,22332.37,4,April,2,2025,Tuesday
+ORD00916,CUST0166,2025-04-01,Keyboard,Accessories,1,1814.89,0.0,West,Credit Card,New,1814.89,4,April,2,2025,Tuesday
+ORD01100,CUST0130,2025-04-01,Laptop,Electronics,2,58823.17,0.0,North,Debit Card,Returning,117646.34,4,April,2,2025,Tuesday
+ORD00597,CUST0070,2025-04-01,Laptop,Electronics,3,62971.45,0.05,South,Credit Card,New,179468.63,4,April,2,2025,Tuesday
+ORD00325,CUST0252,2025-04-01,Smartphone,Electronics,3,32443.17,0.05,South,Net Banking,Returning,92463.03,4,April,2,2025,Tuesday
+ORD00720,CUST0077,2025-04-02,Laptop,Electronics,3,62624.97,0.1,North,Net Banking,New,169087.42,4,April,2,2025,Wednesday
+ORD01173,CUST0056,2025-04-02,Monitor,Electronics,3,12784.32,0.05,East,UPI,New,36435.31,4,April,2,2025,Wednesday
+ORD01016,CUST0282,2025-04-02,Backpack,Accessories,1,2331.32,0.05,East,Debit Card,Returning,2214.75,4,April,2,2025,Wednesday
+ORD00679,CUST0286,2025-04-03,Laptop,Electronics,3,64372.61,0.0,North,UPI,VIP,193117.83,4,April,2,2025,Thursday
+ORD01336,CUST0186,2025-04-03,Smartphone,Electronics,4,30511.17,0.0,North,UPI,New,122044.68,4,April,2,2025,Thursday
+ORD00179,CUST0059,2025-04-03,Headphones,Electronics,4,3289.68,0.05,South,UPI,VIP,12500.78,4,April,2,2025,Thursday
+ORD00513,CUST0025,2025-04-03,Mouse,Accessories,4,935.51,0.1,North,Debit Card,Returning,3367.84,4,April,2,2025,Thursday
+ORD00189,CUST0287,2025-04-03,Tablet,Electronics,3,21744.91,0.0,South,Net Banking,Returning,65234.73,4,April,2,2025,Thursday
+ORD01041,CUST0292,2025-04-03,Backpack,Accessories,4,2378.65,0.05,South,Net Banking,VIP,9038.87,4,April,2,2025,Thursday
+ORD00576,CUST0286,2025-04-04,Office Chair,Furniture,1,8958.06,0.0,South,Credit Card,VIP,8958.06,4,April,2,2025,Friday
+ORD00626,CUST0025,2025-04-04,Tablet,Electronics,2,22986.62,0.05,East,UPI,Returning,43674.58,4,April,2,2025,Friday
+ORD01147,CUST0286,2025-04-04,Smartphone,Electronics,3,29530.98,0.05,North,Credit Card,VIP,84163.29,4,April,2,2025,Friday
+ORD01159,CUST0148,2025-04-04,Backpack,Accessories,1,2176.12,0.1,West,Net Banking,Returning,1958.51,4,April,2,2025,Friday
+ORD00042,CUST0260,2025-04-05,Laptop,Electronics,1,68340.99,0.0,West,UPI,VIP,68340.99,4,April,2,2025,Saturday
+ORD01265,CUST0171,2025-04-05,Desk,Furniture,3,12739.05,0.0,North,Credit Card,New,38217.15,4,April,2,2025,Saturday
+ORD00531,CUST0028,2025-04-06,Desk,Furniture,1,11913.58,0.0,East,UPI,Returning,11913.58,4,April,2,2025,Sunday
+ORD00559,CUST0278,2025-04-06,Smartphone,Electronics,3,28814.52,0.05,South,Credit Card,New,82121.38,4,April,2,2025,Sunday
+ORD01178,CUST0180,2025-04-06,Smartphone,Electronics,4,30743.76,0.05,South,Debit Card,VIP,116826.29,4,April,2,2025,Sunday
+ORD00016,CUST0192,2025-04-06,Headphones,Electronics,1,3662.15,0.0,West,UPI,New,3662.15,4,April,2,2025,Sunday
+ORD00664,CUST0089,2025-04-06,Desk,Furniture,3,11952.11,0.0,East,UPI,New,35856.33,4,April,2,2025,Sunday
+ORD01237,CUST0191,2025-04-06,Mouse,Accessories,1,870.63,0.05,West,Credit Card,VIP,827.1,4,April,2,2025,Sunday
+ORD00859,CUST0063,2025-04-07,Headphones,Electronics,4,3543.35,0.0,South,Credit Card,New,14173.4,4,April,2,2025,Monday
+ORD00760,CUST0157,2025-04-07,Mouse,Accessories,3,822.17,0.05,North,Net Banking,New,2343.18,4,April,2,2025,Monday
+ORD00579,CUST0137,2025-04-08,Mouse,Accessories,3,838.92,0.0,West,Credit Card,Returning,2516.76,4,April,2,2025,Tuesday
+ORD01028,CUST0288,2025-04-08,Keyboard,Accessories,1,1775.56,0.15,North,Net Banking,Returning,1509.23,4,April,2,2025,Tuesday
+ORD00474,CUST0219,2025-04-08,Laptop,Electronics,4,59462.55,0.05,North,UPI,New,225957.69,4,April,2,2025,Tuesday
+ORD01436,CUST0280,2025-04-08,Keyboard,Accessories,4,1715.41,0.05,West,Credit Card,New,6518.56,4,April,2,2025,Tuesday
+ORD00301,CUST0086,2025-04-08,Laptop,Electronics,1,66467.7,0.0,North,Debit Card,Returning,66467.7,4,April,2,2025,Tuesday
+ORD00302,CUST0005,2025-04-08,Smartphone,Electronics,2,32099.85,0.05,West,Net Banking,Returning,60989.72,4,April,2,2025,Tuesday
+ORD00898,CUST0082,2025-04-08,Office Chair,Furniture,1,7825.47,0.05,West,Debit Card,New,7434.2,4,April,2,2025,Tuesday
+ORD00116,CUST0164,2025-04-08,Laptop,Electronics,3,62362.58,0.05,East,UPI,Returning,177733.35,4,April,2,2025,Tuesday
+ORD00694,CUST0095,2025-04-08,Tablet,Electronics,3,23435.9,0.05,North,Net Banking,New,66792.32,4,April,2,2025,Tuesday
+ORD00749,CUST0227,2025-04-09,Keyboard,Accessories,4,1918.64,0.05,West,Debit Card,New,7290.83,4,April,2,2025,Wednesday
+ORD00605,CUST0182,2025-04-09,Tablet,Electronics,1,23078.79,0.0,North,Net Banking,VIP,23078.79,4,April,2,2025,Wednesday
+ORD00665,CUST0054,2025-04-09,Desk,Furniture,3,12076.49,0.1,West,Debit Card,New,32606.52,4,April,2,2025,Wednesday
+ORD00805,CUST0046,2025-04-10,Headphones,Electronics,3,3661.88,0.1,South,Net Banking,New,9887.08,4,April,2,2025,Thursday
+ORD00291,CUST0231,2025-04-10,Office Chair,Furniture,2,9195.96,0.1,South,Credit Card,New,16552.73,4,April,2,2025,Thursday
+ORD01228,CUST0001,2025-04-10,Headphones,Electronics,3,3297.49,0.0,North,Credit Card,Returning,9892.47,4,April,2,2025,Thursday
+ORD00008,CUST0289,2025-04-10,Keyboard,Accessories,3,1637.3,0.1,South,Net Banking,Returning,4420.71,4,April,2,2025,Thursday
+ORD00774,CUST0061,2025-04-10,Mouse,Accessories,4,848.21,0.0,South,Net Banking,Returning,3392.84,4,April,2,2025,Thursday
+ORD00634,CUST0208,2025-04-11,Monitor,Electronics,4,12741.57,0.05,South,UPI,New,48417.97,4,April,2,2025,Friday
+ORD00434,CUST0093,2025-04-11,Mouse,Accessories,4,812.18,0.0,West,Net Banking,New,3248.72,4,April,2,2025,Friday
+ORD00258,CUST0173,2025-04-11,Headphones,Electronics,1,3666.2,0.05,West,Credit Card,Returning,3482.89,4,April,2,2025,Friday
+ORD01007,CUST0069,2025-04-11,Monitor,Electronics,4,13969.06,0.0,North,Debit Card,VIP,55876.24,4,April,2,2025,Friday
+ORD00088,CUST0296,2025-04-11,Backpack,Accessories,2,2380.7,0.0,North,Debit Card,Returning,4761.4,4,April,2,2025,Friday
+ORD00247,CUST0252,2025-04-11,Laptop,Electronics,4,66731.47,0.0,East,Net Banking,Returning,266925.88,4,April,2,2025,Friday
+ORD01304,CUST0031,2025-04-11,Mouse,Accessories,3,847.81,0.0,West,Debit Card,New,2543.43,4,April,2,2025,Friday
+ORD00372,CUST0165,2025-04-11,Office Chair,Furniture,1,7901.57,0.1,West,Debit Card,VIP,7111.41,4,April,2,2025,Friday
+ORD00120,CUST0039,2025-04-12,Headphones,Electronics,3,3204.44,0.0,South,Net Banking,New,9613.32,4,April,2,2025,Saturday
+ORD01446,CUST0227,2025-04-12,Laptop,Electronics,4,63048.05,0.05,North,Credit Card,New,239582.59,4,April,2,2025,Saturday
+ORD00168,CUST0095,2025-04-12,Mouse,Accessories,4,928.26,0.1,North,Net Banking,New,3341.74,4,April,2,2025,Saturday
+ORD00327,CUST0084,2025-04-12,Laptop,Electronics,1,63978.77,0.0,East,Debit Card,VIP,63978.77,4,April,2,2025,Saturday
+ORD00126,CUST0082,2025-04-13,Monitor,Electronics,3,13874.4,0.05,North,Debit Card,New,39542.04,4,April,2,2025,Sunday
+ORD00994,CUST0092,2025-04-13,Keyboard,Accessories,1,1705.52,0.05,North,UPI,New,1620.24,4,April,2,2025,Sunday
+ORD00045,CUST0207,2025-04-13,Keyboard,Accessories,1,1850.17,0.1,South,Net Banking,VIP,1665.15,4,April,2,2025,Sunday
+ORD01015,CUST0100,2025-04-13,Keyboard,Accessories,1,1909.14,0.0,East,UPI,VIP,1909.14,4,April,2,2025,Sunday
+ORD00717,CUST0158,2025-04-13,Smartphone,Electronics,3,28462.81,0.05,East,UPI,New,81119.01,4,April,2,2025,Sunday
+ORD00457,CUST0051,2025-04-14,Monitor,Electronics,1,15212.19,0.1,East,Net Banking,New,13690.97,4,April,2,2025,Monday
+ORD00119,CUST0073,2025-04-14,Backpack,Accessories,4,2300.4,0.05,South,Credit Card,VIP,8741.52,4,April,2,2025,Monday
+ORD00085,CUST0023,2025-04-14,Tablet,Electronics,2,22505.78,0.1,South,Debit Card,Returning,40510.4,4,April,2,2025,Monday
+ORD00584,CUST0139,2025-04-14,Desk,Furniture,1,11597.29,0.0,East,UPI,Returning,11597.29,4,April,2,2025,Monday
+ORD01023,CUST0240,2025-04-15,Tablet,Electronics,3,23546.76,0.0,South,UPI,Returning,70640.28,4,April,2,2025,Tuesday
+ORD00014,CUST0093,2025-04-15,Tablet,Electronics,2,19902.4,0.1,East,Net Banking,New,35824.32,4,April,2,2025,Tuesday
+ORD01158,CUST0109,2025-04-15,Monitor,Electronics,1,12608.15,0.0,South,Net Banking,Returning,12608.15,4,April,2,2025,Tuesday
+ORD00844,CUST0146,2025-04-15,Headphones,Electronics,2,3303.14,0.0,South,Net Banking,VIP,6606.28,4,April,2,2025,Tuesday
+ORD00731,CUST0258,2025-04-15,Monitor,Electronics,2,14660.57,0.0,West,UPI,New,29321.14,4,April,2,2025,Tuesday
+ORD01110,CUST0041,2025-04-15,Office Chair,Furniture,3,7946.16,0.15,South,UPI,VIP,20262.71,4,April,2,2025,Tuesday
+ORD01091,CUST0057,2025-04-15,Smartphone,Electronics,2,27532.64,0.1,West,Debit Card,VIP,49558.75,4,April,2,2025,Tuesday
+ORD01296,CUST0229,2025-04-15,Mouse,Accessories,2,960.94,0.05,South,UPI,New,1825.79,4,April,2,2025,Tuesday
+ORD00839,CUST0099,2025-04-16,Keyboard,Accessories,2,1956.74,0.1,North,Net Banking,VIP,3522.13,4,April,2,2025,Wednesday
+ORD00736,CUST0209,2025-04-16,Smartphone,Electronics,1,31375.86,0.05,East,Debit Card,VIP,29807.07,4,April,2,2025,Wednesday
+ORD00562,CUST0226,2025-04-16,Backpack,Accessories,2,2299.0,0.05,East,UPI,Returning,4368.1,4,April,2,2025,Wednesday
+ORD00561,CUST0145,2025-04-16,Laptop,Electronics,3,71295.05,0.0,North,Net Banking,Returning,213885.15,4,April,2,2025,Wednesday
+ORD00878,CUST0088,2025-04-16,Backpack,Accessories,1,2308.81,0.0,North,Net Banking,New,2308.81,4,April,2,2025,Wednesday
+ORD01014,CUST0042,2025-04-16,Smartphone,Electronics,2,29413.56,0.0,South,Credit Card,Returning,58827.12,4,April,2,2025,Wednesday
+ORD00344,CUST0090,2025-04-16,Office Chair,Furniture,1,8395.52,0.0,East,Debit Card,Returning,8395.52,4,April,2,2025,Wednesday
+ORD00931,CUST0083,2025-04-17,Laptop,Electronics,1,60337.99,0.0,North,Net Banking,Returning,60337.99,4,April,2,2025,Thursday
+ORD00492,CUST0058,2025-04-17,Mouse,Accessories,2,899.9,0.05,North,UPI,Returning,1709.81,4,April,2,2025,Thursday
+ORD00137,CUST0063,2025-04-17,Mouse,Accessories,1,959.52,0.0,South,Credit Card,New,959.52,4,April,2,2025,Thursday
+ORD00476,CUST0295,2025-04-18,Mouse,Accessories,4,863.51,0.0,East,Net Banking,VIP,3454.04,4,April,2,2025,Friday
+ORD00835,CUST0240,2025-04-18,Monitor,Electronics,1,13644.4,0.0,South,Credit Card,Returning,13644.4,4,April,2,2025,Friday
+ORD00745,CUST0179,2025-04-19,Monitor,Electronics,4,13476.17,0.1,North,Credit Card,New,48514.21,4,April,2,2025,Saturday
+ORD00460,CUST0003,2025-04-19,Laptop,Electronics,3,68441.35,0.05,East,Net Banking,New,195057.85,4,April,2,2025,Saturday
+ORD00864,CUST0153,2025-04-19,Mouse,Accessories,1,856.58,0.0,South,Credit Card,VIP,856.58,4,April,2,2025,Saturday
+ORD00347,CUST0127,2025-04-19,Laptop,Electronics,4,63983.77,0.0,West,Credit Card,New,255935.08,4,April,2,2025,Saturday
+ORD00872,CUST0214,2025-04-19,Headphones,Electronics,1,3716.99,0.0,North,Debit Card,Returning,3716.99,4,April,2,2025,Saturday
+ORD00060,CUST0145,2025-04-19,Monitor,Electronics,1,14501.49,0.1,South,UPI,Returning,13051.34,4,April,2,2025,Saturday
+ORD00556,CUST0296,2025-04-20,Desk,Furniture,4,10820.89,0.0,West,Net Banking,Returning,43283.56,4,April,2,2025,Sunday
+ORD01342,CUST0014,2025-04-20,Tablet,Electronics,4,23260.53,0.0,South,Net Banking,Returning,93042.12,4,April,2,2025,Sunday
+ORD00654,CUST0285,2025-04-20,Keyboard,Accessories,4,1679.72,0.0,South,Credit Card,Returning,6718.88,4,April,2,2025,Sunday
+ORD01302,CUST0064,2025-04-20,Office Chair,Furniture,1,8208.92,0.05,North,Debit Card,Returning,7798.47,4,April,2,2025,Sunday
+ORD00540,CUST0153,2025-04-20,Monitor,Electronics,4,14271.19,0.1,South,UPI,VIP,51376.28,4,April,2,2025,Sunday
+ORD00174,CUST0264,2025-04-21,Desk,Furniture,2,12300.73,0.1,East,UPI,Returning,22141.31,4,April,2,2025,Monday
+ORD01452,CUST0078,2025-04-21,Smartphone,Electronics,1,27724.68,0.0,West,UPI,VIP,27724.68,4,April,2,2025,Monday
+ORD00574,CUST0219,2025-04-21,Office Chair,Furniture,2,8686.9,0.1,East,Credit Card,New,15636.42,4,April,2,2025,Monday
+ORD01435,CUST0107,2025-04-21,Headphones,Electronics,3,3469.92,0.05,South,UPI,Returning,9889.27,4,April,2,2025,Monday
+ORD00942,CUST0102,2025-04-22,Tablet,Electronics,2,23815.46,0.0,North,Credit Card,New,47630.92,4,April,2,2025,Tuesday
+ORD01017,CUST0053,2025-04-22,Smartphone,Electronics,2,32915.61,0.1,North,UPI,New,59248.1,4,April,2,2025,Tuesday
+ORD00044,CUST0054,2025-04-22,Keyboard,Accessories,2,1935.6,0.0,East,UPI,New,3871.2,4,April,2,2025,Tuesday
+ORD00503,CUST0285,2025-04-22,Keyboard,Accessories,3,1684.53,0.05,East,Credit Card,Returning,4800.91,4,April,2,2025,Tuesday
+ORD00467,CUST0083,2025-04-23,Headphones,Electronics,2,3323.26,0.0,West,Debit Card,Returning,6646.52,4,April,2,2025,Wednesday
+ORD00284,CUST0192,2025-04-23,Headphones,Electronics,4,3411.42,0.0,East,Credit Card,New,13645.68,4,April,2,2025,Wednesday
+ORD00763,CUST0056,2025-04-23,Laptop,Electronics,1,59555.13,0.05,North,UPI,New,56577.37,4,April,2,2025,Wednesday
+ORD00097,CUST0078,2025-04-23,Headphones,Electronics,3,3519.35,0.05,South,Debit Card,VIP,10030.15,4,April,2,2025,Wednesday
+ORD00702,CUST0015,2025-04-23,Office Chair,Furniture,2,9047.98,0.1,North,Net Banking,Returning,16286.36,4,April,2,2025,Wednesday
+ORD00199,CUST0193,2025-04-24,Office Chair,Furniture,3,9255.84,0.05,South,Credit Card,New,26379.14,4,April,2,2025,Thursday
+ORD00941,CUST0172,2025-04-24,Office Chair,Furniture,4,9240.22,0.15,South,Debit Card,VIP,31416.75,4,April,2,2025,Thursday
+ORD00952,CUST0104,2025-04-24,Monitor,Electronics,2,14402.42,0.0,East,UPI,Returning,28804.84,4,April,2,2025,Thursday
+ORD00466,CUST0022,2025-04-24,Headphones,Electronics,1,3707.68,0.0,West,UPI,VIP,3707.68,4,April,2,2025,Thursday
+ORD00939,CUST0100,2025-04-24,Smartphone,Electronics,1,28628.59,0.0,South,Credit Card,VIP,28628.59,4,April,2,2025,Thursday
+ORD00145,CUST0081,2025-04-25,Smartphone,Electronics,4,32297.44,0.05,South,UPI,New,122730.27,4,April,2,2025,Friday
+ORD01080,CUST0218,2025-04-25,Backpack,Accessories,4,2057.97,0.05,East,Credit Card,New,7820.29,4,April,2,2025,Friday
+ORD01072,CUST0286,2025-04-25,Office Chair,Furniture,1,7796.4,0.05,South,Debit Card,VIP,7406.58,4,April,2,2025,Friday
+ORD00670,CUST0211,2025-04-25,Desk,Furniture,4,12122.52,0.05,South,UPI,Returning,46065.58,4,April,2,2025,Friday
+ORD00716,CUST0232,2025-04-25,Keyboard,Accessories,1,1767.27,0.0,West,UPI,Returning,1767.27,4,April,2,2025,Friday
+ORD01090,CUST0198,2025-04-26,Headphones,Electronics,4,3337.37,0.0,West,Debit Card,New,13349.48,4,April,2,2025,Saturday
+ORD01151,CUST0061,2025-04-26,Backpack,Accessories,4,2049.24,0.0,North,UPI,Returning,8196.96,4,April,2,2025,Saturday
+ORD00595,CUST0066,2025-04-26,Headphones,Electronics,2,3572.66,0.1,South,Credit Card,Returning,6430.79,4,April,2,2025,Saturday
+ORD00577,CUST0171,2025-04-26,Keyboard,Accessories,2,1693.6,0.0,East,Credit Card,New,3387.2,4,April,2,2025,Saturday
+ORD00845,CUST0255,2025-04-26,Smartphone,Electronics,3,28750.16,0.1,North,Debit Card,Returning,77625.43,4,April,2,2025,Saturday
+ORD01250,CUST0032,2025-04-26,Backpack,Accessories,2,2302.59,0.0,West,Net Banking,Returning,4605.18,4,April,2,2025,Saturday
+ORD00208,CUST0265,2025-04-27,Headphones,Electronics,1,3754.33,0.05,North,Debit Card,New,3566.61,4,April,2,2025,Sunday
+ORD01448,CUST0101,2025-04-27,Smartphone,Electronics,4,28736.99,0.05,East,Debit Card,VIP,109200.56,4,April,2,2025,Sunday
+ORD00182,CUST0050,2025-04-27,Laptop,Electronics,3,66022.78,0.0,South,Net Banking,Returning,198068.34,4,April,2,2025,Sunday
+ORD00166,CUST0009,2025-04-27,Mouse,Accessories,4,898.49,0.0,South,Net Banking,New,3593.96,4,April,2,2025,Sunday
+ORD00283,CUST0211,2025-04-27,Mouse,Accessories,4,870.16,0.1,East,Net Banking,Returning,3132.58,4,April,2,2025,Sunday
+ORD00090,CUST0149,2025-04-27,Backpack,Accessories,1,2127.49,0.1,South,Credit Card,VIP,1914.74,4,April,2,2025,Sunday
+ORD00438,CUST0129,2025-04-27,Backpack,Accessories,1,2191.88,0.05,South,UPI,VIP,2082.29,4,April,2,2025,Sunday
+ORD00029,CUST0190,2025-04-27,Backpack,Accessories,3,2190.19,0.0,South,Debit Card,Returning,6570.57,4,April,2,2025,Sunday
+ORD01179,CUST0288,2025-04-28,Monitor,Electronics,3,12891.09,0.15,South,Net Banking,Returning,32872.28,4,April,2,2025,Monday
+ORD00094,CUST0049,2025-04-28,Office Chair,Furniture,1,9283.82,0.0,South,Net Banking,Returning,9283.82,4,April,2,2025,Monday
+ORD00501,CUST0006,2025-04-28,Headphones,Electronics,1,3502.19,0.0,North,Debit Card,Returning,3502.19,4,April,2,2025,Monday
+ORD00037,CUST0010,2025-04-29,Desk,Furniture,2,12878.55,0.0,West,Credit Card,New,25757.1,4,April,2,2025,Tuesday
+ORD00058,CUST0274,2025-04-29,Tablet,Electronics,2,22143.52,0.0,North,Net Banking,New,44287.04,4,April,2,2025,Tuesday
+ORD00102,CUST0264,2025-04-30,Smartphone,Electronics,3,28459.03,0.05,South,UPI,Returning,81108.24,4,April,2,2025,Wednesday
+ORD00155,CUST0012,2025-04-30,Mouse,Accessories,1,914.79,0.0,East,Debit Card,New,914.79,4,April,2,2025,Wednesday
+ORD00789,CUST0101,2025-04-30,Keyboard,Accessories,2,1692.77,0.05,North,Credit Card,VIP,3216.26,4,April,2,2025,Wednesday
+ORD01470,CUST0100,2025-05-01,Smartphone,Electronics,1,32598.68,0.05,West,Credit Card,VIP,30968.75,5,May,2,2025,Thursday
+ORD00232,CUST0118,2025-05-01,Keyboard,Accessories,4,1953.72,0.05,South,Credit Card,Returning,7424.14,5,May,2,2025,Thursday
+ORD00495,CUST0207,2025-05-01,Laptop,Electronics,3,67768.48,0.0,North,Debit Card,VIP,203305.44,5,May,2,2025,Thursday
+ORD00505,CUST0246,2025-05-02,Laptop,Electronics,2,58748.68,0.0,South,UPI,New,117497.36,5,May,2,2025,Friday
+ORD01049,CUST0176,2025-05-02,Backpack,Accessories,3,2315.25,0.05,West,UPI,Returning,6598.46,5,May,2,2025,Friday
+ORD00357,CUST0146,2025-05-02,Monitor,Electronics,3,12817.32,0.05,South,Net Banking,VIP,36529.36,5,May,2,2025,Friday
+ORD01230,CUST0277,2025-05-02,Keyboard,Accessories,3,1690.24,0.1,East,Debit Card,New,4563.65,5,May,2,2025,Friday
+ORD00022,CUST0109,2025-05-02,Keyboard,Accessories,2,1970.73,0.15,North,UPI,Returning,3350.24,5,May,2,2025,Friday
+ORD00904,CUST0046,2025-05-03,Smartphone,Electronics,3,27550.67,0.05,North,UPI,New,78519.41,5,May,2,2025,Saturday
+ORD01022,CUST0191,2025-05-03,Monitor,Electronics,3,12704.22,0.1,East,Debit Card,VIP,34301.39,5,May,2,2025,Saturday
+ORD00897,CUST0293,2025-05-03,Headphones,Electronics,3,3357.58,0.0,West,Net Banking,New,10072.74,5,May,2,2025,Saturday
+ORD01181,CUST0026,2025-05-03,Smartphone,Electronics,4,29997.4,0.0,North,Net Banking,New,119989.6,5,May,2,2025,Saturday
+ORD01068,CUST0016,2025-05-04,Office Chair,Furniture,1,9193.18,0.05,East,UPI,Returning,8733.52,5,May,2,2025,Sunday
+ORD00001,CUST0047,2025-05-04,Headphones,Electronics,3,3246.85,0.0,South,Debit Card,Returning,9740.55,5,May,2,2025,Sunday
+ORD00210,CUST0021,2025-05-04,Office Chair,Furniture,3,7662.86,0.05,East,Credit Card,New,21839.15,5,May,2,2025,Sunday
+ORD01108,CUST0058,2025-05-05,Headphones,Electronics,1,3549.13,0.1,South,Credit Card,Returning,3194.22,5,May,2,2025,Monday
+ORD01253,CUST0283,2025-05-05,Laptop,Electronics,4,67276.69,0.0,East,Credit Card,Returning,269106.76,5,May,2,2025,Monday
+ORD00431,CUST0154,2025-05-05,Mouse,Accessories,4,959.29,0.05,South,Credit Card,Returning,3645.3,5,May,2,2025,Monday
+ORD00557,CUST0093,2025-05-05,Desk,Furniture,4,12783.88,0.0,North,Net Banking,New,51135.52,5,May,2,2025,Monday
+ORD00222,CUST0291,2025-05-05,Office Chair,Furniture,1,8798.93,0.0,East,Credit Card,VIP,8798.93,5,May,2,2025,Monday
+ORD00538,CUST0207,2025-05-05,Tablet,Electronics,3,23929.02,0.0,South,UPI,VIP,71787.06,5,May,2,2025,Monday
+ORD01469,CUST0245,2025-05-05,Laptop,Electronics,1,65955.49,0.1,North,Debit Card,VIP,59359.94,5,May,2,2025,Monday
+ORD00458,CUST0198,2025-05-06,Laptop,Electronics,3,67529.74,0.05,North,Credit Card,New,192459.76,5,May,2,2025,Tuesday
+ORD00713,CUST0187,2025-05-06,Laptop,Electronics,3,65284.5,0.0,North,Credit Card,New,195853.5,5,May,2,2025,Tuesday
+ORD00059,CUST0202,2025-05-06,Office Chair,Furniture,1,9079.21,0.0,West,Credit Card,VIP,9079.21,5,May,2,2025,Tuesday
+ORD00361,CUST0275,2025-05-06,Tablet,Electronics,4,21467.21,0.0,East,Credit Card,Returning,85868.84,5,May,2,2025,Tuesday
+ORD00483,CUST0283,2025-05-07,Mouse,Accessories,2,826.67,0.05,North,Net Banking,Returning,1570.67,5,May,2,2025,Wednesday
+ORD01318,CUST0049,2025-05-07,Backpack,Accessories,1,2313.29,0.05,North,Credit Card,Returning,2197.63,5,May,2,2025,Wednesday
+ORD01399,CUST0032,2025-05-08,Desk,Furniture,4,11392.19,0.05,East,UPI,Returning,43290.32,5,May,2,2025,Thursday
+ORD01168,CUST0015,2025-05-08,Tablet,Electronics,1,24176.21,0.05,West,Credit Card,Returning,22967.4,5,May,2,2025,Thursday
+ORD01088,CUST0141,2025-05-08,Smartphone,Electronics,1,30836.25,0.0,East,UPI,New,30836.25,5,May,2,2025,Thursday
+ORD00856,CUST0297,2025-05-08,Office Chair,Furniture,1,8415.4,0.0,East,Credit Card,New,8415.4,5,May,2,2025,Thursday
+ORD01384,CUST0171,2025-05-08,Monitor,Electronics,1,13971.17,0.1,South,UPI,New,12574.05,5,May,2,2025,Thursday
+ORD00966,CUST0133,2025-05-09,Headphones,Electronics,3,3352.61,0.05,East,Net Banking,VIP,9554.94,5,May,2,2025,Friday
+ORD00798,CUST0263,2025-05-09,Monitor,Electronics,4,12714.99,0.05,North,Credit Card,VIP,48316.96,5,May,2,2025,Friday
+ORD00255,CUST0113,2025-05-09,Backpack,Accessories,4,2326.24,0.0,South,Net Banking,New,9304.96,5,May,2,2025,Friday
+ORD00594,CUST0140,2025-05-09,Office Chair,Furniture,4,8183.59,0.05,South,Credit Card,New,31097.64,5,May,2,2025,Friday
+ORD00780,CUST0036,2025-05-10,Office Chair,Furniture,4,7846.9,0.05,East,Debit Card,New,29818.22,5,May,2,2025,Saturday
+ORD00239,CUST0014,2025-05-10,Backpack,Accessories,3,2157.31,0.0,East,Debit Card,Returning,6471.93,5,May,2,2025,Saturday
+ORD00964,CUST0269,2025-05-11,Smartphone,Electronics,3,32595.61,0.0,East,Debit Card,Returning,97786.83,5,May,2,2025,Sunday
+ORD00127,CUST0159,2025-05-11,Desk,Furniture,3,12145.63,0.05,North,UPI,Returning,34615.05,5,May,2,2025,Sunday
+ORD01206,CUST0145,2025-05-11,Monitor,Electronics,1,15085.7,0.0,East,Credit Card,Returning,15085.7,5,May,2,2025,Sunday
+ORD00683,CUST0161,2025-05-12,Laptop,Electronics,4,63592.65,0.0,East,Debit Card,Returning,254370.6,5,May,2,2025,Monday
+ORD01238,CUST0263,2025-05-12,Laptop,Electronics,1,69772.04,0.15,South,Credit Card,VIP,59306.23,5,May,2,2025,Monday
+ORD00278,CUST0243,2025-05-12,Office Chair,Furniture,2,9140.31,0.15,East,Credit Card,New,15538.53,5,May,2,2025,Monday
+ORD01214,CUST0117,2025-05-12,Headphones,Electronics,3,3380.52,0.0,West,Net Banking,New,10141.56,5,May,2,2025,Monday
+ORD01106,CUST0239,2025-05-12,Monitor,Electronics,4,13226.09,0.1,North,Net Banking,New,47613.92,5,May,2,2025,Monday
+ORD00793,CUST0082,2025-05-12,Laptop,Electronics,1,70073.08,0.0,South,UPI,New,70073.08,5,May,2,2025,Monday
+ORD01052,CUST0184,2025-05-13,Backpack,Accessories,4,2013.23,0.05,East,Credit Card,New,7650.27,5,May,2,2025,Tuesday
+ORD01221,CUST0047,2025-05-14,Keyboard,Accessories,3,1912.54,0.0,East,Credit Card,Returning,5737.62,5,May,2,2025,Wednesday
+ORD01353,CUST0068,2025-05-14,Smartphone,Electronics,2,29918.35,0.0,North,Net Banking,New,59836.7,5,May,2,2025,Wednesday
+ORD00742,CUST0034,2025-05-14,Monitor,Electronics,1,15153.09,0.0,North,Debit Card,New,15153.09,5,May,2,2025,Wednesday
+ORD00317,CUST0133,2025-05-14,Headphones,Electronics,1,3385.79,0.0,East,Net Banking,VIP,3385.79,5,May,2,2025,Wednesday
+ORD00959,CUST0282,2025-05-14,Office Chair,Furniture,1,8466.31,0.05,South,Debit Card,Returning,8042.99,5,May,2,2025,Wednesday
+ORD01301,CUST0134,2025-05-15,Tablet,Electronics,2,21321.65,0.0,South,Net Banking,Returning,42643.3,5,May,2,2025,Thursday
+ORD01401,CUST0225,2025-05-15,Desk,Furniture,4,11081.94,0.1,East,Net Banking,Returning,39894.98,5,May,2,2025,Thursday
+ORD01308,CUST0235,2025-05-15,Desk,Furniture,2,12557.86,0.0,North,Credit Card,Returning,25115.72,5,May,2,2025,Thursday
+ORD00818,CUST0149,2025-05-15,Smartphone,Electronics,2,32597.21,0.1,North,Credit Card,VIP,58674.98,5,May,2,2025,Thursday
+ORD00384,CUST0025,2025-05-16,Keyboard,Accessories,1,1644.85,0.0,North,Net Banking,Returning,1644.85,5,May,2,2025,Friday
+ORD01139,CUST0276,2025-05-16,Headphones,Electronics,1,3354.31,0.0,West,UPI,Returning,3354.31,5,May,2,2025,Friday
+ORD01375,CUST0054,2025-05-17,Smartphone,Electronics,2,31971.18,0.1,South,Net Banking,New,57548.12,5,May,2,2025,Saturday
+ORD00998,CUST0025,2025-05-17,Monitor,Electronics,2,12956.23,0.1,West,UPI,Returning,23321.21,5,May,2,2025,Saturday
+ORD00938,CUST0032,2025-05-17,Tablet,Electronics,3,20569.04,0.1,North,Credit Card,Returning,55536.41,5,May,2,2025,Saturday
+ORD00589,CUST0097,2025-05-17,Desk,Furniture,4,11694.02,0.1,East,Net Banking,Returning,42098.47,5,May,2,2025,Saturday
+ORD01491,CUST0107,2025-05-17,Tablet,Electronics,1,22249.97,0.05,East,Net Banking,Returning,21137.47,5,May,2,2025,Saturday
+ORD00481,CUST0068,2025-05-18,Office Chair,Furniture,1,8571.38,0.1,West,Credit Card,New,7714.24,5,May,2,2025,Sunday
+ORD01325,CUST0128,2025-05-18,Office Chair,Furniture,4,8454.46,0.05,West,Credit Card,New,32126.95,5,May,2,2025,Sunday
+ORD01188,CUST0038,2025-05-18,Smartphone,Electronics,3,29214.11,0.0,South,Debit Card,VIP,87642.33,5,May,2,2025,Sunday
+ORD01500,CUST0269,2025-05-18,Mouse,Accessories,3,921.03,0.05,East,UPI,Returning,2624.94,5,May,2,2025,Sunday
+ORD00643,CUST0189,2025-05-18,Headphones,Electronics,3,3477.38,0.05,South,Debit Card,Returning,9910.53,5,May,2,2025,Sunday
+ORD01234,CUST0080,2025-05-18,Backpack,Accessories,4,2155.23,0.05,West,Debit Card,VIP,8189.87,5,May,2,2025,Sunday
+ORD01262,CUST0094,2025-05-18,Smartphone,Electronics,1,27772.48,0.05,North,Credit Card,Returning,26383.86,5,May,2,2025,Sunday
+ORD01030,CUST0252,2025-05-19,Office Chair,Furniture,2,8881.75,0.0,West,Net Banking,Returning,17763.5,5,May,2,2025,Monday
+ORD00581,CUST0268,2025-05-19,Laptop,Electronics,3,68918.8,0.0,East,UPI,New,206756.4,5,May,2,2025,Monday
+ORD01372,CUST0265,2025-05-19,Office Chair,Furniture,4,8878.98,0.1,North,Net Banking,New,31964.33,5,May,2,2025,Monday
+ORD00260,CUST0148,2025-05-19,Keyboard,Accessories,4,1747.17,0.0,West,UPI,Returning,6988.68,5,May,2,2025,Monday
+ORD00370,CUST0092,2025-05-19,Desk,Furniture,1,11865.7,0.05,West,UPI,New,11272.42,5,May,2,2025,Monday
+ORD01389,CUST0243,2025-05-20,Smartphone,Electronics,1,28024.06,0.05,North,Debit Card,New,26622.86,5,May,2,2025,Tuesday
+ORD00815,CUST0262,2025-05-20,Desk,Furniture,1,12400.05,0.05,North,Debit Card,New,11780.05,5,May,2,2025,Tuesday
+ORD01431,CUST0129,2025-05-20,Smartphone,Electronics,2,32417.26,0.0,South,UPI,VIP,64834.52,5,May,2,2025,Tuesday
+ORD00373,CUST0147,2025-05-20,Keyboard,Accessories,2,1879.97,0.05,South,Credit Card,New,3571.94,5,May,2,2025,Tuesday
+ORD00961,CUST0186,2025-05-20,Mouse,Accessories,2,870.37,0.15,East,Debit Card,New,1479.63,5,May,2,2025,Tuesday
+ORD00432,CUST0107,2025-05-21,Keyboard,Accessories,4,1971.83,0.1,South,Net Banking,Returning,7098.59,5,May,2,2025,Wednesday
+ORD01079,CUST0124,2025-05-21,Tablet,Electronics,2,21725.64,0.0,North,Credit Card,VIP,43451.28,5,May,2,2025,Wednesday
+ORD01157,CUST0209,2025-05-21,Mouse,Accessories,4,957.02,0.15,West,UPI,VIP,3253.87,5,May,2,2025,Wednesday
+ORD01377,CUST0115,2025-05-21,Headphones,Electronics,3,3483.73,0.0,South,Debit Card,New,10451.19,5,May,2,2025,Wednesday
+ORD01479,CUST0161,2025-05-21,Office Chair,Furniture,1,9253.71,0.0,South,UPI,Returning,9253.71,5,May,2,2025,Wednesday
+ORD01232,CUST0147,2025-05-22,Laptop,Electronics,2,63274.61,0.1,West,Net Banking,New,113894.3,5,May,2,2025,Thursday
+ORD01261,CUST0100,2025-05-22,Laptop,Electronics,4,62732.55,0.15,East,UPI,VIP,213290.67,5,May,2,2025,Thursday
+ORD00297,CUST0143,2025-05-22,Office Chair,Furniture,1,7738.84,0.0,North,Credit Card,Returning,7738.84,5,May,2,2025,Thursday
+ORD00205,CUST0129,2025-05-23,Desk,Furniture,2,12106.77,0.0,North,Net Banking,VIP,24213.54,5,May,2,2025,Friday
+ORD00236,CUST0190,2025-05-23,Office Chair,Furniture,2,8671.01,0.05,South,Net Banking,Returning,16474.92,5,May,2,2025,Friday
+ORD00323,CUST0191,2025-05-23,Headphones,Electronics,4,3756.47,0.0,East,Credit Card,VIP,15025.88,5,May,2,2025,Friday
+ORD00305,CUST0020,2025-05-23,Tablet,Electronics,3,23137.07,0.1,West,Net Banking,Returning,62470.09,5,May,2,2025,Friday
+ORD00172,CUST0103,2025-05-23,Smartphone,Electronics,2,30405.25,0.05,South,Debit Card,Returning,57769.98,5,May,2,2025,Friday
+ORD00535,CUST0061,2025-05-23,Tablet,Electronics,3,24189.56,0.0,West,Credit Card,Returning,72568.68,5,May,2,2025,Friday
+ORD01416,CUST0004,2025-05-23,Keyboard,Accessories,3,1843.89,0.15,North,UPI,Returning,4701.92,5,May,2,2025,Friday
+ORD01419,CUST0088,2025-05-23,Desk,Furniture,3,11604.79,0.1,South,UPI,New,31332.93,5,May,2,2025,Friday
+ORD00607,CUST0078,2025-05-23,Mouse,Accessories,3,849.82,0.0,South,Credit Card,VIP,2549.46,5,May,2,2025,Friday
+ORD01162,CUST0105,2025-05-24,Headphones,Electronics,3,3488.66,0.05,North,Debit Card,New,9942.68,5,May,2,2025,Saturday
+ORD00909,CUST0230,2025-05-24,Tablet,Electronics,4,21309.43,0.05,North,Net Banking,New,80975.83,5,May,2,2025,Saturday
+ORD01438,CUST0108,2025-05-24,Smartphone,Electronics,2,29644.59,0.05,South,Credit Card,New,56324.72,5,May,2,2025,Saturday
+ORD00021,CUST0025,2025-05-24,Monitor,Electronics,3,13195.64,0.1,North,UPI,Returning,35628.23,5,May,2,2025,Saturday
+ORD00936,CUST0002,2025-05-24,Headphones,Electronics,1,3696.49,0.1,West,Net Banking,New,3326.84,5,May,2,2025,Saturday
+ORD00819,CUST0294,2025-05-25,Mouse,Accessories,1,895.46,0.0,East,Debit Card,Returning,895.46,5,May,2,2025,Sunday
+ORD00482,CUST0237,2025-05-25,Tablet,Electronics,4,22758.83,0.15,South,Debit Card,Returning,77380.02,5,May,2,2025,Sunday
+ORD00883,CUST0074,2025-05-25,Headphones,Electronics,3,3198.25,0.05,East,Credit Card,New,9115.01,5,May,2,2025,Sunday
+ORD01223,CUST0059,2025-05-25,Monitor,Electronics,3,15317.87,0.0,East,Debit Card,VIP,45953.61,5,May,2,2025,Sunday
+ORD00812,CUST0294,2025-05-25,Office Chair,Furniture,2,8554.78,0.1,East,Debit Card,Returning,15398.6,5,May,2,2025,Sunday
+ORD00212,CUST0052,2025-05-26,Headphones,Electronics,4,3367.92,0.05,South,Credit Card,New,12798.1,5,May,2,2025,Monday
+ORD00705,CUST0025,2025-05-26,Smartphone,Electronics,2,29292.84,0.05,East,Net Banking,Returning,55656.4,5,May,2,2025,Monday
+ORD00951,CUST0298,2025-05-26,Laptop,Electronics,4,66355.96,0.05,North,Net Banking,Returning,252152.65,5,May,2,2025,Monday
+ORD00617,CUST0125,2025-05-26,Backpack,Accessories,4,2157.41,0.1,South,Credit Card,Returning,7766.68,5,May,2,2025,Monday
+ORD00619,CUST0122,2025-05-26,Monitor,Electronics,1,15162.17,0.0,East,Net Banking,New,15162.17,5,May,2,2025,Monday
+ORD01271,CUST0296,2025-05-27,Laptop,Electronics,1,59440.64,0.1,East,Net Banking,Returning,53496.58,5,May,2,2025,Tuesday
+ORD00699,CUST0035,2025-05-27,Mouse,Accessories,4,881.6,0.05,East,Net Banking,New,3350.08,5,May,2,2025,Tuesday
+ORD00445,CUST0242,2025-05-27,Monitor,Electronics,1,14255.16,0.0,West,UPI,New,14255.16,5,May,2,2025,Tuesday
+ORD00776,CUST0162,2025-05-27,Monitor,Electronics,2,14124.75,0.0,South,Debit Card,New,28249.5,5,May,2,2025,Tuesday
+ORD01313,CUST0236,2025-05-27,Tablet,Electronics,3,22719.41,0.0,East,Debit Card,New,68158.23,5,May,2,2025,Tuesday
+ORD01093,CUST0065,2025-05-28,Smartphone,Electronics,4,29651.12,0.0,North,UPI,Returning,118604.48,5,May,2,2025,Wednesday
+ORD00393,CUST0023,2025-05-28,Tablet,Electronics,2,23414.3,0.05,West,Debit Card,Returning,44487.17,5,May,2,2025,Wednesday
+ORD00899,CUST0169,2025-05-28,Keyboard,Accessories,3,1776.84,0.0,West,Credit Card,VIP,5330.52,5,May,2,2025,Wednesday
+ORD00269,CUST0268,2025-05-29,Backpack,Accessories,3,2090.99,0.1,South,Net Banking,New,5645.67,5,May,2,2025,Thursday
+ORD01320,CUST0061,2025-05-29,Mouse,Accessories,4,960.95,0.05,West,UPI,Returning,3651.61,5,May,2,2025,Thursday
+ORD00622,CUST0214,2025-05-30,Desk,Furniture,2,11857.38,0.0,West,UPI,Returning,23714.76,5,May,2,2025,Friday
+ORD00655,CUST0146,2025-05-30,Desk,Furniture,2,12720.5,0.1,West,Debit Card,VIP,22896.9,5,May,2,2025,Friday
+ORD00618,CUST0221,2025-05-31,Office Chair,Furniture,4,8404.64,0.1,North,Debit Card,New,30256.7,5,May,2,2025,Saturday
+ORD00782,CUST0067,2025-05-31,Office Chair,Furniture,1,7898.24,0.1,East,UPI,VIP,7108.42,5,May,2,2025,Saturday
+ORD00836,CUST0151,2025-05-31,Keyboard,Accessories,4,1710.91,0.0,East,Net Banking,New,6843.64,5,May,2,2025,Saturday
+ORD00234,CUST0038,2025-05-31,Monitor,Electronics,2,12776.71,0.0,South,Credit Card,VIP,25553.42,5,May,2,2025,Saturday
+ORD00852,CUST0196,2025-05-31,Tablet,Electronics,3,20497.17,0.0,West,Net Banking,Returning,61491.51,5,May,2,2025,Saturday
+ORD00734,CUST0060,2025-05-31,Office Chair,Furniture,3,9310.15,0.05,North,Debit Card,Returning,26533.93,5,May,2,2025,Saturday
+ORD00465,CUST0147,2025-05-31,Tablet,Electronics,1,20492.0,0.0,South,Net Banking,New,20492.0,5,May,2,2025,Saturday
+ORD00689,CUST0087,2025-06-01,Tablet,Electronics,1,21534.2,0.05,South,UPI,New,20457.49,6,June,2,2025,Sunday
+ORD00371,CUST0273,2025-06-01,Headphones,Electronics,4,3360.34,0.0,South,UPI,New,13441.36,6,June,2,2025,Sunday
+ORD00507,CUST0047,2025-06-01,Mouse,Accessories,3,852.16,0.0,West,UPI,Returning,2556.48,6,June,2,2025,Sunday
+ORD00259,CUST0200,2025-06-01,Backpack,Accessories,3,2295.18,0.0,North,Credit Card,New,6885.54,6,June,2,2025,Sunday
+ORD00217,CUST0010,2025-06-01,Desk,Furniture,2,11665.85,0.1,West,Credit Card,New,20998.53,6,June,2,2025,Sunday
+ORD00993,CUST0228,2025-06-02,Laptop,Electronics,4,61665.07,0.05,South,Credit Card,Returning,234327.27,6,June,2,2025,Monday
+ORD00919,CUST0073,2025-06-02,Keyboard,Accessories,3,1966.58,0.05,South,Credit Card,VIP,5604.75,6,June,2,2025,Monday
+ORD00986,CUST0029,2025-06-02,Office Chair,Furniture,1,7829.85,0.05,North,Credit Card,Returning,7438.36,6,June,2,2025,Monday
+ORD00475,CUST0208,2025-06-03,Smartphone,Electronics,4,30297.64,0.05,East,UPI,New,115131.03,6,June,2,2025,Tuesday
+ORD00781,CUST0097,2025-06-03,Office Chair,Furniture,2,8298.75,0.1,East,UPI,Returning,14937.75,6,June,2,2025,Tuesday
+ORD01367,CUST0222,2025-06-03,Smartphone,Electronics,2,30736.45,0.0,West,Net Banking,Returning,61472.9,6,June,2,2025,Tuesday
+ORD00440,CUST0181,2025-06-03,Smartphone,Electronics,4,32083.63,0.1,North,Net Banking,Returning,115501.07,6,June,2,2025,Tuesday
+ORD00316,CUST0025,2025-06-03,Headphones,Electronics,1,3170.55,0.1,South,Debit Card,Returning,2853.5,6,June,2,2025,Tuesday
+ORD01409,CUST0061,2025-06-04,Desk,Furniture,1,11924.76,0.1,North,Net Banking,Returning,10732.28,6,June,2,2025,Wednesday
+ORD00437,CUST0141,2025-06-04,Tablet,Electronics,4,21071.09,0.0,South,UPI,New,84284.36,6,June,2,2025,Wednesday
+ORD00093,CUST0161,2025-06-05,Laptop,Electronics,1,66047.65,0.05,South,Credit Card,Returning,62745.27,6,June,2,2025,Thursday
+ORD01012,CUST0024,2025-06-05,Laptop,Electronics,2,69448.52,0.0,West,Net Banking,Returning,138897.04,6,June,2,2025,Thursday
+ORD00547,CUST0268,2025-06-05,Desk,Furniture,2,12445.68,0.1,West,Debit Card,New,22402.22,6,June,2,2025,Thursday
+ORD01424,CUST0198,2025-06-05,Keyboard,Accessories,2,1857.36,0.0,South,Debit Card,New,3714.72,6,June,2,2025,Thursday
+ORD01393,CUST0170,2025-06-06,Office Chair,Furniture,1,9088.69,0.0,West,Debit Card,Returning,9088.69,6,June,2,2025,Friday
+ORD00079,CUST0015,2025-06-06,Laptop,Electronics,4,68138.99,0.05,South,Credit Card,Returning,258928.16,6,June,2,2025,Friday
+ORD00082,CUST0216,2025-06-06,Monitor,Electronics,4,14006.41,0.05,East,Net Banking,Returning,53224.36,6,June,2,2025,Friday
+ORD00770,CUST0126,2025-06-07,Headphones,Electronics,1,3525.93,0.1,West,Debit Card,Returning,3173.34,6,June,2,2025,Saturday
+ORD01144,CUST0142,2025-06-07,Monitor,Electronics,3,14185.7,0.1,South,Credit Card,Returning,38301.39,6,June,2,2025,Saturday
+ORD00391,CUST0221,2025-06-07,Office Chair,Furniture,1,9081.79,0.05,North,Credit Card,New,8627.7,6,June,2,2025,Saturday
+ORD00520,CUST0107,2025-06-08,Smartphone,Electronics,2,32053.95,0.0,West,Debit Card,Returning,64107.9,6,June,2,2025,Sunday
+ORD00180,CUST0207,2025-06-08,Laptop,Electronics,3,64514.1,0.1,South,Credit Card,VIP,174188.07,6,June,2,2025,Sunday
+ORD00642,CUST0137,2025-06-08,Tablet,Electronics,3,24149.05,0.15,West,UPI,Returning,61580.08,6,June,2,2025,Sunday
+ORD01212,CUST0080,2025-06-08,Office Chair,Furniture,4,8106.45,0.05,East,Net Banking,VIP,30804.51,6,June,2,2025,Sunday
+ORD00051,CUST0184,2025-06-09,Backpack,Accessories,3,2364.7,0.05,South,Credit Card,New,6739.4,6,June,2,2025,Monday
+ORD00243,CUST0173,2025-06-09,Monitor,Electronics,2,13377.71,0.1,North,UPI,Returning,24079.88,6,June,2,2025,Monday
+ORD00149,CUST0235,2025-06-09,Tablet,Electronics,1,19928.69,0.1,East,Credit Card,Returning,17935.82,6,June,2,2025,Monday
+ORD00010,CUST0016,2025-06-09,Desk,Furniture,4,12341.81,0.0,East,Net Banking,Returning,49367.24,6,June,2,2025,Monday
+ORD00233,CUST0084,2025-06-10,Mouse,Accessories,2,826.04,0.1,North,Net Banking,VIP,1486.87,6,June,2,2025,Tuesday
+ORD01054,CUST0039,2025-06-10,Keyboard,Accessories,2,1979.81,0.05,East,UPI,New,3761.64,6,June,2,2025,Tuesday
+ORD00975,CUST0085,2025-06-10,Keyboard,Accessories,3,1824.28,0.0,East,Debit Card,Returning,5472.84,6,June,2,2025,Tuesday
+ORD01105,CUST0192,2025-06-10,Tablet,Electronics,2,21284.38,0.0,South,Debit Card,New,42568.76,6,June,2,2025,Tuesday
+ORD00202,CUST0090,2025-06-10,Smartphone,Electronics,2,30629.72,0.0,North,Credit Card,Returning,61259.44,6,June,2,2025,Tuesday
+ORD00454,CUST0241,2025-06-11,Office Chair,Furniture,3,8931.51,0.0,East,Debit Card,New,26794.53,6,June,2,2025,Wednesday
+ORD00388,CUST0083,2025-06-11,Mouse,Accessories,4,932.71,0.0,South,Net Banking,Returning,3730.84,6,June,2,2025,Wednesday
+ORD00399,CUST0139,2025-06-11,Backpack,Accessories,1,2037.17,0.05,West,Net Banking,Returning,1935.31,6,June,2,2025,Wednesday
+ORD01324,CUST0130,2025-06-12,Backpack,Accessories,2,2177.2,0.05,West,Debit Card,Returning,4136.68,6,June,2,2025,Thursday
+ORD00382,CUST0152,2025-06-12,Headphones,Electronics,4,3520.0,0.1,East,Debit Card,Returning,12672.0,6,June,2,2025,Thursday
+ORD01013,CUST0199,2025-06-12,Office Chair,Furniture,1,9214.07,0.05,West,Credit Card,New,8753.37,6,June,2,2025,Thursday
+ORD01286,CUST0250,2025-06-12,Headphones,Electronics,3,3674.66,0.05,North,Credit Card,New,10472.78,6,June,2,2025,Thursday
+ORD01112,CUST0287,2025-06-13,Smartphone,Electronics,1,30264.18,0.05,West,Credit Card,Returning,28750.97,6,June,2,2025,Friday
+ORD00015,CUST0114,2025-06-13,Desk,Furniture,4,11803.07,0.15,South,Credit Card,New,40130.44,6,June,2,2025,Friday
+ORD00252,CUST0242,2025-06-13,Keyboard,Accessories,1,1908.55,0.15,North,UPI,New,1622.27,6,June,2,2025,Friday
+ORD01062,CUST0237,2025-06-13,Tablet,Electronics,3,21607.59,0.0,North,Credit Card,Returning,64822.77,6,June,2,2025,Friday
+ORD00907,CUST0188,2025-06-13,Mouse,Accessories,1,980.44,0.0,South,Credit Card,Returning,980.44,6,June,2,2025,Friday
+ORD00188,CUST0028,2025-06-13,Smartphone,Electronics,3,30940.42,0.0,North,UPI,Returning,92821.26,6,June,2,2025,Friday
+ORD00636,CUST0228,2025-06-14,Monitor,Electronics,3,13205.5,0.0,East,UPI,Returning,39616.5,6,June,2,2025,Saturday
+ORD01071,CUST0194,2025-06-14,Headphones,Electronics,4,3281.95,0.1,North,Net Banking,New,11815.02,6,June,2,2025,Saturday
+ORD01104,CUST0272,2025-06-14,Laptop,Electronics,3,59481.85,0.1,North,Credit Card,New,160601.0,6,June,2,2025,Saturday
+ORD01138,CUST0142,2025-06-14,Headphones,Electronics,1,3488.15,0.0,West,UPI,Returning,3488.15,6,June,2,2025,Saturday
+ORD00191,CUST0284,2025-06-14,Backpack,Accessories,3,2304.02,0.05,North,Credit Card,VIP,6566.46,6,June,2,2025,Saturday
+ORD01047,CUST0114,2025-06-15,Monitor,Electronics,4,12767.33,0.1,South,Credit Card,New,45962.39,6,June,2,2025,Sunday
+ORD01483,CUST0147,2025-06-15,Backpack,Accessories,3,2349.24,0.05,East,Credit Card,New,6695.33,6,June,2,2025,Sunday
+ORD00237,CUST0101,2025-06-15,Monitor,Electronics,2,14003.23,0.0,South,Credit Card,VIP,28006.46,6,June,2,2025,Sunday
+ORD00606,CUST0008,2025-06-15,Laptop,Electronics,1,65745.04,0.0,North,Net Banking,New,65745.04,6,June,2,2025,Sunday
+ORD01386,CUST0080,2025-06-15,Mouse,Accessories,1,903.08,0.1,North,Net Banking,VIP,812.77,6,June,2,2025,Sunday
+ORD00877,CUST0206,2025-06-15,Mouse,Accessories,3,859.23,0.05,East,Net Banking,VIP,2448.81,6,June,2,2025,Sunday
+ORD00558,CUST0036,2025-06-15,Keyboard,Accessories,2,1911.25,0.0,East,Net Banking,New,3822.5,6,June,2,2025,Sunday
+ORD00894,CUST0045,2025-06-15,Mouse,Accessories,1,864.74,0.05,South,Net Banking,Returning,821.5,6,June,2,2025,Sunday
+ORD00359,CUST0075,2025-06-16,Tablet,Electronics,3,22444.73,0.05,South,Net Banking,New,63967.48,6,June,2,2025,Monday
+ORD01076,CUST0205,2025-06-16,Mouse,Accessories,1,871.41,0.05,West,Credit Card,New,827.84,6,June,2,2025,Monday
+ORD01155,CUST0076,2025-06-16,Monitor,Electronics,1,13301.35,0.1,South,Debit Card,New,11971.22,6,June,2,2025,Monday
+ORD01196,CUST0114,2025-06-16,Desk,Furniture,3,12781.1,0.0,East,UPI,New,38343.3,6,June,2,2025,Monday
+ORD00463,CUST0247,2025-06-17,Monitor,Electronics,4,14573.64,0.1,East,Credit Card,Returning,52465.1,6,June,2,2025,Tuesday
+ORD00973,CUST0044,2025-06-17,Monitor,Electronics,4,15113.09,0.1,South,Net Banking,New,54407.12,6,June,2,2025,Tuesday
+ORD01255,CUST0136,2025-06-17,Headphones,Electronics,2,3848.2,0.0,East,Debit Card,Returning,7696.4,6,June,2,2025,Tuesday
+ORD00306,CUST0213,2025-06-17,Mouse,Accessories,4,966.7,0.0,South,Net Banking,New,3866.8,6,June,2,2025,Tuesday
+ORD01216,CUST0156,2025-06-17,Laptop,Electronics,4,65527.94,0.1,South,Credit Card,Returning,235900.58,6,June,2,2025,Tuesday
+ORD00485,CUST0043,2025-06-17,Backpack,Accessories,1,2086.49,0.05,East,Credit Card,VIP,1982.17,6,June,2,2025,Tuesday
+ORD00984,CUST0015,2025-06-18,Monitor,Electronics,1,14389.77,0.0,South,Net Banking,Returning,14389.77,6,June,2,2025,Wednesday
+ORD00147,CUST0147,2025-06-18,Desk,Furniture,4,12841.4,0.1,North,UPI,New,46229.04,6,June,2,2025,Wednesday
+ORD00932,CUST0181,2025-06-18,Monitor,Electronics,4,12842.99,0.0,South,Debit Card,Returning,51371.96,6,June,2,2025,Wednesday
+ORD01282,CUST0249,2025-06-19,Backpack,Accessories,4,2036.4,0.0,North,Debit Card,New,8145.6,6,June,2,2025,Thursday
+ORD00052,CUST0122,2025-06-19,Headphones,Electronics,3,3725.25,0.0,North,Debit Card,New,11175.75,6,June,2,2025,Thursday
+ORD01217,CUST0137,2025-06-19,Smartphone,Electronics,2,30799.61,0.0,North,Credit Card,Returning,61599.22,6,June,2,2025,Thursday
+ORD01005,CUST0078,2025-06-20,Desk,Furniture,4,12431.93,0.0,East,UPI,VIP,49727.72,6,June,2,2025,Friday
+ORD01224,CUST0045,2025-06-20,Laptop,Electronics,1,62462.9,0.05,West,UPI,Returning,59339.76,6,June,2,2025,Friday
+ORD01081,CUST0094,2025-06-21,Headphones,Electronics,4,3786.34,0.0,North,UPI,Returning,15145.36,6,June,2,2025,Saturday
+ORD00692,CUST0161,2025-06-21,Keyboard,Accessories,3,1839.74,0.0,South,Debit Card,Returning,5519.22,6,June,2,2025,Saturday
+ORD00027,CUST0091,2025-06-22,Tablet,Electronics,2,21253.11,0.0,North,Debit Card,VIP,42506.22,6,June,2,2025,Sunday
+ORD01020,CUST0058,2025-06-22,Backpack,Accessories,4,2162.67,0.0,South,Credit Card,Returning,8650.68,6,June,2,2025,Sunday
+ORD00528,CUST0195,2025-06-22,Mouse,Accessories,3,924.55,0.0,West,Net Banking,Returning,2773.65,6,June,2,2025,Sunday
+ORD00215,CUST0084,2025-06-22,Monitor,Electronics,2,14856.78,0.05,South,UPI,VIP,28227.88,6,June,2,2025,Sunday
+ORD01487,CUST0188,2025-06-22,Backpack,Accessories,3,2118.33,0.1,East,UPI,Returning,5719.49,6,June,2,2025,Sunday
+ORD00177,CUST0025,2025-06-22,Headphones,Electronics,2,3380.31,0.05,West,Credit Card,Returning,6422.59,6,June,2,2025,Sunday
+ORD00967,CUST0063,2025-06-22,Smartphone,Electronics,4,27471.76,0.0,West,Net Banking,New,109887.04,6,June,2,2025,Sunday
+ORD00113,CUST0219,2025-06-22,Desk,Furniture,2,12241.24,0.05,North,Debit Card,New,23258.36,6,June,2,2025,Sunday
+ORD00328,CUST0083,2025-06-22,Headphones,Electronics,3,3677.77,0.1,East,Debit Card,Returning,9929.98,6,June,2,2025,Sunday
+ORD00968,CUST0024,2025-06-23,Headphones,Electronics,2,3662.83,0.05,North,UPI,Returning,6959.38,6,June,2,2025,Monday
+ORD00911,CUST0155,2025-06-23,Mouse,Accessories,2,854.04,0.0,North,UPI,New,1708.08,6,June,2,2025,Monday
+ORD00508,CUST0137,2025-06-24,Laptop,Electronics,2,69829.09,0.05,South,Credit Card,Returning,132675.27,6,June,2,2025,Tuesday
+ORD00624,CUST0113,2025-06-24,Backpack,Accessories,1,2059.72,0.05,North,UPI,New,1956.73,6,June,2,2025,Tuesday
+ORD00349,CUST0174,2025-06-24,Office Chair,Furniture,2,8087.93,0.0,West,Debit Card,Returning,16175.86,6,June,2,2025,Tuesday
+ORD00980,CUST0291,2025-06-24,Keyboard,Accessories,2,1845.66,0.0,South,UPI,VIP,3691.32,6,June,2,2025,Tuesday
+ORD01220,CUST0011,2025-06-25,Laptop,Electronics,2,64009.51,0.05,South,Debit Card,VIP,121618.07,6,June,2,2025,Wednesday
+ORD01035,CUST0233,2025-06-26,Headphones,Electronics,3,3476.68,0.0,North,UPI,Returning,10430.04,6,June,2,2025,Thursday
+ORD01061,CUST0200,2025-06-26,Smartphone,Electronics,4,29301.65,0.0,North,Net Banking,New,117206.6,6,June,2,2025,Thursday
+ORD00308,CUST0227,2025-06-27,Mouse,Accessories,3,928.22,0.1,East,UPI,New,2506.19,6,June,2,2025,Friday
+ORD01264,CUST0215,2025-06-27,Mouse,Accessories,4,897.03,0.05,North,UPI,New,3408.71,6,June,2,2025,Friday
+ORD01495,CUST0078,2025-06-28,Headphones,Electronics,4,3631.76,0.05,West,Credit Card,VIP,13800.69,6,June,2,2025,Saturday
+ORD00011,CUST0152,2025-06-28,Smartphone,Electronics,3,30859.73,0.05,East,Credit Card,Returning,87950.23,6,June,2,2025,Saturday
+ORD00875,CUST0038,2025-06-28,Backpack,Accessories,3,2295.99,0.0,East,Debit Card,VIP,6887.97,6,June,2,2025,Saturday
+ORD01414,CUST0277,2025-06-28,Smartphone,Electronics,3,29743.9,0.1,West,Debit Card,New,80308.53,6,June,2,2025,Saturday
+ORD00194,CUST0198,2025-06-28,Keyboard,Accessories,1,1651.88,0.0,South,Net Banking,New,1651.88,6,June,2,2025,Saturday
+ORD00881,CUST0119,2025-06-28,Smartphone,Electronics,2,29952.55,0.15,South,Debit Card,New,50919.34,6,June,2,2025,Saturday
+ORD00551,CUST0155,2025-06-28,Keyboard,Accessories,3,1723.15,0.1,West,Credit Card,New,4652.51,6,June,2,2025,Saturday
+ORD00977,CUST0105,2025-06-29,Headphones,Electronics,2,3616.16,0.1,North,Credit Card,New,6509.09,6,June,2,2025,Sunday
+ORD00578,CUST0180,2025-06-29,Tablet,Electronics,4,22005.61,0.0,South,Credit Card,VIP,88022.44,6,June,2,2025,Sunday
+ORD00319,CUST0277,2025-06-29,Desk,Furniture,2,11041.53,0.0,South,Credit Card,New,22083.06,6,June,2,2025,Sunday
+ORD00414,CUST0156,2025-06-30,Laptop,Electronics,4,60209.74,0.1,South,UPI,Returning,216755.06,6,June,2,2025,Monday
+ORD00775,CUST0171,2025-06-30,Laptop,Electronics,1,68938.76,0.15,East,Net Banking,New,58597.95,6,June,2,2025,Monday
+ORD00164,CUST0027,2025-06-30,Smartphone,Electronics,4,27107.17,0.1,West,Net Banking,Returning,97585.81,6,June,2,2025,Monday
+ORD01421,CUST0196,2025-06-30,Office Chair,Furniture,1,8779.06,0.0,North,Net Banking,Returning,8779.06,6,June,2,2025,Monday
+ORD00422,CUST0026,2025-06-30,Backpack,Accessories,2,2118.66,0.0,West,Net Banking,New,4237.32,6,June,2,2025,Monday
+ORD00544,CUST0133,2025-07-01,Office Chair,Furniture,1,8745.24,0.15,South,Debit Card,VIP,7433.45,7,July,3,2025,Tuesday
+ORD01186,CUST0198,2025-07-01,Tablet,Electronics,4,22263.52,0.05,North,Credit Card,New,84601.38,7,July,3,2025,Tuesday
+ORD00412,CUST0163,2025-07-01,Backpack,Accessories,3,2157.89,0.05,West,Net Banking,New,6149.99,7,July,3,2025,Tuesday
+ORD01299,CUST0271,2025-07-02,Desk,Furniture,3,11989.57,0.0,North,Net Banking,New,35968.71,7,July,3,2025,Wednesday
+ORD00266,CUST0288,2025-07-02,Smartphone,Electronics,3,27262.41,0.0,North,Credit Card,Returning,81787.23,7,July,3,2025,Wednesday
+ORD00389,CUST0144,2025-07-03,Mouse,Accessories,4,836.14,0.05,East,UPI,Returning,3177.33,7,July,3,2025,Thursday
+ORD00429,CUST0070,2025-07-03,Backpack,Accessories,4,2260.08,0.05,West,UPI,New,8588.3,7,July,3,2025,Thursday
+ORD01300,CUST0107,2025-07-03,Office Chair,Furniture,2,8142.8,0.0,West,Credit Card,Returning,16285.6,7,July,3,2025,Thursday
+ORD00695,CUST0022,2025-07-04,Smartphone,Electronics,4,32612.27,0.05,North,UPI,VIP,123926.63,7,July,3,2025,Friday
+ORD00945,CUST0126,2025-07-04,Headphones,Electronics,2,3299.24,0.1,North,Debit Card,Returning,5938.63,7,July,3,2025,Friday
+ORD00452,CUST0030,2025-07-04,Keyboard,Accessories,1,1711.01,0.0,South,Net Banking,VIP,1711.01,7,July,3,2025,Friday
+ORD01227,CUST0184,2025-07-05,Office Chair,Furniture,2,8017.41,0.0,East,UPI,New,16034.82,7,July,3,2025,Saturday
+ORD00693,CUST0259,2025-07-05,Office Chair,Furniture,3,8430.86,0.1,North,Net Banking,Returning,22763.32,7,July,3,2025,Saturday
+ORD01097,CUST0075,2025-07-05,Headphones,Electronics,3,3366.56,0.05,South,UPI,New,9594.7,7,July,3,2025,Saturday
+ORD00830,CUST0182,2025-07-05,Headphones,Electronics,1,3304.22,0.05,South,UPI,VIP,3139.01,7,July,3,2025,Saturday
+ORD00493,CUST0092,2025-07-05,Smartphone,Electronics,2,30000.48,0.1,North,Credit Card,New,54000.86,7,July,3,2025,Saturday
+ORD00748,CUST0298,2025-07-06,Keyboard,Accessories,1,1688.11,0.05,East,Credit Card,Returning,1603.7,7,July,3,2025,Sunday
+ORD01411,CUST0095,2025-07-06,Mouse,Accessories,4,985.0,0.0,South,Credit Card,New,3940.0,7,July,3,2025,Sunday
+ORD00491,CUST0284,2025-07-06,Laptop,Electronics,2,69677.71,0.0,North,Debit Card,VIP,139355.42,7,July,3,2025,Sunday
+ORD00423,CUST0068,2025-07-07,Laptop,Electronics,1,70816.14,0.0,North,UPI,New,70816.14,7,July,3,2025,Monday
+ORD01450,CUST0286,2025-07-07,Headphones,Electronics,1,3616.0,0.0,East,Credit Card,VIP,3616.0,7,July,3,2025,Monday
+ORD00449,CUST0069,2025-07-07,Keyboard,Accessories,2,1811.53,0.05,South,Debit Card,VIP,3441.91,7,July,3,2025,Monday
+ORD00955,CUST0026,2025-07-07,Headphones,Electronics,4,3289.74,0.1,North,Credit Card,New,11843.06,7,July,3,2025,Monday
+ORD00282,CUST0254,2025-07-07,Desk,Furniture,2,12238.49,0.05,West,UPI,Returning,23253.13,7,July,3,2025,Monday
+ORD00148,CUST0045,2025-07-07,Backpack,Accessories,1,2279.26,0.05,East,Credit Card,Returning,2165.3,7,July,3,2025,Monday
+ORD00871,CUST0209,2025-07-07,Laptop,Electronics,3,58876.28,0.0,North,UPI,VIP,176628.84,7,July,3,2025,Monday
+ORD01111,CUST0162,2025-07-07,Backpack,Accessories,4,2007.8,0.05,South,Credit Card,New,7629.64,7,July,3,2025,Monday
+ORD00684,CUST0218,2025-07-08,Monitor,Electronics,1,12717.5,0.0,East,Net Banking,New,12717.5,7,July,3,2025,Tuesday
+ORD01281,CUST0120,2025-07-08,Headphones,Electronics,4,3414.17,0.0,South,Debit Card,Returning,13656.68,7,July,3,2025,Tuesday
+ORD01400,CUST0212,2025-07-08,Keyboard,Accessories,1,1855.45,0.0,West,Debit Card,New,1855.45,7,July,3,2025,Tuesday
+ORD00723,CUST0146,2025-07-09,Laptop,Electronics,4,63795.75,0.05,North,Net Banking,VIP,242423.85,7,July,3,2025,Wednesday
+ORD00614,CUST0239,2025-07-09,Monitor,Electronics,4,13039.08,0.1,West,Credit Card,New,46940.69,7,July,3,2025,Wednesday
+ORD00567,CUST0132,2025-07-10,Office Chair,Furniture,4,8282.69,0.05,South,Net Banking,Returning,31474.22,7,July,3,2025,Thursday
+ORD00385,CUST0128,2025-07-10,Backpack,Accessories,3,2369.15,0.05,West,UPI,New,6752.08,7,July,3,2025,Thursday
+ORD01478,CUST0095,2025-07-10,Desk,Furniture,4,11515.67,0.05,North,Net Banking,New,43759.55,7,July,3,2025,Thursday
+ORD01295,CUST0084,2025-07-10,Smartphone,Electronics,3,28237.22,0.1,East,Credit Card,VIP,76240.49,7,July,3,2025,Thursday
+ORD01348,CUST0266,2025-07-10,Mouse,Accessories,2,981.17,0.0,East,Net Banking,New,1962.34,7,July,3,2025,Thursday
+ORD01392,CUST0164,2025-07-10,Mouse,Accessories,4,890.98,0.1,North,Credit Card,Returning,3207.53,7,July,3,2025,Thursday
+ORD01319,CUST0091,2025-07-10,Desk,Furniture,4,11852.81,0.1,North,UPI,VIP,42670.12,7,July,3,2025,Thursday
+ORD01166,CUST0063,2025-07-11,Laptop,Electronics,1,65924.21,0.0,West,Net Banking,New,65924.21,7,July,3,2025,Friday
+ORD00969,CUST0143,2025-07-11,Tablet,Electronics,1,19886.47,0.1,West,Net Banking,Returning,17897.82,7,July,3,2025,Friday
+ORD00522,CUST0295,2025-07-11,Tablet,Electronics,4,20417.43,0.05,West,Credit Card,VIP,77586.23,7,July,3,2025,Friday
+ORD00737,CUST0195,2025-07-11,Tablet,Electronics,3,21680.85,0.05,North,UPI,Returning,61790.42,7,July,3,2025,Friday
+ORD00360,CUST0156,2025-07-12,Keyboard,Accessories,3,1671.33,0.1,East,Net Banking,Returning,4512.59,7,July,3,2025,Saturday
+ORD00441,CUST0116,2025-07-12,Office Chair,Furniture,2,9077.69,0.1,North,Debit Card,New,16339.84,7,July,3,2025,Saturday
+ORD00024,CUST0174,2025-07-13,Desk,Furniture,2,11751.96,0.1,North,Credit Card,Returning,21153.53,7,July,3,2025,Sunday
+ORD00515,CUST0181,2025-07-13,Backpack,Accessories,4,1986.82,0.0,West,Net Banking,Returning,7947.28,7,July,3,2025,Sunday
+ORD01107,CUST0077,2025-07-13,Backpack,Accessories,1,1981.69,0.0,West,Credit Card,New,1981.69,7,July,3,2025,Sunday
+ORD00826,CUST0030,2025-07-13,Keyboard,Accessories,2,1765.53,0.15,South,Debit Card,VIP,3001.4,7,July,3,2025,Sunday
+ORD00446,CUST0046,2025-07-14,Backpack,Accessories,3,2010.36,0.1,East,Net Banking,New,5427.97,7,July,3,2025,Monday
+ORD01423,CUST0041,2025-07-14,Mouse,Accessories,2,861.64,0.0,South,Credit Card,VIP,1723.28,7,July,3,2025,Monday
+ORD00657,CUST0096,2025-07-14,Laptop,Electronics,1,67335.23,0.1,East,Net Banking,Returning,60601.71,7,July,3,2025,Monday
+ORD00850,CUST0080,2025-07-14,Backpack,Accessories,3,2295.64,0.0,South,Credit Card,VIP,6886.92,7,July,3,2025,Monday
+ORD00647,CUST0296,2025-07-14,Smartphone,Electronics,3,32782.94,0.0,South,UPI,Returning,98348.82,7,July,3,2025,Monday
+ORD00497,CUST0109,2025-07-15,Monitor,Electronics,3,12909.21,0.0,West,Net Banking,Returning,38727.63,7,July,3,2025,Tuesday
+ORD00295,CUST0107,2025-07-15,Monitor,Electronics,2,15138.02,0.0,South,Credit Card,Returning,30276.04,7,July,3,2025,Tuesday
+ORD00225,CUST0073,2025-07-15,Desk,Furniture,1,11343.98,0.0,North,Credit Card,VIP,11343.98,7,July,3,2025,Tuesday
+ORD01321,CUST0002,2025-07-15,Smartphone,Electronics,1,32766.71,0.05,East,Credit Card,New,31128.37,7,July,3,2025,Tuesday
+ORD01394,CUST0037,2025-07-15,Keyboard,Accessories,2,1803.5,0.0,East,Net Banking,Returning,3607.0,7,July,3,2025,Tuesday
+ORD00253,CUST0188,2025-07-15,Keyboard,Accessories,4,1715.77,0.0,South,Net Banking,Returning,6863.08,7,July,3,2025,Tuesday
+ORD00868,CUST0246,2025-07-16,Office Chair,Furniture,1,9150.45,0.0,South,Net Banking,New,9150.45,7,July,3,2025,Wednesday
+ORD01418,CUST0053,2025-07-16,Monitor,Electronics,2,15058.72,0.05,South,Debit Card,New,28611.57,7,July,3,2025,Wednesday
+ORD00708,CUST0006,2025-07-16,Desk,Furniture,4,11075.41,0.05,North,Net Banking,Returning,42086.56,7,July,3,2025,Wednesday
+ORD00036,CUST0240,2025-07-16,Headphones,Electronics,1,3808.37,0.0,East,Credit Card,Returning,3808.37,7,July,3,2025,Wednesday
+ORD00862,CUST0182,2025-07-17,Backpack,Accessories,4,2095.6,0.05,North,Credit Card,VIP,7963.28,7,July,3,2025,Thursday
+ORD00400,CUST0100,2025-07-17,Smartphone,Electronics,3,32657.9,0.0,West,Net Banking,VIP,97973.7,7,July,3,2025,Thursday
+ORD00135,CUST0140,2025-07-17,Tablet,Electronics,1,23259.92,0.0,East,Net Banking,New,23259.92,7,July,3,2025,Thursday
+ORD00092,CUST0017,2025-07-17,Headphones,Electronics,2,3273.47,0.05,North,Net Banking,Returning,6219.59,7,July,3,2025,Thursday
+ORD00286,CUST0161,2025-07-17,Laptop,Electronics,2,66770.31,0.1,East,Debit Card,Returning,120186.56,7,July,3,2025,Thursday
+ORD01120,CUST0010,2025-07-17,Desk,Furniture,1,12155.62,0.0,South,UPI,New,12155.62,7,July,3,2025,Thursday
+ORD01189,CUST0177,2025-07-18,Backpack,Accessories,3,2060.78,0.0,East,UPI,New,6182.34,7,July,3,2025,Friday
+ORD00733,CUST0141,2025-07-18,Keyboard,Accessories,2,1948.22,0.0,South,Debit Card,New,3896.44,7,July,3,2025,Friday
+ORD01243,CUST0226,2025-07-18,Laptop,Electronics,2,65619.01,0.05,West,UPI,Returning,124676.12,7,July,3,2025,Friday
+ORD00893,CUST0070,2025-07-18,Backpack,Accessories,3,2201.82,0.0,East,Credit Card,New,6605.46,7,July,3,2025,Friday
+ORD00787,CUST0187,2025-07-18,Smartphone,Electronics,2,28080.95,0.0,North,UPI,New,56161.9,7,July,3,2025,Friday
+ORD00421,CUST0143,2025-07-18,Mouse,Accessories,1,846.9,0.05,South,Credit Card,Returning,804.56,7,July,3,2025,Friday
+ORD00912,CUST0264,2025-07-19,Laptop,Electronics,1,67231.58,0.0,East,Debit Card,Returning,67231.58,7,July,3,2025,Saturday
+ORD00758,CUST0069,2025-07-20,Monitor,Electronics,4,13566.05,0.0,North,Debit Card,VIP,54264.2,7,July,3,2025,Sunday
+ORD00109,CUST0209,2025-07-20,Backpack,Accessories,4,2287.49,0.0,South,Debit Card,VIP,9149.96,7,July,3,2025,Sunday
+ORD01126,CUST0277,2025-07-20,Smartphone,Electronics,1,31315.2,0.05,South,UPI,New,29749.44,7,July,3,2025,Sunday
+ORD00335,CUST0276,2025-07-20,Keyboard,Accessories,3,1795.81,0.05,North,Credit Card,Returning,5118.06,7,July,3,2025,Sunday
+ORD00118,CUST0227,2025-07-20,Monitor,Electronics,3,14969.94,0.15,South,Debit Card,New,38173.35,7,July,3,2025,Sunday
+ORD00472,CUST0202,2025-07-21,Backpack,Accessories,1,1985.05,0.05,North,Debit Card,VIP,1885.8,7,July,3,2025,Monday
+ORD00990,CUST0120,2025-07-21,Keyboard,Accessories,2,1740.26,0.0,West,Credit Card,Returning,3480.52,7,July,3,2025,Monday
+ORD00870,CUST0057,2025-07-22,Headphones,Electronics,4,3243.33,0.1,East,UPI,VIP,11675.99,7,July,3,2025,Tuesday
+ORD00542,CUST0246,2025-07-22,Laptop,Electronics,2,67796.3,0.05,West,UPI,New,128812.97,7,July,3,2025,Tuesday
+ORD01011,CUST0229,2025-07-22,Desk,Furniture,4,11277.63,0.15,South,Debit Card,New,38343.94,7,July,3,2025,Tuesday
+ORD00296,CUST0007,2025-07-22,Mouse,Accessories,3,852.62,0.05,West,Net Banking,VIP,2429.97,7,July,3,2025,Tuesday
+ORD00788,CUST0089,2025-07-22,Office Chair,Furniture,4,7693.09,0.05,South,Credit Card,New,29233.74,7,July,3,2025,Tuesday
+ORD00791,CUST0273,2025-07-22,Keyboard,Accessories,2,1967.7,0.0,North,Credit Card,New,3935.4,7,July,3,2025,Tuesday
+ORD01082,CUST0296,2025-07-22,Laptop,Electronics,1,66253.12,0.0,North,Credit Card,Returning,66253.12,7,July,3,2025,Tuesday
+ORD01069,CUST0102,2025-07-22,Desk,Furniture,1,12860.09,0.0,West,Debit Card,New,12860.09,7,July,3,2025,Tuesday
+ORD01345,CUST0123,2025-07-23,Tablet,Electronics,1,23616.36,0.0,South,Debit Card,Returning,23616.36,7,July,3,2025,Wednesday
+ORD00876,CUST0220,2025-07-23,Monitor,Electronics,3,15306.54,0.0,South,UPI,New,45919.62,7,July,3,2025,Wednesday
+ORD00362,CUST0294,2025-07-23,Keyboard,Accessories,4,1751.25,0.0,South,Credit Card,Returning,7005.0,7,July,3,2025,Wednesday
+ORD01123,CUST0242,2025-07-23,Smartphone,Electronics,2,28183.46,0.0,North,Credit Card,New,56366.92,7,July,3,2025,Wednesday
+ORD01102,CUST0045,2025-07-23,Monitor,Electronics,1,13249.82,0.05,South,UPI,Returning,12587.33,7,July,3,2025,Wednesday
+ORD01086,CUST0227,2025-07-23,Tablet,Electronics,1,23400.79,0.0,South,UPI,New,23400.79,7,July,3,2025,Wednesday
+ORD00396,CUST0290,2025-07-23,Smartphone,Electronics,4,30777.35,0.0,North,UPI,Returning,123109.4,7,July,3,2025,Wednesday
+ORD01059,CUST0190,2025-07-23,Smartphone,Electronics,4,30102.79,0.0,North,Net Banking,Returning,120411.16,7,July,3,2025,Wednesday
+ORD00381,CUST0054,2025-07-23,Tablet,Electronics,2,22583.19,0.05,South,Credit Card,New,42908.06,7,July,3,2025,Wednesday
+ORD01098,CUST0042,2025-07-23,Headphones,Electronics,4,3709.26,0.1,East,Debit Card,Returning,13353.34,7,July,3,2025,Wednesday
+ORD00509,CUST0141,2025-07-24,Mouse,Accessories,1,923.66,0.05,West,Credit Card,New,877.48,7,July,3,2025,Thursday
+ORD00419,CUST0104,2025-07-24,Headphones,Electronics,1,3309.76,0.0,East,Net Banking,Returning,3309.76,7,July,3,2025,Thursday
+ORD00518,CUST0123,2025-07-25,Tablet,Electronics,1,21764.1,0.0,West,Net Banking,Returning,21764.1,7,July,3,2025,Friday
+ORD00506,CUST0115,2025-07-25,Monitor,Electronics,2,14053.83,0.05,East,UPI,New,26702.28,7,July,3,2025,Friday
+ORD00552,CUST0234,2025-07-26,Laptop,Electronics,3,66339.51,0.05,East,Credit Card,Returning,189067.6,7,July,3,2025,Saturday
+ORD00529,CUST0110,2025-07-26,Monitor,Electronics,3,13340.98,0.05,West,Net Banking,VIP,38021.79,7,July,3,2025,Saturday
+ORD00771,CUST0247,2025-07-26,Tablet,Electronics,1,21184.37,0.05,South,Net Banking,Returning,20125.15,7,July,3,2025,Saturday
+ORD01272,CUST0299,2025-07-27,Laptop,Electronics,1,64505.03,0.1,West,Credit Card,New,58054.53,7,July,3,2025,Sunday
+ORD01113,CUST0008,2025-07-27,Tablet,Electronics,4,20296.5,0.1,South,Net Banking,New,73067.4,7,July,3,2025,Sunday
+ORD00786,CUST0056,2025-07-28,Backpack,Accessories,4,2139.5,0.1,West,Debit Card,New,7702.2,7,July,3,2025,Monday
+ORD00754,CUST0192,2025-07-28,Backpack,Accessories,2,2007.78,0.0,North,Debit Card,New,4015.56,7,July,3,2025,Monday
+ORD01063,CUST0116,2025-07-28,Desk,Furniture,3,10862.01,0.0,North,Debit Card,New,32586.03,7,July,3,2025,Monday
+ORD00108,CUST0202,2025-07-28,Desk,Furniture,3,12946.93,0.1,South,UPI,VIP,34956.71,7,July,3,2025,Monday
+ORD00549,CUST0299,2025-07-28,Mouse,Accessories,4,815.71,0.0,West,Net Banking,New,3262.84,7,July,3,2025,Monday
+ORD00729,CUST0004,2025-07-28,Desk,Furniture,1,11541.13,0.0,West,UPI,Returning,11541.13,7,July,3,2025,Monday
+ORD01152,CUST0193,2025-07-29,Mouse,Accessories,3,825.01,0.1,East,Credit Card,New,2227.53,7,July,3,2025,Tuesday
+ORD00340,CUST0257,2025-07-29,Desk,Furniture,3,11776.73,0.1,North,Credit Card,New,31797.17,7,July,3,2025,Tuesday
+ORD00091,CUST0291,2025-07-29,Monitor,Electronics,1,15017.85,0.1,East,Debit Card,VIP,13516.06,7,July,3,2025,Tuesday
+ORD01462,CUST0180,2025-07-29,Monitor,Electronics,4,12664.81,0.05,North,Debit Card,VIP,48126.28,7,July,3,2025,Tuesday
+ORD01440,CUST0010,2025-07-29,Headphones,Electronics,2,3270.19,0.05,South,UPI,New,6213.36,7,July,3,2025,Tuesday
+ORD00588,CUST0238,2025-07-29,Desk,Furniture,4,11862.72,0.0,West,Net Banking,VIP,47450.88,7,July,3,2025,Tuesday
+ORD01426,CUST0290,2025-07-30,Backpack,Accessories,1,2205.75,0.05,West,UPI,Returning,2095.46,7,July,3,2025,Wednesday
+ORD00884,CUST0004,2025-07-30,Tablet,Electronics,3,22947.6,0.0,North,Net Banking,Returning,68842.8,7,July,3,2025,Wednesday
+ORD01316,CUST0128,2025-07-30,Keyboard,Accessories,3,1718.96,0.0,South,Credit Card,New,5156.88,7,July,3,2025,Wednesday
+ORD00178,CUST0119,2025-07-30,Keyboard,Accessories,3,1635.72,0.0,South,Credit Card,New,4907.16,7,July,3,2025,Wednesday
+ORD00450,CUST0138,2025-07-31,Desk,Furniture,3,11288.59,0.0,East,Net Banking,New,33865.77,7,July,3,2025,Thursday
+ORD00816,CUST0008,2025-07-31,Tablet,Electronics,3,20400.03,0.05,West,Net Banking,New,58140.09,7,July,3,2025,Thursday
+ORD00792,CUST0183,2025-07-31,Desk,Furniture,2,12082.94,0.0,North,Credit Card,New,24165.88,7,July,3,2025,Thursday
+ORD01056,CUST0135,2025-07-31,Mouse,Accessories,1,939.82,0.0,South,Credit Card,New,939.82,7,July,3,2025,Thursday
+ORD00981,CUST0069,2025-07-31,Desk,Furniture,4,12608.34,0.0,West,Net Banking,VIP,50433.36,7,July,3,2025,Thursday
+ORD00035,CUST0228,2025-07-31,Mouse,Accessories,3,906.5,0.0,North,Net Banking,Returning,2719.5,7,July,3,2025,Thursday
+ORD00292,CUST0182,2025-08-01,Backpack,Accessories,3,2385.95,0.05,South,Net Banking,VIP,6799.96,8,August,3,2025,Friday
+ORD00267,CUST0124,2025-08-01,Tablet,Electronics,1,20520.21,0.0,West,Net Banking,VIP,20520.21,8,August,3,2025,Friday
+ORD00453,CUST0047,2025-08-01,Mouse,Accessories,4,987.27,0.1,South,Credit Card,Returning,3554.17,8,August,3,2025,Friday
+ORD01172,CUST0158,2025-08-01,Keyboard,Accessories,3,1657.84,0.05,West,Credit Card,New,4724.84,8,August,3,2025,Friday
+ORD00500,CUST0177,2025-08-01,Tablet,Electronics,2,23940.93,0.1,North,Credit Card,New,43093.67,8,August,3,2025,Friday
+ORD00074,CUST0267,2025-08-01,Backpack,Accessories,1,2068.72,0.0,North,Credit Card,New,2068.72,8,August,3,2025,Friday
+ORD00418,CUST0264,2025-08-02,Laptop,Electronics,3,68644.89,0.05,East,Net Banking,Returning,195637.94,8,August,3,2025,Saturday
+ORD00380,CUST0189,2025-08-02,Office Chair,Furniture,4,8946.41,0.1,East,UPI,Returning,32207.08,8,August,3,2025,Saturday
+ORD00545,CUST0064,2025-08-02,Office Chair,Furniture,4,8353.51,0.0,South,UPI,Returning,33414.04,8,August,3,2025,Saturday
+ORD00715,CUST0150,2025-08-02,Headphones,Electronics,4,3845.86,0.0,North,Debit Card,Returning,15383.44,8,August,3,2025,Saturday
+ORD00759,CUST0185,2025-08-02,Smartphone,Electronics,1,30322.94,0.05,South,Debit Card,Returning,28806.79,8,August,3,2025,Saturday
+ORD00917,CUST0090,2025-08-03,Headphones,Electronics,1,3587.95,0.05,North,Credit Card,Returning,3408.55,8,August,3,2025,Sunday
+ORD00095,CUST0063,2025-08-03,Desk,Furniture,1,11519.03,0.0,East,UPI,New,11519.03,8,August,3,2025,Sunday
+ORD01307,CUST0127,2025-08-03,Laptop,Electronics,3,62524.27,0.0,West,UPI,New,187572.81,8,August,3,2025,Sunday
+ORD00954,CUST0275,2025-08-03,Keyboard,Accessories,3,1894.45,0.0,East,Net Banking,Returning,5683.35,8,August,3,2025,Sunday
+ORD00974,CUST0076,2025-08-03,Office Chair,Furniture,4,8019.08,0.05,South,Credit Card,New,30472.5,8,August,3,2025,Sunday
+ORD00523,CUST0059,2025-08-03,Office Chair,Furniture,4,7981.46,0.1,East,UPI,VIP,28733.26,8,August,3,2025,Sunday
+ORD00110,CUST0235,2025-08-03,Monitor,Electronics,2,14071.93,0.0,North,UPI,Returning,28143.86,8,August,3,2025,Sunday
+ORD00122,CUST0012,2025-08-03,Desk,Furniture,3,12557.34,0.1,North,Debit Card,New,33904.82,8,August,3,2025,Sunday
+ORD00849,CUST0247,2025-08-04,Desk,Furniture,4,11809.77,0.05,North,Net Banking,Returning,44877.13,8,August,3,2025,Monday
+ORD01466,CUST0007,2025-08-04,Headphones,Electronics,3,3208.71,0.15,West,UPI,VIP,8182.21,8,August,3,2025,Monday
+ORD00738,CUST0214,2025-08-04,Headphones,Electronics,2,3289.04,0.1,North,Net Banking,Returning,5920.27,8,August,3,2025,Monday
+ORD00376,CUST0070,2025-08-04,Office Chair,Furniture,2,8485.41,0.05,East,UPI,New,16122.28,8,August,3,2025,Monday
+ORD01083,CUST0226,2025-08-04,Tablet,Electronics,2,20367.89,0.05,West,UPI,Returning,38698.99,8,August,3,2025,Monday
+ORD01357,CUST0218,2025-08-04,Laptop,Electronics,2,62616.9,0.05,West,UPI,New,118972.11,8,August,3,2025,Monday
+ORD00930,CUST0056,2025-08-05,Headphones,Electronics,4,3722.82,0.0,West,Debit Card,New,14891.28,8,August,3,2025,Tuesday
+ORD00195,CUST0276,2025-08-05,Keyboard,Accessories,2,1967.44,0.0,South,Credit Card,Returning,3934.88,8,August,3,2025,Tuesday
+ORD00017,CUST0190,2025-08-05,Keyboard,Accessories,4,1774.44,0.1,East,Credit Card,Returning,6387.98,8,August,3,2025,Tuesday
+ORD00223,CUST0241,2025-08-06,Office Chair,Furniture,4,7868.27,0.0,South,Debit Card,New,31473.08,8,August,3,2025,Wednesday
+ORD01174,CUST0109,2025-08-06,Desk,Furniture,4,12682.27,0.05,South,Credit Card,Returning,48192.63,8,August,3,2025,Wednesday
+ORD00526,CUST0094,2025-08-06,Tablet,Electronics,4,23081.31,0.05,South,Debit Card,Returning,87708.98,8,August,3,2025,Wednesday
+ORD00908,CUST0049,2025-08-06,Mouse,Accessories,4,874.81,0.05,North,Credit Card,Returning,3324.28,8,August,3,2025,Wednesday
+ORD00154,CUST0278,2025-08-07,Monitor,Electronics,4,14526.08,0.0,West,Credit Card,New,58104.32,8,August,3,2025,Thursday
+ORD00377,CUST0203,2025-08-07,Backpack,Accessories,3,2234.0,0.1,South,Net Banking,Returning,6031.8,8,August,3,2025,Thursday
+ORD01031,CUST0295,2025-08-07,Headphones,Electronics,1,3264.53,0.05,West,Net Banking,VIP,3101.3,8,August,3,2025,Thursday
+ORD00563,CUST0167,2025-08-07,Laptop,Electronics,4,70063.75,0.0,North,Debit Card,Returning,280255.0,8,August,3,2025,Thursday
+ORD00034,CUST0164,2025-08-08,Tablet,Electronics,4,21354.75,0.05,North,Credit Card,Returning,81148.05,8,August,3,2025,Friday
+ORD00006,CUST0154,2025-08-08,Headphones,Electronics,1,3234.12,0.0,North,UPI,Returning,3234.12,8,August,3,2025,Friday
+ORD00602,CUST0090,2025-08-08,Desk,Furniture,3,12147.01,0.0,South,Debit Card,Returning,36441.03,8,August,3,2025,Friday
+ORD00712,CUST0214,2025-08-08,Office Chair,Furniture,4,9008.57,0.0,West,Net Banking,Returning,36034.28,8,August,3,2025,Friday
+ORD00821,CUST0057,2025-08-08,Office Chair,Furniture,4,8458.16,0.1,North,Net Banking,VIP,30449.38,8,August,3,2025,Friday
+ORD01032,CUST0034,2025-08-09,Laptop,Electronics,1,65315.31,0.05,North,Credit Card,New,62049.54,8,August,3,2025,Saturday
+ORD00638,CUST0030,2025-08-09,Headphones,Electronics,3,3712.0,0.0,West,Debit Card,VIP,11136.0,8,August,3,2025,Saturday
+ORD01024,CUST0258,2025-08-09,Mouse,Accessories,2,827.53,0.0,East,Debit Card,New,1655.06,8,August,3,2025,Saturday
+ORD01447,CUST0214,2025-08-10,Keyboard,Accessories,1,1887.86,0.05,East,Net Banking,Returning,1793.47,8,August,3,2025,Sunday
+ORD00268,CUST0174,2025-08-10,Laptop,Electronics,4,71401.4,0.05,East,UPI,Returning,271325.32,8,August,3,2025,Sunday
+ORD01490,CUST0133,2025-08-11,Smartphone,Electronics,2,32119.04,0.0,East,Credit Card,VIP,64238.08,8,August,3,2025,Monday
+ORD01403,CUST0088,2025-08-11,Laptop,Electronics,4,62789.67,0.15,West,Credit Card,New,213484.88,8,August,3,2025,Monday
+ORD00637,CUST0285,2025-08-12,Monitor,Electronics,1,13350.89,0.0,West,Debit Card,Returning,13350.89,8,August,3,2025,Tuesday
+ORD00415,CUST0175,2025-08-12,Backpack,Accessories,2,2059.97,0.0,North,Credit Card,New,4119.94,8,August,3,2025,Tuesday
+ORD00184,CUST0246,2025-08-13,Headphones,Electronics,1,3476.07,0.1,East,Debit Card,New,3128.46,8,August,3,2025,Wednesday
+ORD00722,CUST0075,2025-08-13,Smartphone,Electronics,4,27771.58,0.05,West,UPI,New,105532.0,8,August,3,2025,Wednesday
+ORD01489,CUST0280,2025-08-14,Smartphone,Electronics,3,31640.84,0.1,South,Debit Card,New,85430.27,8,August,3,2025,Thursday
+ORD00900,CUST0128,2025-08-14,Office Chair,Furniture,2,9179.0,0.0,North,UPI,New,18358.0,8,August,3,2025,Thursday
+ORD00724,CUST0153,2025-08-14,Laptop,Electronics,4,60082.04,0.05,North,UPI,VIP,228311.75,8,August,3,2025,Thursday
+ORD01025,CUST0258,2025-08-14,Backpack,Accessories,3,2008.88,0.05,West,UPI,New,5725.31,8,August,3,2025,Thursday
+ORD00130,CUST0034,2025-08-15,Office Chair,Furniture,1,8549.19,0.1,East,UPI,New,7694.27,8,August,3,2025,Friday
+ORD00140,CUST0178,2025-08-15,Smartphone,Electronics,2,32978.01,0.1,South,Credit Card,Returning,59360.42,8,August,3,2025,Friday
+ORD01259,CUST0269,2025-08-15,Desk,Furniture,4,12158.07,0.0,North,Credit Card,Returning,48632.28,8,August,3,2025,Friday
+ORD01289,CUST0033,2025-08-15,Monitor,Electronics,2,14426.34,0.05,West,Debit Card,VIP,27410.05,8,August,3,2025,Friday
+ORD00863,CUST0019,2025-08-15,Laptop,Electronics,1,66139.15,0.1,North,Net Banking,Returning,59525.23,8,August,3,2025,Friday
+ORD01388,CUST0099,2025-08-15,Smartphone,Electronics,2,28762.57,0.0,East,Net Banking,VIP,57525.14,8,August,3,2025,Friday
+ORD00331,CUST0161,2025-08-15,Desk,Furniture,4,11523.04,0.05,North,UPI,Returning,43787.55,8,August,3,2025,Friday
+ORD00405,CUST0041,2025-08-15,Headphones,Electronics,3,3227.68,0.05,West,Credit Card,VIP,9198.89,8,August,3,2025,Friday
+ORD01247,CUST0084,2025-08-16,Headphones,Electronics,3,3811.97,0.0,West,Net Banking,VIP,11435.91,8,August,3,2025,Saturday
+ORD00209,CUST0153,2025-08-16,Keyboard,Accessories,2,1809.58,0.0,East,UPI,VIP,3619.16,8,August,3,2025,Saturday
+ORD00784,CUST0006,2025-08-16,Office Chair,Furniture,2,7902.46,0.05,North,Debit Card,Returning,15014.67,8,August,3,2025,Saturday
+ORD00249,CUST0191,2025-08-17,Headphones,Electronics,3,3517.85,0.05,North,Debit Card,VIP,10025.87,8,August,3,2025,Sunday
+ORD01043,CUST0224,2025-08-17,Backpack,Accessories,1,2295.96,0.05,West,Debit Card,Returning,2181.16,8,August,3,2025,Sunday
+ORD00824,CUST0232,2025-08-17,Laptop,Electronics,1,61761.57,0.0,South,Net Banking,Returning,61761.57,8,August,3,2025,Sunday
+ORD00030,CUST0044,2025-08-17,Keyboard,Accessories,4,1809.97,0.15,West,UPI,New,6153.9,8,August,3,2025,Sunday
+ORD00226,CUST0130,2025-08-18,Keyboard,Accessories,4,1704.14,0.05,West,Debit Card,Returning,6475.73,8,August,3,2025,Monday
+ORD01132,CUST0182,2025-08-18,Smartphone,Electronics,4,28709.48,0.05,West,Debit Card,VIP,109096.02,8,August,3,2025,Monday
+ORD00250,CUST0133,2025-08-18,Office Chair,Furniture,2,7877.47,0.0,East,Credit Card,VIP,15754.94,8,August,3,2025,Monday
+ORD00658,CUST0123,2025-08-19,Keyboard,Accessories,4,1737.3,0.0,East,Debit Card,Returning,6949.2,8,August,3,2025,Tuesday
+ORD01433,CUST0052,2025-08-19,Smartphone,Electronics,4,28662.15,0.1,West,UPI,New,103183.74,8,August,3,2025,Tuesday
+ORD01116,CUST0105,2025-08-19,Smartphone,Electronics,4,32171.28,0.05,North,Debit Card,New,122250.86,8,August,3,2025,Tuesday
+ORD00946,CUST0062,2025-08-19,Headphones,Electronics,2,3510.19,0.05,West,UPI,Returning,6669.36,8,August,3,2025,Tuesday
+ORD01256,CUST0178,2025-08-19,Keyboard,Accessories,3,1945.45,0.0,West,UPI,Returning,5836.35,8,August,3,2025,Tuesday
+ORD01039,CUST0058,2025-08-19,Office Chair,Furniture,4,7667.19,0.0,South,Debit Card,Returning,30668.76,8,August,3,2025,Tuesday
+ORD01404,CUST0182,2025-08-19,Office Chair,Furniture,2,9342.53,0.0,East,UPI,VIP,18685.06,8,August,3,2025,Tuesday
+ORD01291,CUST0159,2025-08-19,Smartphone,Electronics,4,32066.41,0.0,North,UPI,Returning,128265.64,8,August,3,2025,Tuesday
+ORD00706,CUST0092,2025-08-20,Headphones,Electronics,4,3437.55,0.05,West,Net Banking,New,13062.69,8,August,3,2025,Wednesday
+ORD00256,CUST0048,2025-08-20,Laptop,Electronics,2,70594.15,0.0,North,Net Banking,Returning,141188.3,8,August,3,2025,Wednesday
+ORD00740,CUST0030,2025-08-20,Headphones,Electronics,1,3193.7,0.05,East,Net Banking,VIP,3034.02,8,August,3,2025,Wednesday
+ORD00337,CUST0076,2025-08-20,Backpack,Accessories,3,2372.71,0.0,North,UPI,New,7118.13,8,August,3,2025,Wednesday
+ORD00970,CUST0243,2025-08-20,Smartphone,Electronics,4,27042.55,0.05,South,Credit Card,New,102761.69,8,August,3,2025,Wednesday
+ORD00583,CUST0102,2025-08-21,Keyboard,Accessories,1,1917.67,0.05,North,UPI,New,1821.79,8,August,3,2025,Thursday
+ORD00151,CUST0295,2025-08-21,Smartphone,Electronics,4,27504.59,0.0,North,Net Banking,VIP,110018.36,8,August,3,2025,Thursday
+ORD01472,CUST0046,2025-08-21,Desk,Furniture,3,11808.17,0.05,South,UPI,New,33653.28,8,August,3,2025,Thursday
+ORD01176,CUST0072,2025-08-22,Mouse,Accessories,2,839.19,0.05,East,Credit Card,Returning,1594.46,8,August,3,2025,Friday
+ORD00822,CUST0298,2025-08-22,Tablet,Electronics,2,23443.1,0.0,South,Credit Card,Returning,46886.2,8,August,3,2025,Friday
+ORD01290,CUST0254,2025-08-22,Laptop,Electronics,4,68908.63,0.05,North,UPI,Returning,261852.79,8,August,3,2025,Friday
+ORD00364,CUST0075,2025-08-22,Monitor,Electronics,2,12709.19,0.0,East,Debit Card,New,25418.38,8,August,3,2025,Friday
+ORD00105,CUST0082,2025-08-22,Smartphone,Electronics,1,31904.66,0.0,East,Debit Card,New,31904.66,8,August,3,2025,Friday
+ORD00944,CUST0236,2025-08-22,Keyboard,Accessories,2,1975.86,0.0,West,Credit Card,New,3951.72,8,August,3,2025,Friday
+ORD01347,CUST0093,2025-08-22,Mouse,Accessories,3,861.82,0.0,North,UPI,New,2585.46,8,August,3,2025,Friday
+ORD00049,CUST0069,2025-08-23,Smartphone,Electronics,2,29955.71,0.0,East,Net Banking,VIP,59911.42,8,August,3,2025,Saturday
+ORD01197,CUST0282,2025-08-23,Laptop,Electronics,4,62691.85,0.0,South,Debit Card,Returning,250767.4,8,August,3,2025,Saturday
+ORD01456,CUST0222,2025-08-23,Keyboard,Accessories,2,1808.34,0.1,South,Credit Card,Returning,3255.01,8,August,3,2025,Saturday
+ORD00402,CUST0120,2025-08-23,Office Chair,Furniture,2,7886.5,0.0,North,Credit Card,Returning,15773.0,8,August,3,2025,Saturday
+ORD01026,CUST0200,2025-08-24,Keyboard,Accessories,2,1751.24,0.1,East,Net Banking,New,3152.23,8,August,3,2025,Sunday
+ORD00375,CUST0070,2025-08-24,Laptop,Electronics,3,64514.78,0.15,West,Net Banking,New,164512.69,8,August,3,2025,Sunday
+ORD00165,CUST0046,2025-08-24,Backpack,Accessories,2,2031.62,0.0,West,Net Banking,New,4063.24,8,August,3,2025,Sunday
+ORD01486,CUST0040,2025-08-24,Desk,Furniture,1,12447.81,0.0,East,Net Banking,Returning,12447.81,8,August,3,2025,Sunday
+ORD01445,CUST0156,2025-08-24,Tablet,Electronics,2,22465.34,0.15,West,Net Banking,Returning,38191.08,8,August,3,2025,Sunday
+ORD00061,CUST0228,2025-08-24,Mouse,Accessories,2,910.39,0.05,East,Debit Card,Returning,1729.74,8,August,3,2025,Sunday
+ORD00342,CUST0093,2025-08-25,Laptop,Electronics,3,61049.27,0.05,West,Net Banking,New,173990.42,8,August,3,2025,Monday
+ORD00004,CUST0239,2025-08-25,Smartphone,Electronics,4,30295.36,0.05,North,Credit Card,New,115122.37,8,August,3,2025,Monday
+ORD00922,CUST0065,2025-08-25,Laptop,Electronics,1,64115.86,0.0,South,Credit Card,Returning,64115.86,8,August,3,2025,Monday
+ORD01009,CUST0006,2025-08-25,Mouse,Accessories,2,911.09,0.0,South,Debit Card,Returning,1822.18,8,August,3,2025,Monday
+ORD01434,CUST0246,2025-08-25,Tablet,Electronics,2,23736.23,0.05,South,UPI,New,45098.84,8,August,3,2025,Monday
+ORD01371,CUST0176,2025-08-25,Tablet,Electronics,3,19948.06,0.0,North,Debit Card,Returning,59844.18,8,August,3,2025,Monday
+ORD00995,CUST0257,2025-08-25,Keyboard,Accessories,2,1950.15,0.05,South,Credit Card,New,3705.28,8,August,3,2025,Monday
+ORD00988,CUST0181,2025-08-26,Office Chair,Furniture,4,8452.23,0.05,North,UPI,Returning,32118.47,8,August,3,2025,Tuesday
+ORD00310,CUST0085,2025-08-26,Desk,Furniture,3,12342.42,0.0,West,Debit Card,Returning,37027.26,8,August,3,2025,Tuesday
+ORD00057,CUST0154,2025-08-26,Desk,Furniture,3,12512.04,0.1,East,UPI,Returning,33782.51,8,August,3,2025,Tuesday
+ORD01077,CUST0270,2025-08-26,Desk,Furniture,4,12328.37,0.15,West,Net Banking,Returning,41916.46,8,August,3,2025,Tuesday
+ORD01096,CUST0280,2025-08-26,Desk,Furniture,2,12132.71,0.05,North,Credit Card,New,23052.15,8,August,3,2025,Tuesday
+ORD01360,CUST0165,2025-08-27,Laptop,Electronics,4,65085.15,0.05,West,Credit Card,VIP,247323.57,8,August,3,2025,Wednesday
+ORD00630,CUST0187,2025-08-27,Tablet,Electronics,4,19849.73,0.1,West,Debit Card,New,71459.03,8,August,3,2025,Wednesday
+ORD00451,CUST0179,2025-08-27,Mouse,Accessories,3,844.4,0.0,North,Credit Card,New,2533.2,8,August,3,2025,Wednesday
+ORD01140,CUST0172,2025-08-28,Desk,Furniture,2,11788.67,0.1,East,Credit Card,VIP,21219.61,8,August,3,2025,Thursday
+ORD00464,CUST0193,2025-08-28,Keyboard,Accessories,3,1793.62,0.0,West,Debit Card,New,5380.86,8,August,3,2025,Thursday
+ORD00139,CUST0047,2025-08-29,Office Chair,Furniture,1,8531.04,0.05,North,UPI,Returning,8104.49,8,August,3,2025,Friday
+ORD00992,CUST0227,2025-08-29,Tablet,Electronics,4,22227.53,0.0,North,Debit Card,New,88910.12,8,August,3,2025,Friday
+ORD00958,CUST0269,2025-08-30,Laptop,Electronics,3,64325.11,0.05,North,Debit Card,Returning,183326.56,8,August,3,2025,Saturday
+ORD00650,CUST0042,2025-08-30,Keyboard,Accessories,2,1667.15,0.05,East,UPI,Returning,3167.58,8,August,3,2025,Saturday
+ORD01242,CUST0131,2025-08-30,Headphones,Electronics,2,3504.07,0.05,South,Credit Card,Returning,6657.73,8,August,3,2025,Saturday
+ORD00817,CUST0292,2025-08-30,Tablet,Electronics,4,22029.42,0.1,North,Debit Card,VIP,79305.91,8,August,3,2025,Saturday
+ORD00598,CUST0227,2025-08-30,Mouse,Accessories,4,928.27,0.1,South,Credit Card,New,3341.77,8,August,3,2025,Saturday
+ORD00170,CUST0080,2025-08-30,Mouse,Accessories,2,847.86,0.0,West,Credit Card,VIP,1695.72,8,August,3,2025,Saturday
+ORD00629,CUST0298,2025-08-31,Smartphone,Electronics,2,28282.19,0.0,South,UPI,Returning,56564.38,8,August,3,2025,Sunday
+ORD01376,CUST0047,2025-08-31,Keyboard,Accessories,4,1831.03,0.1,East,Net Banking,Returning,6591.71,8,August,3,2025,Sunday
+ORD00183,CUST0228,2025-08-31,Smartphone,Electronics,3,32404.21,0.0,East,Debit Card,Returning,97212.63,8,August,3,2025,Sunday
+ORD01439,CUST0194,2025-08-31,Headphones,Electronics,3,3438.47,0.0,West,Debit Card,New,10315.41,8,August,3,2025,Sunday
+ORD00351,CUST0239,2025-08-31,Desk,Furniture,4,12960.77,0.0,East,Credit Card,New,51843.08,8,August,3,2025,Sunday
+ORD01315,CUST0171,2025-09-01,Tablet,Electronics,2,23667.08,0.0,East,Net Banking,New,47334.16,9,September,3,2025,Monday
+ORD01231,CUST0088,2025-09-01,Backpack,Accessories,1,2419.52,0.05,North,Debit Card,New,2298.54,9,September,3,2025,Monday
+ORD00838,CUST0256,2025-09-01,Laptop,Electronics,4,65069.75,0.0,South,Net Banking,Returning,260279.0,9,September,3,2025,Monday
+ORD01310,CUST0051,2025-09-02,Laptop,Electronics,4,66735.03,0.0,East,Net Banking,New,266940.12,9,September,3,2025,Tuesday
+ORD00755,CUST0089,2025-09-02,Desk,Furniture,2,11796.35,0.0,South,UPI,New,23592.7,9,September,3,2025,Tuesday
+ORD00746,CUST0191,2025-09-03,Desk,Furniture,4,12352.41,0.05,North,Net Banking,VIP,46939.16,9,September,3,2025,Wednesday
+ORD00568,CUST0220,2025-09-03,Keyboard,Accessories,2,1927.53,0.05,South,Net Banking,New,3662.31,9,September,3,2025,Wednesday
+ORD00005,CUST0272,2025-09-04,Office Chair,Furniture,4,8592.4,0.05,East,Net Banking,New,32651.12,9,September,3,2025,Thursday
+ORD00322,CUST0248,2025-09-04,Office Chair,Furniture,2,9104.75,0.0,East,Net Banking,New,18209.5,9,September,3,2025,Thursday
+ORD00315,CUST0162,2025-09-04,Monitor,Electronics,4,15069.4,0.0,West,UPI,New,60277.6,9,September,3,2025,Thursday
+ORD00047,CUST0249,2025-09-04,Mouse,Accessories,1,951.06,0.0,South,UPI,New,951.06,9,September,3,2025,Thursday
+ORD00100,CUST0288,2025-09-04,Smartphone,Electronics,3,30953.54,0.0,East,Net Banking,Returning,92860.62,9,September,3,2025,Thursday
+ORD01382,CUST0057,2025-09-04,Tablet,Electronics,3,20519.95,0.0,South,Credit Card,VIP,61559.85,9,September,3,2025,Thursday
+ORD00794,CUST0047,2025-09-04,Backpack,Accessories,1,2093.11,0.05,East,Debit Card,Returning,1988.45,9,September,3,2025,Thursday
+ORD01240,CUST0161,2025-09-05,Laptop,Electronics,4,69380.06,0.15,East,Debit Card,Returning,235892.2,9,September,3,2025,Friday
+ORD00484,CUST0271,2025-09-05,Monitor,Electronics,1,14035.63,0.0,West,Credit Card,New,14035.63,9,September,3,2025,Friday
+ORD00448,CUST0004,2025-09-05,Headphones,Electronics,2,3763.12,0.05,West,UPI,Returning,7149.93,9,September,3,2025,Friday
+ORD00820,CUST0294,2025-09-05,Desk,Furniture,3,11004.97,0.15,South,Credit Card,Returning,28062.67,9,September,3,2025,Friday
+ORD01033,CUST0113,2025-09-05,Keyboard,Accessories,2,1853.18,0.0,East,Credit Card,New,3706.36,9,September,3,2025,Friday
+ORD00625,CUST0256,2025-09-05,Office Chair,Furniture,2,8969.69,0.0,West,UPI,Returning,17939.38,9,September,3,2025,Friday
+ORD01148,CUST0199,2025-09-06,Monitor,Electronics,2,14284.72,0.0,South,Net Banking,New,28569.44,9,September,3,2025,Saturday
+ORD01194,CUST0103,2025-09-06,Tablet,Electronics,1,23705.48,0.0,East,Debit Card,Returning,23705.48,9,September,3,2025,Saturday
+ORD01354,CUST0051,2025-09-06,Keyboard,Accessories,4,1654.12,0.0,East,UPI,New,6616.48,9,September,3,2025,Saturday
+ORD00913,CUST0248,2025-09-06,Monitor,Electronics,4,14962.44,0.0,North,Net Banking,New,59849.76,9,September,3,2025,Saturday
+ORD01385,CUST0235,2025-09-06,Backpack,Accessories,1,2187.01,0.05,West,Net Banking,Returning,2077.66,9,September,3,2025,Saturday
+ORD01018,CUST0230,2025-09-07,Keyboard,Accessories,3,1800.42,0.0,West,UPI,New,5401.26,9,September,3,2025,Sunday
+ORD01461,CUST0227,2025-09-07,Tablet,Electronics,1,24044.34,0.05,West,Net Banking,New,22842.12,9,September,3,2025,Sunday
+ORD01427,CUST0102,2025-09-08,Monitor,Electronics,4,15140.28,0.05,East,Credit Card,New,57533.06,9,September,3,2025,Monday
+ORD00554,CUST0011,2025-09-08,Smartphone,Electronics,2,29497.31,0.0,West,Debit Card,VIP,58994.62,9,September,3,2025,Monday
+ORD00846,CUST0234,2025-09-08,Laptop,Electronics,3,67128.66,0.0,East,Net Banking,Returning,201385.98,9,September,3,2025,Monday
+ORD00192,CUST0120,2025-09-08,Desk,Furniture,4,12874.12,0.05,North,Net Banking,Returning,48921.66,9,September,3,2025,Monday
+ORD01362,CUST0227,2025-09-08,Backpack,Accessories,2,2409.2,0.1,South,Net Banking,New,4336.56,9,September,3,2025,Monday
+ORD01395,CUST0035,2025-09-09,Office Chair,Furniture,3,7876.98,0.0,West,Net Banking,New,23630.94,9,September,3,2025,Tuesday
+ORD00435,CUST0156,2025-09-09,Tablet,Electronics,3,22591.2,0.0,West,Debit Card,Returning,67773.6,9,September,3,2025,Tuesday
+ORD00409,CUST0149,2025-09-09,Desk,Furniture,2,11278.12,0.1,East,UPI,VIP,20300.62,9,September,3,2025,Tuesday
+ORD01396,CUST0208,2025-09-09,Backpack,Accessories,3,2146.44,0.05,West,Debit Card,New,6117.35,9,September,3,2025,Tuesday
+ORD00880,CUST0108,2025-09-09,Tablet,Electronics,1,20863.05,0.05,East,UPI,New,19819.9,9,September,3,2025,Tuesday
+ORD00688,CUST0222,2025-09-10,Monitor,Electronics,2,13459.52,0.0,North,UPI,Returning,26919.04,9,September,3,2025,Wednesday
+ORD00023,CUST0215,2025-09-10,Smartphone,Electronics,3,27857.95,0.1,South,UPI,New,75216.47,9,September,3,2025,Wednesday
+ORD01136,CUST0104,2025-09-10,Tablet,Electronics,2,21208.26,0.0,East,Net Banking,Returning,42416.52,9,September,3,2025,Wednesday
+ORD01171,CUST0031,2025-09-10,Office Chair,Furniture,2,8778.97,0.05,East,Net Banking,New,16680.04,9,September,3,2025,Wednesday
+ORD01099,CUST0288,2025-09-10,Tablet,Electronics,4,22966.15,0.0,South,Debit Card,Returning,91864.6,9,September,3,2025,Wednesday
+ORD01085,CUST0153,2025-09-10,Tablet,Electronics,4,22992.06,0.0,South,Debit Card,VIP,91968.24,9,September,3,2025,Wednesday
+ORD00832,CUST0282,2025-09-11,Tablet,Electronics,4,21321.78,0.0,West,Credit Card,Returning,85287.12,9,September,3,2025,Thursday
+ORD00982,CUST0205,2025-09-11,Tablet,Electronics,3,24037.61,0.1,West,Net Banking,New,64901.55,9,September,3,2025,Thursday
+ORD01222,CUST0050,2025-09-11,Laptop,Electronics,3,60457.08,0.05,North,UPI,Returning,172302.68,9,September,3,2025,Thursday
+ORD00825,CUST0291,2025-09-11,Headphones,Electronics,2,3392.34,0.05,West,Net Banking,VIP,6445.45,9,September,3,2025,Thursday
+ORD00221,CUST0160,2025-09-11,Tablet,Electronics,1,21519.99,0.05,North,Debit Card,New,20443.99,9,September,3,2025,Thursday
+ORD01380,CUST0152,2025-09-11,Keyboard,Accessories,4,1945.3,0.0,South,Credit Card,Returning,7781.2,9,September,3,2025,Thursday
+ORD00874,CUST0167,2025-09-11,Laptop,Electronics,1,61673.92,0.05,South,UPI,Returning,58590.22,9,September,3,2025,Thursday
+ORD00264,CUST0078,2025-09-12,Backpack,Accessories,1,2402.32,0.05,South,Debit Card,VIP,2282.2,9,September,3,2025,Friday
+ORD00334,CUST0158,2025-09-12,Headphones,Electronics,3,3846.81,0.1,North,Credit Card,New,10386.39,9,September,3,2025,Friday
+ORD01422,CUST0043,2025-09-12,Office Chair,Furniture,1,9212.37,0.1,North,Net Banking,VIP,8291.13,9,September,3,2025,Friday
+ORD00106,CUST0195,2025-09-13,Office Chair,Furniture,3,8105.71,0.05,South,Credit Card,Returning,23101.27,9,September,3,2025,Saturday
+ORD01363,CUST0207,2025-09-13,Desk,Furniture,1,12064.22,0.0,South,Net Banking,VIP,12064.22,9,September,3,2025,Saturday
+ORD01141,CUST0139,2025-09-13,Backpack,Accessories,4,2265.63,0.05,South,Debit Card,Returning,8609.39,9,September,3,2025,Saturday
+ORD01297,CUST0250,2025-09-13,Headphones,Electronics,3,3475.28,0.1,East,Debit Card,New,9383.26,9,September,3,2025,Saturday
+ORD00752,CUST0190,2025-09-13,Backpack,Accessories,2,2321.22,0.0,South,Net Banking,Returning,4642.44,9,September,3,2025,Saturday
+ORD00161,CUST0084,2025-09-14,Mouse,Accessories,3,859.36,0.15,South,Net Banking,VIP,2191.37,9,September,3,2025,Sunday
+ORD01204,CUST0069,2025-09-14,Desk,Furniture,4,12113.78,0.0,West,Debit Card,VIP,48455.12,9,September,3,2025,Sunday
+ORD01161,CUST0190,2025-09-14,Backpack,Accessories,3,2300.99,0.0,North,Credit Card,Returning,6902.97,9,September,3,2025,Sunday
+ORD00628,CUST0214,2025-09-15,Office Chair,Furniture,3,8099.68,0.0,West,Credit Card,Returning,24299.04,9,September,3,2025,Monday
+ORD00831,CUST0076,2025-09-15,Smartphone,Electronics,3,31460.61,0.05,East,Credit Card,New,89662.74,9,September,3,2025,Monday
+ORD01185,CUST0061,2025-09-15,Monitor,Electronics,2,13938.4,0.05,North,Credit Card,Returning,26482.96,9,September,3,2025,Monday
+ORD01245,CUST0072,2025-09-15,Tablet,Electronics,1,21532.2,0.0,East,Debit Card,Returning,21532.2,9,September,3,2025,Monday
+ORD00478,CUST0048,2025-09-15,Mouse,Accessories,1,904.64,0.0,North,Net Banking,Returning,904.64,9,September,3,2025,Monday
+ORD00885,CUST0219,2025-09-16,Headphones,Electronics,1,3423.64,0.15,West,Credit Card,New,2910.09,9,September,3,2025,Tuesday
+ORD01432,CUST0029,2025-09-16,Keyboard,Accessories,1,1978.56,0.0,East,Debit Card,Returning,1978.56,9,September,3,2025,Tuesday
+ORD01410,CUST0162,2025-09-16,Monitor,Electronics,4,14155.73,0.0,West,UPI,New,56622.92,9,September,3,2025,Tuesday
+ORD00069,CUST0038,2025-09-16,Keyboard,Accessories,2,1675.57,0.05,North,Debit Card,VIP,3183.58,9,September,3,2025,Tuesday
+ORD01089,CUST0253,2025-09-16,Backpack,Accessories,2,2177.91,0.1,East,UPI,New,3920.24,9,September,3,2025,Tuesday
+ORD00940,CUST0143,2025-09-17,Mouse,Accessories,4,952.45,0.05,South,Debit Card,Returning,3619.31,9,September,3,2025,Wednesday
+ORD01239,CUST0121,2025-09-17,Keyboard,Accessories,2,1820.45,0.1,East,Debit Card,New,3276.81,9,September,3,2025,Wednesday
+ORD00660,CUST0044,2025-09-18,Laptop,Electronics,1,64488.71,0.05,North,UPI,New,61264.27,9,September,3,2025,Thursday
+ORD00841,CUST0101,2025-09-18,Headphones,Electronics,2,3172.72,0.0,North,UPI,VIP,6345.44,9,September,3,2025,Thursday
+ORD00261,CUST0211,2025-09-18,Office Chair,Furniture,3,7964.83,0.0,North,Debit Card,Returning,23894.49,9,September,3,2025,Thursday
+ORD00860,CUST0043,2025-09-19,Laptop,Electronics,4,64700.78,0.0,North,Credit Card,VIP,258803.12,9,September,3,2025,Friday
+ORD01010,CUST0135,2025-09-19,Laptop,Electronics,4,68744.46,0.0,East,Debit Card,New,274977.84,9,September,3,2025,Friday
+ORD01359,CUST0001,2025-09-20,Backpack,Accessories,2,2364.97,0.1,West,Net Banking,Returning,4256.95,9,September,3,2025,Saturday
+ORD00246,CUST0083,2025-09-20,Backpack,Accessories,3,2012.84,0.1,West,Net Banking,Returning,5434.67,9,September,3,2025,Saturday
+ORD00533,CUST0232,2025-09-21,Office Chair,Furniture,4,8783.51,0.0,East,Credit Card,Returning,35134.04,9,September,3,2025,Sunday
+ORD00751,CUST0079,2025-09-21,Mouse,Accessories,3,932.25,0.05,East,UPI,Returning,2656.91,9,September,3,2025,Sunday
+ORD01391,CUST0135,2025-09-22,Mouse,Accessories,4,982.66,0.05,West,UPI,New,3734.11,9,September,3,2025,Monday
+ORD00696,CUST0251,2025-09-22,Office Chair,Furniture,4,8355.71,0.0,South,Credit Card,Returning,33422.84,9,September,3,2025,Monday
+ORD01252,CUST0125,2025-09-22,Monitor,Electronics,1,14480.98,0.0,North,Credit Card,Returning,14480.98,9,September,3,2025,Monday
+ORD01471,CUST0266,2025-09-22,Keyboard,Accessories,1,1789.31,0.0,West,Net Banking,New,1789.31,9,September,3,2025,Monday
+ORD00855,CUST0117,2025-09-23,Monitor,Electronics,3,15231.79,0.0,West,Debit Card,New,45695.37,9,September,3,2025,Tuesday
+ORD00352,CUST0258,2025-09-23,Backpack,Accessories,2,2139.24,0.05,South,Debit Card,New,4064.56,9,September,3,2025,Tuesday
+ORD00698,CUST0271,2025-09-23,Office Chair,Furniture,1,7670.98,0.0,West,Credit Card,New,7670.98,9,September,3,2025,Tuesday
+ORD01312,CUST0019,2025-09-23,Mouse,Accessories,3,895.56,0.0,South,Credit Card,Returning,2686.68,9,September,3,2025,Tuesday
+ORD00810,CUST0093,2025-09-24,Mouse,Accessories,1,903.25,0.05,South,Net Banking,New,858.09,9,September,3,2025,Wednesday
+ORD00925,CUST0243,2025-09-24,Mouse,Accessories,3,838.22,0.05,North,UPI,New,2388.93,9,September,3,2025,Wednesday
+ORD00601,CUST0059,2025-09-24,Smartphone,Electronics,1,31198.23,0.05,West,Net Banking,VIP,29638.32,9,September,3,2025,Wednesday
+ORD00141,CUST0120,2025-09-24,Backpack,Accessories,1,2373.77,0.1,North,Net Banking,Returning,2136.39,9,September,3,2025,Wednesday
+ORD00346,CUST0059,2025-09-24,Office Chair,Furniture,3,9136.18,0.05,South,UPI,VIP,26038.11,9,September,3,2025,Wednesday
+ORD01249,CUST0110,2025-09-25,Headphones,Electronics,1,3229.37,0.05,East,Net Banking,VIP,3067.9,9,September,3,2025,Thursday
+ORD00671,CUST0299,2025-09-25,Backpack,Accessories,4,2266.84,0.1,East,UPI,New,8160.62,9,September,3,2025,Thursday
+ORD00541,CUST0028,2025-09-25,Keyboard,Accessories,3,1696.19,0.15,South,Net Banking,Returning,4325.28,9,September,3,2025,Thursday
+ORD01482,CUST0128,2025-09-25,Desk,Furniture,2,11958.95,0.05,North,Credit Card,New,22722.0,9,September,3,2025,Thursday
+ORD00675,CUST0051,2025-09-26,Keyboard,Accessories,1,1627.54,0.0,North,Credit Card,New,1627.54,9,September,3,2025,Friday
+ORD01283,CUST0018,2025-09-26,Mouse,Accessories,2,845.36,0.05,East,UPI,Returning,1606.18,9,September,3,2025,Friday
+ORD00510,CUST0245,2025-09-26,Office Chair,Furniture,4,9316.74,0.05,North,Debit Card,VIP,35403.61,9,September,3,2025,Friday
+ORD00265,CUST0149,2025-09-26,Monitor,Electronics,4,13928.14,0.0,North,Net Banking,VIP,55712.56,9,September,3,2025,Friday
+ORD00566,CUST0229,2025-09-27,Mouse,Accessories,3,942.52,0.05,East,Debit Card,New,2686.18,9,September,3,2025,Saturday
+ORD00623,CUST0267,2025-09-27,Tablet,Electronics,3,24189.54,0.0,North,Debit Card,New,72568.62,9,September,3,2025,Saturday
+ORD01273,CUST0084,2025-09-27,Laptop,Electronics,1,68260.27,0.05,West,Net Banking,VIP,64847.26,9,September,3,2025,Saturday
+ORD00293,CUST0106,2025-09-27,Mouse,Accessories,4,859.63,0.0,West,Debit Card,Returning,3438.52,9,September,3,2025,Saturday
+ORD00462,CUST0043,2025-09-27,Monitor,Electronics,3,12631.97,0.05,South,Credit Card,VIP,36001.11,9,September,3,2025,Saturday
+ORD00678,CUST0026,2025-09-27,Backpack,Accessories,2,2185.36,0.0,South,UPI,New,4370.72,9,September,3,2025,Saturday
+ORD00783,CUST0032,2025-09-27,Smartphone,Electronics,3,27414.22,0.0,West,Net Banking,Returning,82242.66,9,September,3,2025,Saturday
+ORD01481,CUST0041,2025-09-27,Mouse,Accessories,2,887.06,0.0,South,Debit Card,VIP,1774.12,9,September,3,2025,Saturday
+ORD00158,CUST0226,2025-09-28,Monitor,Electronics,1,12886.14,0.1,East,Credit Card,Returning,11597.53,9,September,3,2025,Sunday
+ORD01117,CUST0182,2025-09-28,Monitor,Electronics,1,12898.34,0.05,North,Net Banking,VIP,12253.42,9,September,3,2025,Sunday
+ORD00615,CUST0284,2025-09-28,Smartphone,Electronics,3,27574.37,0.0,East,UPI,VIP,82723.11,9,September,3,2025,Sunday
+ORD01154,CUST0113,2025-09-28,Keyboard,Accessories,3,1868.41,0.0,East,UPI,New,5605.23,9,September,3,2025,Sunday
+ORD00514,CUST0118,2025-09-28,Backpack,Accessories,3,2178.57,0.0,East,UPI,Returning,6535.71,9,September,3,2025,Sunday
+ORD00592,CUST0152,2025-09-28,Keyboard,Accessories,3,1892.54,0.0,East,Net Banking,Returning,5677.62,9,September,3,2025,Sunday
+ORD01492,CUST0166,2025-09-28,Mouse,Accessories,3,908.91,0.05,North,Debit Card,New,2590.39,9,September,3,2025,Sunday
+ORD01207,CUST0050,2025-09-28,Monitor,Electronics,1,12687.4,0.15,North,Net Banking,Returning,10784.29,9,September,3,2025,Sunday
+ORD00131,CUST0029,2025-09-29,Laptop,Electronics,1,58988.76,0.05,West,Net Banking,Returning,56039.32,9,September,3,2025,Monday
+ORD01405,CUST0175,2025-09-29,Headphones,Electronics,2,3216.9,0.0,West,Net Banking,New,6433.8,9,September,3,2025,Monday
+ORD00455,CUST0009,2025-09-30,Laptop,Electronics,3,66669.64,0.05,West,Net Banking,New,190008.47,9,September,3,2025,Tuesday
+ORD01184,CUST0238,2025-09-30,Desk,Furniture,2,11305.27,0.05,West,Net Banking,VIP,21480.01,9,September,3,2025,Tuesday
+ORD01322,CUST0212,2025-09-30,Backpack,Accessories,2,2113.54,0.0,South,Net Banking,New,4227.08,9,September,3,2025,Tuesday
+ORD00553,CUST0222,2025-09-30,Monitor,Electronics,4,12787.65,0.15,West,Debit Card,Returning,43478.01,9,September,3,2025,Tuesday
+ORD00573,CUST0114,2025-09-30,Laptop,Electronics,4,63394.89,0.0,West,Debit Card,New,253579.56,9,September,3,2025,Tuesday
+ORD00439,CUST0099,2025-10-01,Laptop,Electronics,3,66002.59,0.0,North,Net Banking,VIP,198007.77,10,October,4,2025,Wednesday
+ORD01193,CUST0280,2025-10-01,Backpack,Accessories,2,2028.41,0.1,East,Net Banking,New,3651.14,10,October,4,2025,Wednesday
+ORD00896,CUST0052,2025-10-01,Laptop,Electronics,2,68988.06,0.0,South,Debit Card,New,137976.12,10,October,4,2025,Wednesday
+ORD01254,CUST0001,2025-10-01,Mouse,Accessories,1,961.2,0.05,North,Debit Card,Returning,913.14,10,October,4,2025,Wednesday
+ORD00668,CUST0109,2025-10-02,Monitor,Electronics,1,14851.47,0.0,South,UPI,Returning,14851.47,10,October,4,2025,Thursday
+ORD00672,CUST0267,2025-10-02,Tablet,Electronics,2,23408.3,0.0,West,Debit Card,New,46816.6,10,October,4,2025,Thursday
+ORD00313,CUST0176,2025-10-02,Keyboard,Accessories,4,1907.49,0.15,West,Credit Card,Returning,6485.47,10,October,4,2025,Thursday
+ORD00329,CUST0063,2025-10-02,Backpack,Accessories,3,2256.42,0.05,East,Net Banking,New,6430.8,10,October,4,2025,Thursday
+ORD00211,CUST0292,2025-10-02,Headphones,Electronics,3,3288.01,0.05,South,Debit Card,VIP,9370.83,10,October,4,2025,Thursday
+ORD00953,CUST0030,2025-10-03,Desk,Furniture,2,11190.03,0.15,West,Credit Card,VIP,19023.05,10,October,4,2025,Friday
+ORD01053,CUST0187,2025-10-03,Mouse,Accessories,2,938.46,0.0,East,Debit Card,New,1876.92,10,October,4,2025,Friday
+ORD00735,CUST0179,2025-10-03,Keyboard,Accessories,3,1674.49,0.0,West,UPI,New,5023.47,10,October,4,2025,Friday
+ORD00987,CUST0279,2025-10-03,Backpack,Accessories,3,2398.12,0.05,South,UPI,New,6834.64,10,October,4,2025,Friday
+ORD00356,CUST0049,2025-10-04,Backpack,Accessories,3,2339.36,0.0,South,UPI,Returning,7018.08,10,October,4,2025,Saturday
+ORD01177,CUST0265,2025-10-04,Office Chair,Furniture,1,7864.68,0.1,West,UPI,New,7078.21,10,October,4,2025,Saturday
+ORD01129,CUST0153,2025-10-05,Desk,Furniture,3,12321.33,0.0,North,UPI,VIP,36963.99,10,October,4,2025,Sunday
+ORD01460,CUST0116,2025-10-06,Tablet,Electronics,1,22698.96,0.05,North,Debit Card,New,21564.01,10,October,4,2025,Monday
+ORD00704,CUST0188,2025-10-06,Tablet,Electronics,2,22081.67,0.0,East,Debit Card,Returning,44163.34,10,October,4,2025,Monday
+ORD00204,CUST0102,2025-10-06,Monitor,Electronics,2,13826.88,0.1,East,Credit Card,New,24888.38,10,October,4,2025,Monday
+ORD00162,CUST0015,2025-10-07,Smartphone,Electronics,1,28202.15,0.1,West,Debit Card,Returning,25381.94,10,October,4,2025,Tuesday
+ORD00240,CUST0206,2025-10-08,Monitor,Electronics,2,14394.72,0.1,North,Debit Card,VIP,25910.5,10,October,4,2025,Wednesday
+ORD00273,CUST0019,2025-10-08,Office Chair,Furniture,1,7809.39,0.05,West,Credit Card,Returning,7418.92,10,October,4,2025,Wednesday
+ORD01428,CUST0193,2025-10-09,Backpack,Accessories,1,2209.03,0.05,North,UPI,New,2098.58,10,October,4,2025,Thursday
+ORD00957,CUST0072,2025-10-09,Keyboard,Accessories,2,1846.09,0.1,North,Debit Card,Returning,3322.96,10,October,4,2025,Thursday
+ORD00038,CUST0065,2025-10-09,Smartphone,Electronics,4,32911.72,0.0,East,Credit Card,Returning,131646.88,10,October,4,2025,Thursday
+ORD00779,CUST0023,2025-10-09,Tablet,Electronics,1,24004.86,0.15,North,UPI,Returning,20404.13,10,October,4,2025,Thursday
+ORD00512,CUST0025,2025-10-09,Headphones,Electronics,3,3769.93,0.0,West,Net Banking,Returning,11309.79,10,October,4,2025,Thursday
+ORD00271,CUST0022,2025-10-10,Smartphone,Electronics,2,27790.37,0.05,South,UPI,VIP,52801.7,10,October,4,2025,Friday
+ORD00631,CUST0076,2025-10-10,Monitor,Electronics,3,12617.52,0.0,East,UPI,New,37852.56,10,October,4,2025,Friday
+ORD01164,CUST0270,2025-10-10,Desk,Furniture,3,12242.3,0.0,South,UPI,Returning,36726.9,10,October,4,2025,Friday
+ORD00144,CUST0176,2025-10-11,Tablet,Electronics,2,20156.6,0.0,North,Credit Card,Returning,40313.2,10,October,4,2025,Saturday
+ORD00743,CUST0174,2025-10-11,Desk,Furniture,3,12025.37,0.0,East,UPI,Returning,36076.11,10,October,4,2025,Saturday
+ORD01285,CUST0269,2025-10-12,Office Chair,Furniture,2,8448.96,0.1,West,Credit Card,Returning,15208.13,10,October,4,2025,Sunday
+ORD00366,CUST0035,2025-10-12,Office Chair,Furniture,2,8675.0,0.1,North,UPI,New,15615.0,10,October,4,2025,Sunday
+ORD01480,CUST0084,2025-10-12,Smartphone,Electronics,3,30188.92,0.1,West,Net Banking,VIP,81510.08,10,October,4,2025,Sunday
+ORD00766,CUST0193,2025-10-12,Monitor,Electronics,2,13716.2,0.1,North,Debit Card,New,24689.16,10,October,4,2025,Sunday
+ORD00330,CUST0120,2025-10-13,Mouse,Accessories,1,907.33,0.0,North,Net Banking,Returning,907.33,10,October,4,2025,Monday
+ORD01387,CUST0071,2025-10-13,Mouse,Accessories,3,838.14,0.0,North,UPI,New,2514.42,10,October,4,2025,Monday
+ORD00764,CUST0295,2025-10-13,Tablet,Electronics,1,23590.36,0.1,South,Debit Card,VIP,21231.32,10,October,4,2025,Monday
+ORD00228,CUST0172,2025-10-13,Smartphone,Electronics,2,30346.7,0.05,West,Net Banking,VIP,57658.73,10,October,4,2025,Monday
+ORD00318,CUST0213,2025-10-13,Desk,Furniture,2,12766.21,0.1,South,Net Banking,New,22979.18,10,October,4,2025,Monday
+ORD01131,CUST0194,2025-10-14,Backpack,Accessories,4,2096.15,0.0,North,Net Banking,New,8384.6,10,October,4,2025,Tuesday
+ORD01449,CUST0033,2025-10-14,Keyboard,Accessories,4,1798.46,0.0,West,Credit Card,VIP,7193.84,10,October,4,2025,Tuesday
+ORD00727,CUST0122,2025-10-14,Mouse,Accessories,4,959.68,0.0,South,Debit Card,New,3838.72,10,October,4,2025,Tuesday
+ORD01119,CUST0139,2025-10-14,Tablet,Electronics,4,21843.14,0.0,North,UPI,Returning,87372.56,10,October,4,2025,Tuesday
+ORD00534,CUST0182,2025-10-14,Mouse,Accessories,4,958.8,0.1,East,Net Banking,VIP,3451.68,10,October,4,2025,Tuesday
+ORD00571,CUST0255,2025-10-14,Keyboard,Accessories,2,1975.87,0.0,South,Credit Card,Returning,3951.74,10,October,4,2025,Tuesday
+ORD00823,CUST0279,2025-10-14,Smartphone,Electronics,1,27316.46,0.1,West,UPI,New,24584.81,10,October,4,2025,Tuesday
+ORD01494,CUST0173,2025-10-14,Backpack,Accessories,1,2320.4,0.05,West,Net Banking,Returning,2204.38,10,October,4,2025,Tuesday
+ORD01219,CUST0061,2025-10-16,Office Chair,Furniture,2,8818.64,0.0,South,Net Banking,Returning,17637.28,10,October,4,2025,Thursday
+ORD01027,CUST0237,2025-10-16,Headphones,Electronics,4,3683.53,0.05,South,Net Banking,Returning,13997.41,10,October,4,2025,Thursday
+ORD00146,CUST0056,2025-10-16,Desk,Furniture,2,12105.07,0.1,South,Net Banking,New,21789.13,10,October,4,2025,Thursday
+ORD01019,CUST0240,2025-10-17,Desk,Furniture,3,11737.66,0.05,South,UPI,Returning,33452.33,10,October,4,2025,Friday
+ORD00762,CUST0106,2025-10-17,Backpack,Accessories,3,1995.66,0.15,East,Debit Card,Returning,5088.93,10,October,4,2025,Friday
+ORD00590,CUST0184,2025-10-17,Desk,Furniture,3,13123.38,0.0,East,Debit Card,New,39370.14,10,October,4,2025,Friday
+ORD00641,CUST0126,2025-10-17,Keyboard,Accessories,2,1861.66,0.0,North,Debit Card,Returning,3723.32,10,October,4,2025,Friday
+ORD00387,CUST0072,2025-10-17,Headphones,Electronics,2,3715.76,0.1,North,Credit Card,Returning,6688.37,10,October,4,2025,Friday
+ORD01037,CUST0056,2025-10-18,Mouse,Accessories,4,972.06,0.05,North,Net Banking,New,3693.83,10,October,4,2025,Saturday
+ORD00772,CUST0278,2025-10-18,Headphones,Electronics,4,3348.53,0.0,South,Credit Card,New,13394.12,10,October,4,2025,Saturday
+ORD01366,CUST0197,2025-10-18,Headphones,Electronics,1,3617.46,0.0,West,UPI,New,3617.46,10,October,4,2025,Saturday
+ORD00662,CUST0190,2025-10-18,Office Chair,Furniture,4,9096.96,0.15,North,Credit Card,Returning,30929.66,10,October,4,2025,Saturday
+ORD00083,CUST0173,2025-10-19,Smartphone,Electronics,3,30846.89,0.05,South,UPI,Returning,87913.64,10,October,4,2025,Sunday
+ORD00220,CUST0108,2025-10-20,Smartphone,Electronics,1,28300.44,0.0,East,UPI,New,28300.44,10,October,4,2025,Monday
+ORD00635,CUST0270,2025-10-20,Tablet,Electronics,3,20025.69,0.05,North,UPI,Returning,57073.22,10,October,4,2025,Monday
+ORD01267,CUST0262,2025-10-20,Backpack,Accessories,3,2262.83,0.05,East,Credit Card,New,6449.07,10,October,4,2025,Monday
+ORD01356,CUST0122,2025-10-20,Tablet,Electronics,3,23642.92,0.0,South,Debit Card,New,70928.76,10,October,4,2025,Monday
+ORD00279,CUST0132,2025-10-20,Monitor,Electronics,2,15081.35,0.05,South,Credit Card,Returning,28654.56,10,October,4,2025,Monday
+ORD00555,CUST0216,2025-10-20,Tablet,Electronics,4,20536.96,0.0,South,Credit Card,Returning,82147.84,10,October,4,2025,Monday
+ORD00303,CUST0125,2025-10-21,Office Chair,Furniture,2,8144.0,0.1,West,UPI,Returning,14659.2,10,October,4,2025,Tuesday
+ORD00847,CUST0174,2025-10-21,Tablet,Electronics,2,20467.67,0.05,East,Debit Card,Returning,38888.57,10,October,4,2025,Tuesday
+ORD01169,CUST0017,2025-10-21,Tablet,Electronics,3,21208.48,0.1,East,Credit Card,Returning,57262.9,10,October,4,2025,Tuesday
+ORD00397,CUST0241,2025-10-21,Tablet,Electronics,1,20006.15,0.0,North,UPI,New,20006.15,10,October,4,2025,Tuesday
+ORD00527,CUST0279,2025-10-21,Smartphone,Electronics,2,31777.45,0.0,North,UPI,New,63554.9,10,October,4,2025,Tuesday
+ORD00196,CUST0185,2025-10-21,Office Chair,Furniture,3,8082.18,0.05,West,UPI,Returning,23034.21,10,October,4,2025,Tuesday
+ORD00115,CUST0181,2025-10-23,Monitor,Electronics,3,13286.98,0.0,East,Net Banking,Returning,39860.94,10,October,4,2025,Thursday
+ORD00649,CUST0284,2025-10-23,Backpack,Accessories,4,2079.56,0.05,North,Credit Card,VIP,7902.33,10,October,4,2025,Thursday
+ORD00354,CUST0117,2025-10-23,Smartphone,Electronics,1,27398.66,0.05,South,Credit Card,New,26028.73,10,October,4,2025,Thursday
+ORD00765,CUST0196,2025-10-23,Headphones,Electronics,3,3488.26,0.15,South,Debit Card,Returning,8895.06,10,October,4,2025,Thursday
+ORD00886,CUST0168,2025-10-23,Mouse,Accessories,3,858.02,0.05,North,Net Banking,Returning,2445.36,10,October,4,2025,Thursday
+ORD00858,CUST0069,2025-10-23,Tablet,Electronics,1,20630.69,0.0,South,UPI,VIP,20630.69,10,October,4,2025,Thursday
+ORD00309,CUST0197,2025-10-24,Headphones,Electronics,3,3292.64,0.05,West,Credit Card,New,9384.02,10,October,4,2025,Friday
+ORD00621,CUST0299,2025-10-24,Laptop,Electronics,4,71054.71,0.0,East,Credit Card,New,284218.84,10,October,4,2025,Friday
+ORD01351,CUST0272,2025-10-24,Keyboard,Accessories,3,1665.6,0.0,North,UPI,New,4996.8,10,October,4,2025,Friday
+ORD01298,CUST0144,2025-10-25,Smartphone,Electronics,3,32476.72,0.0,North,UPI,Returning,97430.16,10,October,4,2025,Saturday
+ORD01092,CUST0084,2025-10-25,Smartphone,Electronics,3,28507.15,0.0,North,UPI,VIP,85521.45,10,October,4,2025,Saturday
+ORD00732,CUST0191,2025-10-25,Backpack,Accessories,2,2092.72,0.0,North,Net Banking,VIP,4185.44,10,October,4,2025,Saturday
+ORD00214,CUST0039,2025-10-25,Office Chair,Furniture,3,7831.69,0.05,West,Net Banking,New,22320.32,10,October,4,2025,Saturday
+ORD00950,CUST0003,2025-10-26,Tablet,Electronics,1,23390.65,0.0,West,Debit Card,New,23390.65,10,October,4,2025,Sunday
+ORD01317,CUST0222,2025-10-26,Headphones,Electronics,1,3263.15,0.1,East,Credit Card,Returning,2936.84,10,October,4,2025,Sunday
+ORD01125,CUST0114,2025-10-26,Headphones,Electronics,3,3224.26,0.05,West,Net Banking,New,9189.14,10,October,4,2025,Sunday
+ORD00685,CUST0253,2025-10-26,Desk,Furniture,3,11509.12,0.05,East,Net Banking,New,32800.99,10,October,4,2025,Sunday
+ORD00837,CUST0189,2025-10-27,Monitor,Electronics,4,14183.16,0.0,West,Debit Card,Returning,56732.64,10,October,4,2025,Monday
+ORD00854,CUST0062,2025-10-27,Monitor,Electronics,4,14603.07,0.15,East,Credit Card,Returning,49650.44,10,October,4,2025,Monday
+ORD00336,CUST0035,2025-10-28,Laptop,Electronics,2,69926.73,0.05,East,UPI,New,132860.79,10,October,4,2025,Tuesday
+ORD00709,CUST0118,2025-10-28,Smartphone,Electronics,3,28246.7,0.05,South,UPI,Returning,80503.1,10,October,4,2025,Tuesday
+ORD00294,CUST0182,2025-10-28,Tablet,Electronics,1,23217.53,0.0,West,Net Banking,VIP,23217.53,10,October,4,2025,Tuesday
+ORD00923,CUST0259,2025-10-28,Office Chair,Furniture,3,8020.14,0.05,South,Credit Card,Returning,22857.4,10,October,4,2025,Tuesday
+ORD00918,CUST0042,2025-10-29,Office Chair,Furniture,2,8249.22,0.0,South,Credit Card,Returning,16498.44,10,October,4,2025,Wednesday
+ORD01060,CUST0275,2025-10-30,Headphones,Electronics,2,3401.85,0.0,South,Net Banking,Returning,6803.7,10,October,4,2025,Thursday
+ORD00229,CUST0150,2025-10-30,Tablet,Electronics,4,24031.33,0.05,North,UPI,Returning,91319.05,10,October,4,2025,Thursday
+ORD00443,CUST0099,2025-10-30,Tablet,Electronics,3,21042.98,0.0,East,UPI,VIP,63128.94,10,October,4,2025,Thursday
+ORD00081,CUST0005,2025-10-30,Tablet,Electronics,1,20252.83,0.05,West,Credit Card,Returning,19240.19,10,October,4,2025,Thursday
+ORD01455,CUST0054,2025-10-31,Tablet,Electronics,3,20814.18,0.0,East,UPI,New,62442.54,10,October,4,2025,Friday
+ORD00536,CUST0269,2025-10-31,Laptop,Electronics,3,58791.54,0.0,North,UPI,Returning,176374.62,10,October,4,2025,Friday
+ORD00201,CUST0289,2025-10-31,Laptop,Electronics,3,70731.38,0.1,North,Credit Card,Returning,190974.73,10,October,4,2025,Friday
+ORD00206,CUST0199,2025-11-01,Keyboard,Accessories,3,1759.88,0.0,West,Credit Card,New,5279.64,11,November,4,2025,Saturday
+ORD00676,CUST0118,2025-11-01,Mouse,Accessories,1,983.98,0.05,East,Debit Card,Returning,934.78,11,November,4,2025,Saturday
+ORD00298,CUST0021,2025-11-01,Smartphone,Electronics,1,30925.05,0.0,East,UPI,New,30925.05,11,November,4,2025,Saturday
+ORD01485,CUST0141,2025-11-02,Monitor,Electronics,3,13079.71,0.05,South,Net Banking,New,37277.17,11,November,4,2025,Sunday
+ORD01006,CUST0048,2025-11-02,Mouse,Accessories,1,837.86,0.0,East,Credit Card,Returning,837.86,11,November,4,2025,Sunday
+ORD00043,CUST0154,2025-11-02,Tablet,Electronics,2,21895.33,0.1,West,Credit Card,Returning,39411.59,11,November,4,2025,Sunday
+ORD00703,CUST0001,2025-11-02,Tablet,Electronics,3,22392.54,0.05,West,Credit Card,Returning,63818.74,11,November,4,2025,Sunday
+ORD00682,CUST0210,2025-11-02,Laptop,Electronics,1,60846.74,0.0,South,UPI,Returning,60846.74,11,November,4,2025,Sunday
+ORD01276,CUST0027,2025-11-02,Mouse,Accessories,2,835.59,0.05,West,UPI,Returning,1587.62,11,November,4,2025,Sunday
+ORD01187,CUST0240,2025-11-03,Office Chair,Furniture,3,8570.99,0.0,East,Net Banking,Returning,25712.97,11,November,4,2025,Monday
+ORD01156,CUST0023,2025-11-03,Office Chair,Furniture,3,9121.6,0.0,West,Net Banking,Returning,27364.8,11,November,4,2025,Monday
+ORD00417,CUST0043,2025-11-03,Keyboard,Accessories,4,1817.42,0.1,North,Net Banking,VIP,6542.71,11,November,4,2025,Monday
+ORD01146,CUST0084,2025-11-03,Keyboard,Accessories,1,1872.95,0.15,South,Credit Card,VIP,1592.01,11,November,4,2025,Monday
+ORD00785,CUST0209,2025-11-03,Laptop,Electronics,2,71080.66,0.05,West,Net Banking,VIP,135053.25,11,November,4,2025,Monday
+ORD01453,CUST0023,2025-11-04,Smartphone,Electronics,1,30099.28,0.05,West,UPI,Returning,28594.32,11,November,4,2025,Tuesday
+ORD01339,CUST0254,2025-11-04,Mouse,Accessories,2,905.81,0.1,South,Credit Card,Returning,1630.46,11,November,4,2025,Tuesday
+ORD01074,CUST0206,2025-11-05,Laptop,Electronics,3,58520.82,0.0,North,Debit Card,VIP,175562.46,11,November,4,2025,Wednesday
+ORD00163,CUST0271,2025-11-05,Desk,Furniture,4,11245.26,0.1,West,UPI,New,40482.94,11,November,4,2025,Wednesday
+ORD00077,CUST0143,2025-11-05,Laptop,Electronics,1,63119.71,0.0,West,Net Banking,Returning,63119.71,11,November,4,2025,Wednesday
+ORD01383,CUST0031,2025-11-05,Mouse,Accessories,4,966.96,0.0,South,Net Banking,New,3867.84,11,November,4,2025,Wednesday
+ORD01458,CUST0059,2025-11-05,Mouse,Accessories,2,884.05,0.1,West,Debit Card,VIP,1591.29,11,November,4,2025,Wednesday
+ORD01135,CUST0285,2025-11-06,Smartphone,Electronics,4,29301.4,0.05,East,Debit Card,Returning,111345.32,11,November,4,2025,Thursday
+ORD01343,CUST0019,2025-11-06,Smartphone,Electronics,3,28876.56,0.1,North,Net Banking,Returning,77966.71,11,November,4,2025,Thursday
+ORD00241,CUST0289,2025-11-06,Monitor,Electronics,3,13963.77,0.05,South,Credit Card,Returning,39796.74,11,November,4,2025,Thursday
+ORD01095,CUST0280,2025-11-07,Monitor,Electronics,1,12716.6,0.1,North,Net Banking,New,11444.94,11,November,4,2025,Friday
+ORD00039,CUST0283,2025-11-07,Laptop,Electronics,1,59325.65,0.0,South,Net Banking,Returning,59325.65,11,November,4,2025,Friday
+ORD00129,CUST0210,2025-11-07,Laptop,Electronics,4,64048.62,0.1,East,Debit Card,Returning,230575.03,11,November,4,2025,Friday
+ORD00910,CUST0259,2025-11-07,Monitor,Electronics,3,15094.33,0.0,East,Credit Card,Returning,45282.99,11,November,4,2025,Friday
+ORD00851,CUST0114,2025-11-07,Backpack,Accessories,2,2191.45,0.0,North,Net Banking,New,4382.9,11,November,4,2025,Friday
+ORD00861,CUST0071,2025-11-08,Tablet,Electronics,3,22506.31,0.1,South,UPI,New,60767.04,11,November,4,2025,Saturday
+ORD01036,CUST0118,2025-11-08,Monitor,Electronics,3,13780.23,0.0,West,Credit Card,Returning,41340.69,11,November,4,2025,Saturday
+ORD00420,CUST0218,2025-11-08,Monitor,Electronics,2,15372.58,0.0,West,Net Banking,New,30745.16,11,November,4,2025,Saturday
+ORD00948,CUST0110,2025-11-08,Keyboard,Accessories,2,1642.75,0.05,East,UPI,VIP,3121.22,11,November,4,2025,Saturday
+ORD00442,CUST0237,2025-11-08,Backpack,Accessories,1,2169.81,0.05,East,Credit Card,Returning,2061.32,11,November,4,2025,Saturday
+ORD00190,CUST0257,2025-11-09,Keyboard,Accessories,4,1831.64,0.1,West,Debit Card,New,6593.9,11,November,4,2025,Sunday
+ORD00285,CUST0146,2025-11-09,Monitor,Electronics,1,14275.03,0.05,West,Debit Card,VIP,13561.28,11,November,4,2025,Sunday
+ORD00112,CUST0076,2025-11-09,Office Chair,Furniture,1,7668.69,0.0,East,Debit Card,New,7668.69,11,November,4,2025,Sunday
+ORD01191,CUST0006,2025-11-09,Mouse,Accessories,1,920.1,0.05,North,Net Banking,Returning,874.1,11,November,4,2025,Sunday
+ORD00502,CUST0087,2025-11-09,Laptop,Electronics,4,69663.94,0.05,East,Debit Card,New,264722.97,11,November,4,2025,Sunday
+ORD00920,CUST0067,2025-11-10,Mouse,Accessories,1,868.02,0.1,South,Debit Card,VIP,781.22,11,November,4,2025,Monday
+ORD00613,CUST0050,2025-11-10,Laptop,Electronics,3,63113.67,0.0,West,Debit Card,Returning,189341.01,11,November,4,2025,Monday
+ORD01475,CUST0114,2025-11-11,Keyboard,Accessories,3,1952.87,0.0,East,Debit Card,New,5858.61,11,November,4,2025,Tuesday
+ORD00570,CUST0099,2025-11-11,Tablet,Electronics,3,23733.53,0.0,East,Credit Card,VIP,71200.59,11,November,4,2025,Tuesday
+ORD00479,CUST0065,2025-11-11,Headphones,Electronics,2,3464.36,0.05,South,UPI,Returning,6582.28,11,November,4,2025,Tuesday
+ORD00125,CUST0270,2025-11-11,Keyboard,Accessories,3,1727.05,0.1,East,Credit Card,Returning,4663.04,11,November,4,2025,Tuesday
+ORD00062,CUST0101,2025-11-11,Mouse,Accessories,4,926.27,0.05,North,Debit Card,VIP,3519.83,11,November,4,2025,Tuesday
+ORD00996,CUST0182,2025-11-11,Office Chair,Furniture,2,9045.56,0.0,East,Credit Card,VIP,18091.12,11,November,4,2025,Tuesday
+ORD00401,CUST0179,2025-11-12,Keyboard,Accessories,1,1867.33,0.05,East,Credit Card,New,1773.96,11,November,4,2025,Wednesday
+ORD00701,CUST0136,2025-11-12,Office Chair,Furniture,4,8612.23,0.1,South,Credit Card,Returning,31004.03,11,November,4,2025,Wednesday
+ORD01484,CUST0250,2025-11-12,Office Chair,Furniture,2,7929.11,0.0,East,Net Banking,New,15858.22,11,November,4,2025,Wednesday
+ORD01287,CUST0138,2025-11-12,Smartphone,Electronics,2,27184.95,0.1,East,Net Banking,New,48932.91,11,November,4,2025,Wednesday
+ORD00186,CUST0293,2025-11-12,Keyboard,Accessories,2,1797.22,0.0,North,UPI,New,3594.44,11,November,4,2025,Wednesday
+ORD01115,CUST0257,2025-11-13,Office Chair,Furniture,1,8505.33,0.0,West,Debit Card,New,8505.33,11,November,4,2025,Thursday
+ORD01417,CUST0043,2025-11-13,Backpack,Accessories,1,2218.19,0.0,South,Net Banking,VIP,2218.19,11,November,4,2025,Thursday
+ORD01467,CUST0054,2025-11-13,Mouse,Accessories,2,885.01,0.0,South,Net Banking,New,1770.02,11,November,4,2025,Thursday
+ORD00612,CUST0100,2025-11-13,Headphones,Electronics,4,3808.13,0.0,North,Credit Card,VIP,15232.52,11,November,4,2025,Thursday
+ORD00790,CUST0216,2025-11-14,Keyboard,Accessories,1,1622.18,0.05,West,Credit Card,Returning,1541.07,11,November,4,2025,Friday
+ORD01365,CUST0081,2025-11-14,Smartphone,Electronics,2,30962.32,0.05,South,UPI,New,58828.41,11,November,4,2025,Friday
+ORD00487,CUST0069,2025-11-14,Smartphone,Electronics,4,29129.16,0.0,South,Credit Card,VIP,116516.64,11,November,4,2025,Friday
+ORD01050,CUST0116,2025-11-14,Headphones,Electronics,2,3333.59,0.0,North,Debit Card,New,6667.18,11,November,4,2025,Friday
+ORD01055,CUST0054,2025-11-14,Smartphone,Electronics,2,32981.1,0.0,East,Debit Card,New,65962.2,11,November,4,2025,Friday
+ORD01488,CUST0086,2025-11-14,Keyboard,Accessories,3,1975.35,0.05,North,UPI,Returning,5629.75,11,November,4,2025,Friday
+ORD01331,CUST0249,2025-11-15,Headphones,Electronics,1,3644.12,0.1,North,Net Banking,New,3279.71,11,November,4,2025,Saturday
+ORD00498,CUST0283,2025-11-15,Desk,Furniture,2,12085.33,0.0,South,Net Banking,Returning,24170.66,11,November,4,2025,Saturday
+ORD01160,CUST0229,2025-11-16,Monitor,Electronics,1,14795.12,0.0,North,Debit Card,New,14795.12,11,November,4,2025,Sunday
+ORD01195,CUST0270,2025-11-16,Tablet,Electronics,1,21709.82,0.1,West,UPI,Returning,19538.84,11,November,4,2025,Sunday
+ORD01477,CUST0230,2025-11-16,Mouse,Accessories,4,887.19,0.0,West,Debit Card,New,3548.76,11,November,4,2025,Sunday
+ORD00398,CUST0088,2025-11-16,Smartphone,Electronics,4,27022.92,0.0,North,Net Banking,New,108091.68,11,November,4,2025,Sunday
+ORD01429,CUST0282,2025-11-16,Office Chair,Furniture,2,7912.96,0.05,South,UPI,Returning,15034.62,11,November,4,2025,Sunday
+ORD00073,CUST0137,2025-11-16,Smartphone,Electronics,4,29275.37,0.1,South,Net Banking,Returning,105391.33,11,November,4,2025,Sunday
+ORD00413,CUST0029,2025-11-17,Backpack,Accessories,4,1998.33,0.0,West,UPI,Returning,7993.32,11,November,4,2025,Monday
+ORD00828,CUST0229,2025-11-17,Headphones,Electronics,2,3680.44,0.0,West,Net Banking,New,7360.88,11,November,4,2025,Monday
+ORD01241,CUST0087,2025-11-17,Smartphone,Electronics,2,29026.31,0.05,South,Credit Card,New,55149.99,11,November,4,2025,Monday
+ORD00604,CUST0076,2025-11-17,Laptop,Electronics,3,61337.38,0.15,North,UPI,New,156410.32,11,November,4,2025,Monday
+ORD00456,CUST0111,2025-11-17,Backpack,Accessories,3,2313.96,0.0,East,Credit Card,Returning,6941.88,11,November,4,2025,Monday
+ORD01341,CUST0156,2025-11-18,Office Chair,Furniture,2,7987.52,0.05,South,Credit Card,Returning,15176.29,11,November,4,2025,Tuesday
+ORD00707,CUST0220,2025-11-19,Laptop,Electronics,4,60802.07,0.0,South,Net Banking,New,243208.28,11,November,4,2025,Wednesday
+ORD01004,CUST0202,2025-11-19,Headphones,Electronics,1,3812.33,0.05,North,UPI,VIP,3621.71,11,November,4,2025,Wednesday
+ORD00965,CUST0120,2025-11-19,Mouse,Accessories,3,861.37,0.05,South,UPI,Returning,2454.9,11,November,4,2025,Wednesday
+ORD00620,CUST0096,2025-11-19,Backpack,Accessories,1,2376.7,0.0,South,UPI,Returning,2376.7,11,November,4,2025,Wednesday
+ORD00971,CUST0195,2025-11-19,Tablet,Electronics,2,23064.9,0.0,South,Debit Card,Returning,46129.8,11,November,4,2025,Wednesday
+ORD00086,CUST0111,2025-11-20,Desk,Furniture,4,12223.11,0.0,North,Net Banking,Returning,48892.44,11,November,4,2025,Thursday
+ORD00203,CUST0176,2025-11-20,Backpack,Accessories,1,2229.49,0.05,South,Credit Card,Returning,2118.02,11,November,4,2025,Thursday
+ORD00133,CUST0177,2025-11-20,Headphones,Electronics,1,3398.24,0.0,South,Debit Card,New,3398.24,11,November,4,2025,Thursday
+ORD01344,CUST0274,2025-11-20,Office Chair,Furniture,1,8804.57,0.15,North,UPI,New,7483.88,11,November,4,2025,Thursday
+ORD01346,CUST0005,2025-11-20,Keyboard,Accessories,4,1865.33,0.0,North,Credit Card,Returning,7461.32,11,November,4,2025,Thursday
+ORD00009,CUST0223,2025-11-21,Tablet,Electronics,2,23907.12,0.05,North,Net Banking,VIP,45423.53,11,November,4,2025,Friday
+ORD00867,CUST0017,2025-11-21,Smartphone,Electronics,3,31130.03,0.05,East,Debit Card,Returning,88720.59,11,November,4,2025,Friday
+ORD00379,CUST0225,2025-11-21,Desk,Furniture,3,11548.56,0.0,North,UPI,Returning,34645.68,11,November,4,2025,Friday
+ORD00320,CUST0075,2025-11-21,Backpack,Accessories,3,2253.21,0.0,West,UPI,New,6759.63,11,November,4,2025,Friday
+ORD00663,CUST0285,2025-11-21,Mouse,Accessories,3,908.8,0.0,West,UPI,Returning,2726.4,11,November,4,2025,Friday
+ORD01200,CUST0293,2025-11-21,Smartphone,Electronics,4,29909.15,0.0,South,Net Banking,New,119636.6,11,November,4,2025,Friday
+ORD01109,CUST0042,2025-11-21,Keyboard,Accessories,1,1646.67,0.15,North,Debit Card,Returning,1399.67,11,November,4,2025,Friday
+ORD01233,CUST0055,2025-11-21,Headphones,Electronics,2,3638.72,0.0,South,UPI,Returning,7277.44,11,November,4,2025,Friday
+ORD00067,CUST0203,2025-11-22,Desk,Furniture,2,11471.95,0.1,South,Debit Card,Returning,20649.51,11,November,4,2025,Saturday
+ORD00227,CUST0067,2025-11-22,Mouse,Accessories,4,868.38,0.0,South,UPI,VIP,3473.52,11,November,4,2025,Saturday
+ORD00187,CUST0014,2025-11-22,Desk,Furniture,3,11662.16,0.05,North,UPI,Returning,33237.16,11,November,4,2025,Saturday
+ORD01327,CUST0162,2025-11-22,Keyboard,Accessories,4,1701.95,0.05,East,Net Banking,New,6467.41,11,November,4,2025,Saturday
+ORD00152,CUST0223,2025-11-22,Smartphone,Electronics,4,27054.43,0.1,East,Debit Card,VIP,97395.95,11,November,4,2025,Saturday
+ORD01128,CUST0111,2025-11-22,Office Chair,Furniture,1,8822.7,0.05,East,Credit Card,Returning,8381.56,11,November,4,2025,Saturday
+ORD00892,CUST0116,2025-11-23,Smartphone,Electronics,3,27306.99,0.0,North,Debit Card,New,81920.97,11,November,4,2025,Sunday
+ORD00891,CUST0035,2025-11-23,Headphones,Electronics,4,3383.64,0.05,North,Net Banking,New,12857.83,11,November,4,2025,Sunday
+ORD01175,CUST0016,2025-11-23,Mouse,Accessories,1,896.17,0.0,South,Debit Card,Returning,896.17,11,November,4,2025,Sunday
+ORD00299,CUST0161,2025-11-23,Smartphone,Electronics,1,28351.9,0.0,South,UPI,Returning,28351.9,11,November,4,2025,Sunday
+ORD00564,CUST0208,2025-11-23,Backpack,Accessories,3,2226.21,0.05,North,UPI,New,6344.7,11,November,4,2025,Sunday
+ORD00200,CUST0026,2025-11-24,Desk,Furniture,3,12169.46,0.0,North,Debit Card,New,36508.38,11,November,4,2025,Monday
+ORD01451,CUST0091,2025-11-24,Desk,Furniture,2,11404.97,0.05,North,UPI,VIP,21669.44,11,November,4,2025,Monday
+ORD00673,CUST0230,2025-11-24,Laptop,Electronics,2,60500.95,0.15,East,Net Banking,New,102851.62,11,November,4,2025,Monday
+ORD00728,CUST0030,2025-11-25,Backpack,Accessories,4,2234.75,0.0,East,UPI,VIP,8939.0,11,November,4,2025,Tuesday
+ORD00378,CUST0175,2025-11-25,Monitor,Electronics,3,15276.93,0.0,West,Net Banking,New,45830.79,11,November,4,2025,Tuesday
+ORD01133,CUST0168,2025-11-26,Tablet,Electronics,4,19931.08,0.0,East,Net Banking,Returning,79724.32,11,November,4,2025,Wednesday
+ORD00048,CUST0081,2025-11-26,Keyboard,Accessories,1,1672.95,0.1,North,Net Banking,New,1505.66,11,November,4,2025,Wednesday
+ORD00697,CUST0150,2025-11-26,Keyboard,Accessories,3,1903.59,0.0,East,UPI,Returning,5710.77,11,November,4,2025,Wednesday
+ORD01124,CUST0072,2025-11-26,Smartphone,Electronics,1,29325.75,0.0,South,Credit Card,Returning,29325.75,11,November,4,2025,Wednesday
+ORD01170,CUST0070,2025-11-26,Desk,Furniture,4,11283.36,0.15,South,Net Banking,New,38363.42,11,November,4,2025,Wednesday
+ORD00207,CUST0291,2025-11-26,Mouse,Accessories,2,915.67,0.0,South,Debit Card,VIP,1831.34,11,November,4,2025,Wednesday
+ORD00960,CUST0166,2025-11-26,Tablet,Electronics,4,22414.2,0.05,North,UPI,New,85173.96,11,November,4,2025,Wednesday
+ORD00519,CUST0059,2025-11-27,Office Chair,Furniture,2,8286.62,0.0,South,UPI,VIP,16573.24,11,November,4,2025,Thursday
+ORD01213,CUST0292,2025-11-27,Mouse,Accessories,2,872.96,0.0,South,UPI,VIP,1745.92,11,November,4,2025,Thursday
+ORD00235,CUST0066,2025-11-27,Backpack,Accessories,1,2132.38,0.0,East,Net Banking,Returning,2132.38,11,November,4,2025,Thursday
+ORD01270,CUST0163,2025-11-27,Desk,Furniture,3,11024.78,0.1,East,Credit Card,New,29766.91,11,November,4,2025,Thursday
+ORD01134,CUST0138,2025-11-27,Mouse,Accessories,4,874.48,0.0,North,Credit Card,New,3497.92,11,November,4,2025,Thursday
+ORD01038,CUST0235,2025-11-27,Office Chair,Furniture,4,9052.92,0.1,West,Credit Card,Returning,32590.51,11,November,4,2025,Thursday
+ORD00691,CUST0012,2025-11-28,Mouse,Accessories,2,813.97,0.15,East,Credit Card,New,1383.75,11,November,4,2025,Friday
+ORD01040,CUST0240,2025-11-29,Tablet,Electronics,4,24002.1,0.1,East,UPI,Returning,86407.56,11,November,4,2025,Saturday
+ORD00833,CUST0032,2025-11-29,Keyboard,Accessories,1,1853.53,0.1,North,Credit Card,Returning,1668.18,11,November,4,2025,Saturday
+ORD00929,CUST0132,2025-11-29,Monitor,Electronics,2,14515.13,0.0,North,Net Banking,Returning,29030.26,11,November,4,2025,Saturday
+ORD00714,CUST0099,2025-11-29,Smartphone,Electronics,3,29494.91,0.05,South,UPI,VIP,84060.49,11,November,4,2025,Saturday
+ORD01468,CUST0184,2025-11-29,Mouse,Accessories,2,950.39,0.05,North,Net Banking,New,1805.74,11,November,4,2025,Saturday
+ORD01474,CUST0085,2025-11-29,Desk,Furniture,3,11884.91,0.05,West,UPI,Returning,33871.99,11,November,4,2025,Saturday
+ORD00800,CUST0148,2025-11-30,Office Chair,Furniture,1,8022.51,0.0,East,Credit Card,Returning,8022.51,11,November,4,2025,Sunday
+ORD01454,CUST0067,2025-11-30,Backpack,Accessories,3,2291.47,0.05,West,UPI,VIP,6530.69,11,November,4,2025,Sunday
+ORD00072,CUST0094,2025-11-30,Laptop,Electronics,1,69298.05,0.15,North,Net Banking,Returning,58903.34,11,November,4,2025,Sunday
+ORD01127,CUST0159,2025-11-30,Tablet,Electronics,3,21774.95,0.05,West,Debit Card,Returning,62058.61,11,November,4,2025,Sunday
+ORD01476,CUST0095,2025-12-01,Laptop,Electronics,1,64257.88,0.0,West,Net Banking,New,64257.88,12,December,4,2025,Monday
+ORD00153,CUST0074,2025-12-01,Backpack,Accessories,4,2349.65,0.0,South,Credit Card,New,9398.6,12,December,4,2025,Monday
+ORD00046,CUST0252,2025-12-01,Smartphone,Electronics,2,30648.53,0.05,East,UPI,Returning,58232.21,12,December,4,2025,Monday
+ORD00394,CUST0014,2025-12-01,Smartphone,Electronics,4,28407.92,0.0,South,Debit Card,Returning,113631.68,12,December,4,2025,Monday
+ORD00516,CUST0022,2025-12-01,Mouse,Accessories,4,842.71,0.05,West,Net Banking,VIP,3202.3,12,December,4,2025,Monday
+ORD00890,CUST0181,2025-12-02,Desk,Furniture,2,11175.27,0.1,West,Credit Card,Returning,20115.49,12,December,4,2025,Tuesday
+ORD00756,CUST0272,2025-12-02,Smartphone,Electronics,2,31041.28,0.0,South,UPI,New,62082.56,12,December,4,2025,Tuesday
+ORD00915,CUST0037,2025-12-02,Mouse,Accessories,3,915.8,0.1,South,Net Banking,Returning,2472.66,12,December,4,2025,Tuesday
+ORD00238,CUST0291,2025-12-02,Desk,Furniture,2,12883.34,0.1,East,Net Banking,VIP,23190.01,12,December,4,2025,Tuesday
+ORD00842,CUST0182,2025-12-02,Headphones,Electronics,2,3363.14,0.15,West,Net Banking,VIP,5717.34,12,December,4,2025,Tuesday
+ORD00281,CUST0071,2025-12-02,Monitor,Electronics,1,14398.51,0.0,South,UPI,New,14398.51,12,December,4,2025,Tuesday
+ORD00611,CUST0044,2025-12-03,Office Chair,Furniture,3,8691.75,0.1,East,UPI,New,23467.72,12,December,4,2025,Wednesday
+ORD00013,CUST0012,2025-12-03,Smartphone,Electronics,1,27566.66,0.05,South,Net Banking,New,26188.33,12,December,4,2025,Wednesday
+ORD00262,CUST0008,2025-12-03,Tablet,Electronics,2,20163.52,0.05,East,Net Banking,New,38310.69,12,December,4,2025,Wednesday
+ORD00887,CUST0141,2025-12-03,Mouse,Accessories,1,842.92,0.0,North,Debit Card,New,842.92,12,December,4,2025,Wednesday
+ORD00937,CUST0029,2025-12-03,Office Chair,Furniture,2,8394.2,0.0,South,Debit Card,Returning,16788.4,12,December,4,2025,Wednesday
+ORD00288,CUST0259,2025-12-03,Laptop,Electronics,2,69312.06,0.0,East,Credit Card,Returning,138624.12,12,December,4,2025,Wednesday
+ORD01201,CUST0288,2025-12-03,Smartphone,Electronics,4,27140.6,0.0,South,Credit Card,Returning,108562.4,12,December,4,2025,Wednesday
+ORD00795,CUST0026,2025-12-04,Backpack,Accessories,2,2130.54,0.15,West,Credit Card,New,3621.92,12,December,4,2025,Thursday
+ORD00640,CUST0239,2025-12-04,Backpack,Accessories,4,2276.16,0.1,North,Net Banking,New,8194.18,12,December,4,2025,Thursday
+ORD00167,CUST0072,2025-12-04,Laptop,Electronics,4,64539.78,0.05,South,UPI,Returning,245251.16,12,December,4,2025,Thursday
+ORD01379,CUST0280,2025-12-05,Desk,Furniture,1,11858.95,0.0,North,Net Banking,New,11858.95,12,December,4,2025,Friday
+ORD01334,CUST0105,2025-12-06,Smartphone,Electronics,3,28428.51,0.1,South,UPI,New,76756.98,12,December,4,2025,Saturday
+ORD00132,CUST0239,2025-12-06,Backpack,Accessories,2,2020.35,0.0,North,Credit Card,New,4040.7,12,December,4,2025,Saturday
+ORD00666,CUST0193,2025-12-06,Tablet,Electronics,1,21145.27,0.0,South,Net Banking,New,21145.27,12,December,4,2025,Saturday
+ORD00530,CUST0279,2025-12-06,Office Chair,Furniture,2,8987.4,0.1,West,Credit Card,New,16177.32,12,December,4,2025,Saturday
+ORD00459,CUST0251,2025-12-06,Backpack,Accessories,1,2042.55,0.0,West,Credit Card,Returning,2042.55,12,December,4,2025,Saturday
+ORD00007,CUST0094,2025-12-07,Monitor,Electronics,1,13927.69,0.0,East,Net Banking,Returning,13927.69,12,December,4,2025,Sunday
+ORD00644,CUST0273,2025-12-07,Office Chair,Furniture,1,8380.36,0.0,West,UPI,New,8380.36,12,December,4,2025,Sunday
+ORD01496,CUST0132,2025-12-07,Office Chair,Furniture,4,8153.31,0.05,North,Credit Card,Returning,30982.58,12,December,4,2025,Sunday
+ORD01229,CUST0241,2025-12-07,Smartphone,Electronics,3,32733.84,0.1,North,UPI,New,88381.37,12,December,4,2025,Sunday
+ORD01412,CUST0273,2025-12-07,Keyboard,Accessories,4,1949.74,0.0,East,Debit Card,New,7798.96,12,December,4,2025,Sunday
+ORD00025,CUST0165,2025-12-08,Mouse,Accessories,3,914.63,0.1,West,Credit Card,VIP,2469.5,12,December,4,2025,Monday
+ORD00018,CUST0286,2025-12-08,Laptop,Electronics,1,65068.28,0.1,North,UPI,VIP,58561.45,12,December,4,2025,Monday
+ORD01137,CUST0220,2025-12-08,Desk,Furniture,3,12630.83,0.1,North,Net Banking,New,34103.24,12,December,4,2025,Monday
+ORD00976,CUST0174,2025-12-09,Keyboard,Accessories,3,1965.73,0.0,North,Debit Card,Returning,5897.19,12,December,4,2025,Tuesday
+ORD00407,CUST0166,2025-12-09,Mouse,Accessories,4,926.59,0.1,North,Credit Card,New,3335.72,12,December,4,2025,Tuesday
+ORD01150,CUST0033,2025-12-09,Desk,Furniture,1,12803.9,0.1,North,UPI,VIP,11523.51,12,December,4,2025,Tuesday
+ORD00363,CUST0031,2025-12-10,Monitor,Electronics,1,12993.55,0.05,East,UPI,New,12343.87,12,December,4,2025,Wednesday
+ORD00345,CUST0233,2025-12-10,Backpack,Accessories,4,2018.32,0.05,North,UPI,Returning,7669.62,12,December,4,2025,Wednesday
+ORD01065,CUST0228,2025-12-10,Backpack,Accessories,1,2355.99,0.05,West,Credit Card,Returning,2238.19,12,December,4,2025,Wednesday
+ORD01257,CUST0038,2025-12-11,Backpack,Accessories,3,2245.1,0.0,West,Debit Card,VIP,6735.3,12,December,4,2025,Thursday
+ORD00565,CUST0048,2025-12-11,Smartphone,Electronics,4,28969.4,0.05,West,Debit Card,Returning,110083.72,12,December,4,2025,Thursday
+ORD01340,CUST0188,2025-12-11,Laptop,Electronics,4,69110.96,0.15,West,UPI,Returning,234977.26,12,December,4,2025,Thursday
+ORD00490,CUST0179,2025-12-11,Tablet,Electronics,1,23851.37,0.05,East,Credit Card,New,22658.8,12,December,4,2025,Thursday
+ORD00002,CUST0147,2025-12-12,Laptop,Electronics,4,62020.82,0.0,North,Debit Card,New,248083.28,12,December,4,2025,Friday
+ORD01163,CUST0014,2025-12-12,Laptop,Electronics,2,70340.71,0.1,East,Net Banking,Returning,126613.28,12,December,4,2025,Friday
+ORD01358,CUST0035,2025-12-12,Laptop,Electronics,2,59941.96,0.0,South,Credit Card,New,119883.92,12,December,4,2025,Friday
+ORD00339,CUST0076,2025-12-13,Headphones,Electronics,2,3333.87,0.0,East,Credit Card,New,6667.74,12,December,4,2025,Saturday
+ORD00231,CUST0136,2025-12-14,Monitor,Electronics,3,15196.1,0.0,East,Net Banking,Returning,45588.3,12,December,4,2025,Sunday
+ORD01314,CUST0038,2025-12-14,Headphones,Electronics,2,3520.87,0.05,East,Debit Card,VIP,6689.65,12,December,4,2025,Sunday
+ORD00799,CUST0266,2025-12-14,Mouse,Accessories,4,879.74,0.05,South,Net Banking,New,3343.01,12,December,4,2025,Sunday
+ORD00496,CUST0038,2025-12-14,Keyboard,Accessories,4,1805.91,0.1,North,Debit Card,VIP,6501.28,12,December,4,2025,Sunday
+ORD00338,CUST0038,2025-12-14,Monitor,Electronics,1,14567.37,0.0,West,Net Banking,VIP,14567.37,12,December,4,2025,Sunday
+ORD00901,CUST0224,2025-12-15,Tablet,Electronics,4,20295.01,0.05,South,Credit Card,Returning,77121.04,12,December,4,2025,Monday
+ORD01309,CUST0096,2025-12-15,Backpack,Accessories,1,2176.58,0.05,West,Debit Card,Returning,2067.75,12,December,4,2025,Monday
+ORD00436,CUST0055,2025-12-15,Desk,Furniture,4,11028.96,0.0,East,Net Banking,Returning,44115.84,12,December,4,2025,Monday
+ORD00600,CUST0181,2025-12-15,Office Chair,Furniture,1,7851.81,0.15,North,Credit Card,Returning,6674.04,12,December,4,2025,Monday
+ORD00753,CUST0241,2025-12-15,Laptop,Electronics,2,63298.77,0.0,South,Debit Card,New,126597.54,12,December,4,2025,Monday
+ORD00213,CUST0077,2025-12-17,Monitor,Electronics,2,12941.28,0.0,West,Debit Card,New,25882.56,12,December,4,2025,Wednesday
+ORD01275,CUST0206,2025-12-17,Office Chair,Furniture,4,8125.1,0.05,North,UPI,VIP,30875.38,12,December,4,2025,Wednesday
+ORD00593,CUST0105,2025-12-17,Keyboard,Accessories,4,1768.03,0.0,South,Net Banking,New,7072.12,12,December,4,2025,Wednesday
+ORD00461,CUST0065,2025-12-18,Laptop,Electronics,3,64772.51,0.05,West,Net Banking,Returning,184601.65,12,December,4,2025,Thursday
+ORD01406,CUST0192,2025-12-19,Desk,Furniture,3,12491.79,0.0,South,Credit Card,New,37475.37,12,December,4,2025,Friday
+ORD01292,CUST0225,2025-12-19,Backpack,Accessories,4,2139.5,0.05,East,Credit Card,Returning,8130.1,12,December,4,2025,Friday
+ORD01444,CUST0101,2025-12-19,Office Chair,Furniture,2,8540.39,0.0,West,Debit Card,VIP,17080.78,12,December,4,2025,Friday
+ORD00224,CUST0288,2025-12-19,Office Chair,Furniture,1,7785.01,0.0,West,UPI,Returning,7785.01,12,December,4,2025,Friday
+ORD00076,CUST0295,2025-12-19,Desk,Furniture,2,12959.2,0.05,East,UPI,VIP,24622.48,12,December,4,2025,Friday
+ORD00813,CUST0223,2025-12-20,Headphones,Electronics,1,3545.09,0.05,South,Credit Card,VIP,3367.84,12,December,4,2025,Saturday
+ORD01118,CUST0223,2025-12-20,Office Chair,Furniture,4,7969.47,0.0,North,Debit Card,VIP,31877.88,12,December,4,2025,Saturday
+ORD01374,CUST0092,2025-12-21,Desk,Furniture,1,12050.1,0.1,North,Net Banking,New,10845.09,12,December,4,2025,Sunday
+ORD01352,CUST0222,2025-12-21,Office Chair,Furniture,2,7738.86,0.05,North,UPI,Returning,14703.83,12,December,4,2025,Sunday
+ORD00560,CUST0192,2025-12-21,Mouse,Accessories,2,900.99,0.0,West,Net Banking,New,1801.98,12,December,4,2025,Sunday
+ORD00999,CUST0182,2025-12-21,Tablet,Electronics,2,20028.9,0.0,East,UPI,VIP,40057.8,12,December,4,2025,Sunday
+ORD00055,CUST0048,2025-12-21,Laptop,Electronics,2,69787.91,0.0,North,Net Banking,Returning,139575.82,12,December,4,2025,Sunday
+ORD00834,CUST0178,2025-12-21,Tablet,Electronics,4,23798.84,0.1,East,UPI,Returning,85675.82,12,December,4,2025,Sunday
+ORD00411,CUST0074,2025-12-22,Keyboard,Accessories,2,1741.44,0.0,South,Debit Card,New,3482.88,12,December,4,2025,Monday
+ORD00656,CUST0036,2025-12-22,Monitor,Electronics,2,14071.32,0.05,West,Credit Card,New,26735.51,12,December,4,2025,Monday
+ORD01101,CUST0290,2025-12-22,Laptop,Electronics,1,70588.98,0.05,West,Net Banking,Returning,67059.53,12,December,4,2025,Monday
+ORD00797,CUST0131,2025-12-22,Laptop,Electronics,3,69328.19,0.15,North,Debit Card,Returning,176786.88,12,December,4,2025,Monday
+ORD00537,CUST0086,2025-12-22,Mouse,Accessories,3,947.58,0.05,West,UPI,Returning,2700.6,12,December,4,2025,Monday
+ORD00355,CUST0268,2025-12-23,Headphones,Electronics,3,3490.2,0.05,North,Debit Card,New,9947.07,12,December,4,2025,Tuesday
+ORD00521,CUST0207,2025-12-23,Backpack,Accessories,4,2317.27,0.05,West,Credit Card,VIP,8805.63,12,December,4,2025,Tuesday
+ORD01042,CUST0143,2025-12-23,Desk,Furniture,3,10944.26,0.1,North,UPI,Returning,29549.5,12,December,4,2025,Tuesday
+ORD00674,CUST0263,2025-12-24,Office Chair,Furniture,1,9344.16,0.05,South,Net Banking,VIP,8876.95,12,December,4,2025,Wednesday
+ORD00386,CUST0265,2025-12-24,Smartphone,Electronics,2,28682.01,0.05,East,UPI,New,54495.82,12,December,4,2025,Wednesday
+ORD01058,CUST0177,2025-12-24,Monitor,Electronics,3,14442.26,0.1,South,UPI,New,38994.1,12,December,4,2025,Wednesday
+ORD00739,CUST0015,2025-12-24,Backpack,Accessories,4,2374.68,0.1,West,UPI,Returning,8548.85,12,December,4,2025,Wednesday
+ORD00744,CUST0166,2025-12-25,Headphones,Electronics,2,3208.98,0.05,South,UPI,New,6097.06,12,December,4,2025,Thursday
+ORD00404,CUST0211,2025-12-25,Keyboard,Accessories,2,1657.73,0.05,West,Net Banking,Returning,3149.69,12,December,4,2025,Thursday
+ORD01349,CUST0187,2025-12-26,Backpack,Accessories,3,2215.06,0.1,East,Net Banking,New,5980.66,12,December,4,2025,Friday
+ORD00777,CUST0125,2025-12-27,Laptop,Electronics,1,69287.68,0.05,West,Credit Card,Returning,65823.3,12,December,4,2025,Saturday
+ORD00028,CUST0220,2025-12-27,Tablet,Electronics,4,20322.8,0.0,East,Credit Card,New,81291.2,12,December,4,2025,Saturday
+ORD00972,CUST0294,2025-12-28,Office Chair,Furniture,1,9028.59,0.0,East,Debit Card,Returning,9028.59,12,December,4,2025,Sunday
+ORD00341,CUST0268,2025-12-28,Mouse,Accessories,2,973.33,0.0,North,Credit Card,New,1946.66,12,December,4,2025,Sunday
+ORD01459,CUST0261,2025-12-28,Backpack,Accessories,2,2320.06,0.0,South,Net Banking,New,4640.12,12,December,4,2025,Sunday
+ORD01165,CUST0215,2025-12-28,Laptop,Electronics,4,64121.68,0.05,North,Credit Card,New,243662.38,12,December,4,2025,Sunday
+ORD00444,CUST0154,2025-12-28,Desk,Furniture,1,11806.68,0.1,West,UPI,Returning,10626.01,12,December,4,2025,Sunday
+ORD00114,CUST0190,2025-12-29,Tablet,Electronics,2,20006.65,0.0,North,UPI,Returning,40013.3,12,December,4,2025,Monday
+ORD01070,CUST0061,2025-12-29,Tablet,Electronics,3,23871.27,0.1,North,UPI,Returning,64452.43,12,December,4,2025,Monday
+ORD00107,CUST0226,2025-12-30,Keyboard,Accessories,4,1699.02,0.15,West,Credit Card,Returning,5776.67,12,December,4,2025,Tuesday
+ORD01001,CUST0101,2025-12-30,Keyboard,Accessories,3,1936.86,0.0,South,Net Banking,VIP,5810.58,12,December,4,2025,Tuesday
+ORD00667,CUST0029,2025-12-30,Headphones,Electronics,1,3592.68,0.0,West,Net Banking,Returning,3592.68,12,December,4,2025,Tuesday
+ORD00026,CUST0217,2025-12-30,Monitor,Electronics,4,13653.53,0.0,South,UPI,Returning,54614.12,12,December,4,2025,Tuesday
+ORD01390,CUST0092,2025-12-30,Mouse,Accessories,4,936.56,0.0,East,Debit Card,New,3746.24,12,December,4,2025,Tuesday
+ORD00274,CUST0111,2025-12-30,Desk,Furniture,2,12139.3,0.1,North,UPI,Returning,21850.74,12,December,4,2025,Tuesday
+ORD00616,CUST0201,2025-12-30,Office Chair,Furniture,1,9072.05,0.0,East,UPI,New,9072.05,12,December,4,2025,Tuesday
+ORD00311,CUST0042,2025-12-31,Monitor,Electronics,2,14821.13,0.0,East,UPI,Returning,29642.26,12,December,4,2025,Wednesday
+ORD00669,CUST0173,2025-12-31,Backpack,Accessories,2,2115.31,0.05,South,UPI,Returning,4019.09,12,December,4,2025,Wednesday
+ORD01192,CUST0047,2025-12-31,Backpack,Accessories,3,2087.67,0.0,South,Debit Card,Returning,6263.01,12,December,4,2025,Wednesday

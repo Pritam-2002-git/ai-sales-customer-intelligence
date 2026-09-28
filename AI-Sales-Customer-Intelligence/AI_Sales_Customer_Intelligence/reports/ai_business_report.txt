@@ -1,0 +1,25 @@
+**BUSINESS INTELLIGENCE REPORT**
+
+**1. SALES PERFORMANCE**
+*   **Total Revenue:** ₹59,823,398.59 across 1,500 orders.
+*   **Average Order Value (Overall):** Approximately ₹39,882.
+*   **Peak Performance:** August was the highest revenue month, with the North region leading overall sales.
+
+**2. CUSTOMER BEHAVIOR**
+*   **Top Drivers:** Electronics (Category) and Laptops (Product) are the primary revenue engines.
+*   **High-Value Segment (Cluster 3):** The most active group with the highest average orders (7.92) and high average revenue (₹365,083.30).
+*   **Premium Segment (Cluster 0):** Maintains the highest average order value at ₹87,444.97.
+
+**3. CHURN RISK**
+*   **At-Risk Volume:** 63 customers are identified as churn-risk, with 51 customers falling into the "At-Risk" segment.
+*   **Critical Segment (Cluster 2):** This group shows the highest instability with an average inactivity period of 183.51 days and the lowest average orders (2.57).
+
+**4. KEY INSIGHTS**
+*   **Revenue Concentration:** Sales are heavily driven by high-ticket items (Laptops) in the North region.
+*   **Engagement Gap:** There is a stark contrast between the most active customers (Cluster 3: 41.63 days inactive) and the at-risk customers (Cluster 2: 183.51 days inactive).
+*   **Customer Base:** A small number of customers (298) are generating significant revenue, indicating a high reliance on a limited customer base.
+
+**5. ACTIONABLE RECOMMENDATIONS**
+*   **Win-Back Campaign:** Launch a targeted re-engagement campaign specifically for Cluster 2 to reduce the 183-day inactivity gap.
+*   **Regional Expansion:** Analyze the North region's success factors to replicate growth in other underperforming regions.
+*   **Loyalty Program:** Implement a VIP rewards program for Cluster 3 and Cluster 0 to maintain their high order frequency and average order value.
